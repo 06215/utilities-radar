@@ -1,0 +1,50 @@
+# Para ADICIONAR uma fonte: copie uma linha e mude nome/dominio.
+# tipo: oficial | wire | especializada | geral
+# idioma: pt | en | todos
+fontes:
+  - {nome: ANEEL, dominio: gov.br/aneel, tipo: oficial, idioma: todos}
+  - {nome: ONS, dominio: ons.org.br, tipo: oficial, idioma: todos}
+  - {nome: CCEE, dominio: ccee.org.br, tipo: oficial, idioma: todos}
+  - {nome: EPE, dominio: epe.gov.br, tipo: oficial, idioma: todos}
+  - {nome: MME, dominio: gov.br/mme, tipo: oficial, idioma: todos}
+  - {nome: ANP, dominio: gov.br/anp, tipo: oficial, idioma: todos}
+  - {nome: ANA, dominio: gov.br/ana, tipo: oficial, idioma: todos}
+  - {nome: TCU, dominio: tcu.gov.br, tipo: oficial, idioma: pt}
+  - {nome: CADE, dominio: gov.br/cade, tipo: oficial, idioma: pt}
+  - {nome: BNDES, dominio: bndes.gov.br, tipo: oficial, idioma: pt}
+  - {nome: Câmara, dominio: camara.leg.br, tipo: oficial, idioma: pt}
+  - {nome: Senado, dominio: senado.leg.br, tipo: oficial, idioma: pt}
+  - {nome: Diário Oficial da União, dominio: in.gov.br, tipo: oficial, idioma: pt}
+  - {nome: Reuters, dominio: reuters.com, tipo: wire, idioma: todos}
+  - {nome: Bloomberg, dominio: bloomberg.com, tipo: wire, idioma: todos}
+  - {nome: Financial Times, dominio: ft.com, tipo: wire, idioma: en}
+  - {nome: Utility Dive, dominio: utilitydive.com, tipo: especializada, idioma: en}
+  - {nome: S&P Global, dominio: spglobal.com, tipo: especializada, idioma: en}
+  - {nome: Argus, dominio: argusmedia.com, tipo: especializada, idioma: en}
+  - {nome: Energy Storage News, dominio: energy-storage.news, tipo: especializada, idioma: en}
+  - {nome: PV Magazine Brasil, dominio: pv-magazine-brasil.com, tipo: especializada, idioma: pt}
+  - {nome: Recharge News, dominio: rechargenews.com, tipo: especializada, idioma: en}
+  - {nome: Rigzone, dominio: rigzone.com, tipo: especializada, idioma: en}
+  - {nome: Oilprice, dominio: oilprice.com, tipo: especializada, idioma: en}
+  - {nome: Eixos, dominio: eixos.com.br, tipo: especializada, idioma: pt}
+  - {nome: CanalEnergia, dominio: canalenergia.com.br, tipo: especializada, idioma: pt}
+  - {nome: Brasil Energia, dominio: brasilenergia.com.br, tipo: especializada, idioma: pt}
+  - {nome: epbr, dominio: epbr.com.br, tipo: especializada, idioma: pt}
+  - {nome: Agência Infra, dominio: agenciainfra.com, tipo: especializada, idioma: pt}
+  - {nome: Energia Hoje, dominio: energiahoje.com, tipo: especializada, idioma: pt}
+  - {nome: Canal Solar, dominio: canalsolar.com.br, tipo: especializada, idioma: pt}
+  - {nome: NovaCana, dominio: novacana.com, tipo: especializada, idioma: pt}
+  - {nome: Valor Econômico, dominio: valor.globo.com, tipo: geral, idioma: pt}
+  - {nome: Brazil Journal, dominio: braziljournal.com, tipo: geral, idioma: pt}
+  - {nome: InfoMoney, dominio: infomoney.com.br, tipo: geral, idioma: pt}
+  - {nome: Exame, dominio: exame.com, tipo: geral, idioma: pt}
+  - {nome: Estadão, dominio: estadao.com.br, tipo: geral, idioma: pt}
+  - {nome: Folha, dominio: folha.uol.com.br, tipo: geral, idioma: pt}
+  - {nome: O Globo, dominio: oglobo.globo.com, tipo: geral, idioma: pt}
+  - {nome: CNN Brasil, dominio: cnnbrasil.com.br, tipo: geral, idioma: pt}
+  - {nome: Poder360, dominio: poder360.com.br, tipo: geral, idioma: pt}
+  - {nome: Money Times, dominio: moneytimes.com.br, tipo: geral, idioma: pt}
+  - {nome: Seu Dinheiro, dominio: seudinheiro.com, tipo: geral, idioma: pt}
+  - {nome: NeoFeed, dominio: neofeed.com.br, tipo: geral, idioma: pt}
+  - {nome: Investing, dominio: br.investing.com, tipo: geral, idioma: pt}
+  - {nome: Agência Brasil, dominio: agenciabrasil.ebc.com.br, tipo: geral, idioma: pt}
