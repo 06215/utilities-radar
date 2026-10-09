@@ -21,8 +21,5 @@ empresas:
   - {nome: Copasa, ticker: CSMG3, setor: Saneamento, busca: Copasa, apelidos: [copasa]}
   - {nome: Sanepar, ticker: SAPR11, setor: Saneamento, busca: Sanepar, apelidos: [sanepar]}
   - {nome: Aegea, ticker: '', setor: Saneamento, busca: Aegea Saneamento, apelidos: [aegea]}
-  - {nome: Petrobras, ticker: PETR4, setor: Petróleo & Gás, busca: Petrobras, apelidos: [petrobras]}
-  - {nome: PRIO, ticker: PRIO3, setor: Petróleo & Gás, busca: PRIO petróleo, apelidos: [prio]}
-  - {nome: PetroReconcavo, ticker: RECV3, setor: Petróleo & Gás, busca: PetroReconcavo, apelidos: [petroreconcavo, petrorecôncavo]}
   - {nome: Vibra, ticker: VBBR3, setor: Petróleo & Gás, busca: Vibra Energia, apelidos: [vibra energia, vibra]}
   - {nome: Ultrapar, ticker: UGPA3, setor: Petróleo & Gás, busca: Ultrapar, apelidos: [ultrapar, ultragaz]}
