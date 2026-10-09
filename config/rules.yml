@@ -1,6 +1,7 @@
+# Regras de classificação (regex, sem diferenciar maiúsculas). Ajuste livremente.
 setores:
-  Energia: 'energia|elétric|eletric|aneel|\bons\b|ccee|\bpld\b|transmiss|distribuidora|geraç|geracao|hidrelétr|solar|eólic|eolic|termelétr|armazenamento|mercado livre|bandeira tarif|curtailment|usina'
-  Saneamento: 'saneamento|água e esgoto|esgoto|abastecimento de água|\bana\b'
+  Energia: '^(?!.*(?:petrobras|\bprio\b|petróleo|petroleo|\boil\b|refin|combustíve|combustive|pré-sal|pre-sal|\banp\b|royalt|vibra energia|ultrapar|ultragaz|petroreconcavo|brent|gás natural|gas natural)).*(?:energia|elétric|eletric|aneel|\bons\b|ccee|\bpld\b|transmiss|distribuidora|geraç|geracao|hidrelétr|solar|eólic|eolic|termelétr|armazenamento|mercado livre|bandeira tarif|curtailment|usina)'
+  Saneamento: '^(?!.*(?:petrobras|\bprio\b|petróleo|petroleo|\boil\b|refin|combustíve|combustive|pré-sal|pre-sal|\banp\b|royalt|vibra energia|ultrapar|ultragaz|petroreconcavo|brent|gás natural|gas natural)).*(?:saneamento|água e esgoto|esgoto|abastecimento de água|\bana\b)'
 categorias:
   Regulação:     [3, 'aneel|regula|resolução|resolucao|portaria|decreto|medida provisória|consulta pública|audiência pública|\btcu\b|\bcade\b|legisla|projeto de lei']
   Tarifas:       [3, 'tarifa|reajuste|revisão tarifária|revisao tarifaria|bandeira']
