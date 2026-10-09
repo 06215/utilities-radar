@@ -1,59 +1,81 @@
 <!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Utilities Daily News Radar</title>
+<meta name="theme-color" content="#0a0c10"><title>Radar de Utilities</title>
 <style>
-:root{--bg:#0b0d10;--card:#14181d;--bd:#232a33;--tx:#d7dde5;--mut:#7d8896;--g:#3ddc84;--c:#38bdf8;--r:#ff5c5c;--y:#f5c542}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:14px/1.45 ui-monospace,Menlo,Consolas,monospace;padding:env(safe-area-inset-top) 10px 40px}
-h1{font-size:15px;color:var(--g);margin:12px 0 2px}h2{font-size:12px;letter-spacing:.08em;color:var(--c);margin:18px 0 8px;text-transform:uppercase}
-.sub{color:var(--mut);font-size:11px}.bar{display:flex;gap:6px;overflow-x:auto;padding:8px 0;position:sticky;top:0;background:var(--bg);z-index:2}
-.chip{flex:none;border:1px solid var(--bd);background:var(--card);color:var(--tx);padding:7px 11px;border-radius:16px;font:inherit;font-size:12px}
-.chip.on{border-color:var(--g);color:var(--g)}select{width:100%;background:var(--card);color:var(--tx);border:1px solid var(--bd);padding:9px;border-radius:8px;font:inherit}
-.card{background:var(--card);border:1px solid var(--bd);border-left:3px solid var(--bd);border-radius:8px;padding:10px;margin:8px 0}
-.card.alta{border-left-color:var(--r)}.card.media{border-left-color:var(--y)}.card.baixa{border-left-color:var(--g)}
-.t{font-weight:700;font-size:14px}.m{color:var(--mut);font-size:11px;margin:4px 0}.k{color:var(--c);font-size:11px;margin-top:6px}
-.tag{display:inline-block;border:1px solid var(--bd);border-radius:4px;padding:0 5px;margin:0 4px 2px 0;font-size:11px}
-a{color:var(--c)}details>summary{cursor:pointer;color:var(--mut);padding:8px 0}.pw{color:var(--y);font-size:11px}
-.co{margin:6px 0}.co b{color:var(--g)}.co div{font-size:12px;margin-left:10px}
+:root{--bg:#0a0c10;--sf:#12161c;--sf2:#181e26;--ln:#222a35;--tx:#eef2f7;--mu:#8b97a8;--ac:#4ade80;--alta:#ff6b6b;--media:#f5b942;--baixa:#64748b;--pos:#4ade80;--neg:#ff6b6b;--inc:#8b97a8}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:max(env(safe-area-inset-top),14px) 14px 48px;max-width:640px;margin-inline:auto}
+header{margin:6px 0 14px}h1{font-size:22px;margin:0;letter-spacing:-.02em}.sub{color:var(--mu);font-size:13px;margin-top:2px}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:14px 0}
+.st{background:var(--sf);border:1px solid var(--ln);border-radius:14px;padding:10px 12px}.st b{display:block;font-size:24px;line-height:1.1}.st span{font-size:12px;color:var(--mu)}
+.bar{display:flex;gap:8px;overflow-x:auto;padding:4px 0 10px;position:sticky;top:0;background:linear-gradient(var(--bg) 85%,transparent);z-index:3;scrollbar-width:none}.bar::-webkit-scrollbar{display:none}
+.chip{flex:none;border:1px solid var(--ln);background:var(--sf);color:var(--tx);padding:8px 14px;border-radius:999px;font:inherit;font-size:13px}
+.chip.on{background:var(--ac);color:#04210f;border-color:var(--ac);font-weight:600}
+select{width:100%;background:var(--sf);color:var(--tx);border:1px solid var(--ln);padding:11px 12px;border-radius:12px;font:inherit;font-size:14px;margin-bottom:6px}
+h2{font-size:13px;color:var(--mu);font-weight:600;letter-spacing:.06em;text-transform:uppercase;margin:24px 2px 10px}
+.card{background:var(--sf);border:1px solid var(--ln);border-radius:16px;padding:14px;margin:10px 0;position:relative;overflow:hidden}
+.card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--baixa)}.card.alta::before{background:var(--alta)}.card.media::before{background:var(--media)}
+.top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:12px;color:var(--mu)}
+.pill{font-weight:700;padding:2px 9px;border-radius:999px;font-size:11px;color:#111}.pill.alta{background:var(--alta)}.pill.media{background:var(--media)}.pill.baixa{background:var(--baixa);color:#fff}
+.imp.pos{color:var(--pos)}.imp.neg{color:var(--neg)}.imp.inc{color:var(--inc)}
+.t{font-size:16px;font-weight:650;line-height:1.35;margin:8px 0 4px;letter-spacing:-.01em}
+.sm{color:var(--mu);font-size:14px;margin:0 0 8px}.sm.vz{font-style:italic}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}.tag{font-size:12px;padding:3px 9px;border-radius:8px;background:var(--sf2);border:1px solid var(--ln)}.tag.co{color:var(--ac);border-color:#1d4d33}
+details.mais>summary{cursor:pointer;color:var(--ac);font-size:13px;padding:8px 0 2px;list-style:none}details.mais>summary::-webkit-details-marker{display:none}
+.bx{background:var(--sf2);border-radius:12px;padding:10px 12px;margin-top:8px;font-size:14px}.bx b{display:block;font-size:12px;color:var(--mu);font-weight:600;margin-bottom:2px}
+a{color:#7dd3fc}.src a{display:inline-block;margin:2px 10px 2px 0}.pw{color:var(--media);font-size:12px;margin-top:6px}
+details.gr{background:var(--sf);border:1px solid var(--ln);border-radius:14px;margin:8px 0;padding:0 14px}details.gr>summary{padding:12px 0;cursor:pointer;display:flex;justify-content:space-between}
+details.gr p{margin:0 0 10px;font-size:14px}.n{color:var(--mu)}
+.vazio{color:var(--mu);text-align:center;padding:28px 10px}.ft{color:var(--mu);font-size:12px;margin-top:26px}
 </style></head><body>
-<h1>▮ UTILITIES DAILY NEWS RADAR</h1><div class="sub" id="ts">carregando…</div>
+<header><h1>Radar de Utilities</h1><div class="sub" id="ts">Carregando…</div></header>
+<div class="stats" id="st"></div>
 <div class="bar" id="f"></div><select id="emp"><option value="">Todas as empresas</option></select>
-<div id="app"></div>
+<main id="app"></main><div class="ft" id="ft"></div>
 <script>
-const FILT=[["Todos",e=>1],["Energia",e=>e.setores.includes("Energia")],["Saneamento",e=>e.setores.includes("Saneamento")],
-["Petróleo & Gás",e=>e.setores.includes("Petróleo & Gás")],["Regulação",e=>e.categorias.includes("Regulação")],
-["M&A",e=>e.categorias.includes("M&A")],["Corporativo",e=>e.categorias.some(c=>["Resultados","Capex","Dívida/Rating","Dividendos","Governança","M&A"].includes(c))],
-["Commodities",e=>e.categorias.includes("Commodities")],["Alta",e=>e.relevancia=="alta"],["Média",e=>e.relevancia=="media"]];
-let D,fi=0;const $=id=>document.getElementById(id);
-const el=(t,c,x)=>{const n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n};
-const RL={alta:"🔴 Alta",media:"🟡 Média",baixa:"🟢 Baixa"};
-const safe=u=>/^https?:\/\//.test(u)?u:"#";
-function link(p,s){const a=el("a",0,s.nome);a.href=safe(s.link);a.target="_blank";a.rel="noopener";p.append(a," ")}
-function card(e){const c=el("div","card "+e.relevancia);c.append(el("div","t",e.titulo));
- const d=e.data?new Date(e.data).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"data não identificada";
- c.append(el("div","m",`${RL[e.relevancia]} · ${d} · Impacto: ${e.impacto}`));
- const tg=el("div");[...e.categorias,...e.setores].forEach(x=>tg.append(el("span","tag",x)));c.append(tg);
- const ln=(k,v)=>{const x=el("div","k",k);c.append(x,el("div",0,v))};
- ln("Empresas",(e.empresas.join(", ")||"Não identificado na fonte")+(e.tickers.length?" ("+e.tickers.join(", ")+")":""));
- ln("Resumo",e.resumo);ln("Por que importa (automático)",e.por_que);
- const f=el("div","k","Fontes");c.append(f);const fs=el("div");e.fontes.forEach(s=>link(fs,s));c.append(fs);
- if(e.fonte_primaria){const p=el("div","k","Fonte primária: ");link(p,e.fonte_primaria);c.append(p)}
- if(e.paywall)c.append(el("div","pw","Conteúdo completo pode estar indisponível devido a paywall."));return c}
-function render(){const ef=$("emp").value,fn=FILT[fi][1],A=$("app");A.replaceChildren();
- const ok=e=>fn(e)&&(!ef||e.empresas.includes(ef));
- const main=D.eventos.filter(e=>e.relevancia!="baixa"&&ok(e)),low=D.eventos.filter(e=>e.relevancia=="baixa"&&ok(e));
- if(fi==0&&!ef){A.append(el("h2",0,"O que mudou hoje"));const t=D.o_que_mudou.map(i=>D.eventos[i]);
-  t.length?t.forEach(e=>A.append(card(e))):A.append(el("div","sub","Sem eventos de alta/média relevância."));
-  A.append(el("h2",0,"Empresas no radar"));const by={};main.forEach(e=>e.empresas.forEach(n=>(by[n]=by[n]||[]).push(e)));
-  Object.keys(by).sort().forEach(n=>{const b=el("div","co");b.append(el("b",0,n));by[n].forEach(e=>b.append(el("div",0,"• "+e.titulo)));A.append(b)});
-  A.append(el("h2",0,"Todas · alta e média"))}
- main.forEach(e=>A.append(card(e)));if(!main.length)A.append(el("div","sub","Nada nesse filtro."));
- const dt=el("details");dt.append(el("summary",0,`Monitoramento (${low.length})`));low.forEach(e=>dt.append(card(e)));A.append(dt);
- const er=D.coleta.filter(r=>r.erro);const s=el("details");s.append(el("summary",0,`Status da coleta: ${D.coleta.length-er.length}/${D.coleta.length} consultas ok`));
- er.forEach(r=>s.append(el("div","sub",`${r.consulta}: ${r.erro}`)));A.append(s)}
-FILT.forEach(([n],i)=>{const b=el("button","chip"+(i?"":" on"),n);b.onclick=()=>{fi=i;document.querySelectorAll(".chip").forEach((x,j)=>x.classList.toggle("on",j==i));render()};$("f").append(b)});
-$("emp").onchange=render;
+const $=s=>document.querySelector(s);
+const h=(t,c,x)=>{const n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n};
+const REL={alta:"Alta",media:"Média",baixa:"Monitorar"};
+const IMP={Positivo:["▲ Positivo","pos"],Negativo:["▼ Negativo","neg"],Incerto:["● Incerto","inc"]};
+const has=(e,c)=>e.categorias.includes(c);
+const FIL=[["Todos",e=>1],["Alta",e=>e.relevancia=="alta"],["Energia",e=>e.setores.includes("Energia")],["Saneamento",e=>e.setores.includes("Saneamento")],["Regulação",e=>has(e,"Regulação")],["Tarifas",e=>has(e,"Tarifas")],["M&A",e=>has(e,"M&A")],["Resultados",e=>has(e,"Resultados")]];
+let D,fi=0;
+const hm=d=>d.toLocaleTimeString("pt-BR",{hour:"2-digit",minute:"2-digit"});
+function quando(iso){if(!iso)return"sem data";const d=new Date(iso),n=new Date(),o=new Date(n);o.setDate(n.getDate()-1);
+ const dia=d.toDateString()==n.toDateString()?"Hoje":d.toDateString()==o.toDateString()?"Ontem":d.toLocaleDateString("pt-BR",{day:"2-digit",month:"2-digit"});return dia+" · "+hm(d)}
+function lk(p,s){const a=h("a",0,s.nome);a.href=/^https?:\/\//.test(s.link)?s.link:"#";a.target="_blank";a.rel="noopener";p.append(a)}
+function card(e){const c=h("article","card "+e.relevancia),top=h("div","top");
+ top.append(h("span","pill "+e.relevancia,REL[e.relevancia]),h("span",0,quando(e.data)));
+ const im=IMP[e.impacto]||IMP.Incerto;top.append(h("span","imp "+im[1],im[0]));c.append(top,h("div","t",e.titulo));
+ const vz=e.resumo.startsWith("Não identificado");c.append(h("p","sm"+(vz?" vz":""),vz?"Só a manchete está disponível. Abra a fonte para ler.":e.resumo));
+ const tg=h("div","tags");e.empresas.forEach(n=>tg.append(h("span","tag co",n)));e.categorias.slice(0,3).forEach(n=>tg.append(h("span","tag",n)));c.append(tg);
+ const d=h("details","mais");d.append(h("summary",0,"Por que importa e fontes"));
+ const b1=h("div","bx");b1.append(h("b",0,"POR QUE IMPORTA (resumo automático)"),h("span",0,e.por_que));
+ const b2=h("div","bx src");b2.append(h("b",0,"FONTES"));
+ if(e.fonte_primaria){const p=h("div");p.append(h("span","n","Fonte primária: "));lk(p,e.fonte_primaria);b2.append(p)}
+ const fs=h("div");e.fontes.forEach(s=>lk(fs,s));b2.append(fs);
+ if(e.tickers.length)b1.append(h("div","n","Tickers: "+e.tickers.join(", ")));
+ if(e.paywall)b2.append(h("div","pw","Alguma fonte pode ter paywall; o conteúdo completo pode estar indisponível."));
+ d.append(b1,b2);c.append(d);return c}
+function sec(t,L,A){if(!L.length)return;A.append(h("h2",0,t));L.forEach(e=>A.append(card(e)))}
+function render(){const A=$("#app");A.replaceChildren();const emp=$("#emp").value,f=FIL[fi][1];
+ const ok=e=>f(e)&&(!emp||e.empresas.includes(emp));
+ const vis=D.eventos.filter(e=>e.relevancia!="baixa"&&ok(e)),low=D.eventos.filter(e=>e.relevancia=="baixa"&&ok(e));
+ if(!D.eventos.length)A.append(h("div","vazio","Nenhuma notícia relevante de Utilities nas últimas 24–36 horas."));
+ else if(fi||emp){sec("Notícias",vis,A);if(!vis.length)A.append(h("div","vazio","Nada neste filtro."))}
+ else{const H=new Set(D.o_que_mudou.map(i=>D.eventos[i]));
+  sec("Destaques de hoje",D.o_que_mudou.map(i=>D.eventos[i]),A);
+  const by={};vis.forEach(e=>e.empresas.forEach(n=>(by[n]=by[n]||[]).push(e)));const ns=Object.keys(by).sort();
+  if(ns.length){A.append(h("h2",0,"Por empresa"));ns.forEach(n=>{const g=h("details","gr"),s=h("summary");s.append(h("span",0,n),h("span","n",by[n].length+" notícia(s)"));g.append(s);by[n].forEach(e=>g.append(h("p",0,"• "+e.titulo)));A.append(g)})}
+  sec("Outras notícias",vis.filter(e=>!H.has(e)),A)}
+ if(low.length){const g=h("details","gr"),s=h("summary");s.append(h("span",0,"Monitoramento"),h("span","n",low.length));g.append(s);low.forEach(e=>g.append(h("p",0,"• "+e.titulo)));A.append(g)}}
+FIL.forEach(([n],i)=>{const b=h("button","chip"+(i?"":" on"),n);b.onclick=()=>{fi=i;document.querySelectorAll(".chip").forEach((x,j)=>x.classList.toggle("on",j==i));render()};$("#f").append(b)});
+$("#emp").onchange=()=>render();
 fetch("data/news.json?"+Date.now()).then(r=>r.json()).then(d=>{D=d;
- $("ts").textContent="Atualizado em "+new Date(d.gerado_em).toLocaleString("pt-BR")+" · janela ~24-36h";
- d.empresas.forEach(c=>{const o=el("option",0,c.nome);o.value=c.nome;$("emp").append(o)});render()})
- .catch(()=>{$("ts").textContent="Ainda sem dados. Rode o workflow (veja o README)."});
+ $("#ts").textContent="Atualizado "+quando(d.gerado_em).toLowerCase();
+ const a=d.eventos.filter(e=>e.relevancia=="alta").length,m=d.eventos.filter(e=>e.relevancia=="media").length,c=new Set(d.eventos.flatMap(e=>e.empresas)).size;
+ [[a,"Alta"],[m,"Média"],[c,"Empresas"]].forEach(([v,l])=>{const t=h("div","st");t.append(h("b",0,String(v)),h("span",0,l));$("#st").append(t)});
+ d.empresas.forEach(x=>{const o=h("option",0,x.nome);o.value=x.nome;$("#emp").append(o)});
+ const er=d.coleta.filter(r=>r.erro).length;$("#ft").textContent=`Fontes consultadas: ${d.coleta.length-er} de ${d.coleta.length} responderam. Classificação automática por palavras-chave; confirme na fonte.`;
+ render()}).catch(()=>{$("#ts").textContent="Ainda sem dados. Rode o workflow no GitHub."});
 </script></body></html>
