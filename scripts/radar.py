@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Utilities Daily News Radar: coleta -> filtra -> classifica -> agrupa -> docs/data/news.json"""
-import html, json, os, pathlib, re, sys, urllib.parse, datetime as dt
+import html, json, os, pathlib, re, sys, time, urllib.parse, urllib.request, urllib.robotparser, datetime as dt
 from email.utils import parsedate_to_datetime
 import feedparser, yaml
 
@@ -37,13 +37,41 @@ def gnews(q):
     return "https://news.google.com/rss/search?" + urllib.parse.urlencode(
         {"q": q, "hl": "pt-BR", "gl": "BR", "ceid": "BR:pt-419"})
 
-def queries(srcs, cos):
-    kw = {"pt": "(energia OR elétrica OR saneamento OR petróleo OR gás OR Sabesp OR Eletrobras OR Petrobras)",
-          "en": "(Brazil (power OR utility OR electricity OR oil OR gas OR Petrobras OR Eletrobras))", "todos": ""}
-    for s in srcs:
-        yield "fonte", s["nome"], f"site:{s['dominio']} {kw[s['idioma']]} when:2d".replace("  ", " ")
-    for c in cos:
-        yield "empresa", c["nome"], f"({c['busca']}) when:2d"
+OFFLINE = lambda: os.environ.get("RADAR_OFFLINE")
+ROBOTS = {}
+FEEDRX = re.compile(r"<link[^>]+type=[\"']application/(?:rss|atom)\+xml[\"'][^>]*>", re.I)
+
+def http(url, t=12):
+    return urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=t).read()
+
+def allowed(url):                      # respeita robots.txt
+    p = urllib.parse.urlparse(url); base = f"{p.scheme}://{p.netloc}"
+    if base not in ROBOTS:
+        try:
+            rp = urllib.robotparser.RobotFileParser(); rp.parse(http(base + "/robots.txt").decode("utf-8", "ignore").splitlines())
+        except Exception: rp = None    # sem robots.txt legível = permitido
+        ROBOTS[base] = rp
+    rp = ROBOTS[base]
+    return rp is None or rp.can_fetch(UA, url)
+
+def discover(home):                    # acha o RSS do site (publico)
+    if OFFLINE(): return home
+    if not allowed(home): raise RuntimeError("bloqueado pelo robots.txt")
+    page = http(home).decode("utf-8", "ignore")
+    for tag in FEEDRX.findall(page):
+        m = re.search(r"href=[\"']([^\"']+)", tag)
+        if m: return urllib.parse.urljoin(home, html.unescape(m.group(1)))
+    for p in ("feed/", "rss/", "feed"):
+        u = urllib.parse.urljoin(home if home.endswith("/") else home + "/", p)
+        try:
+            if allowed(u) and feedparser.parse(http(u)).entries: return u
+        except Exception: pass
+    raise RuntimeError("sem RSS encontrado")
+
+def feed_entries(url):
+    if OFFLINE(): return feedparser.parse(OFFLINE()).entries
+    if not allowed(url): raise RuntimeError("bloqueado pelo robots.txt")
+    return feedparser.parse(http(url)).entries[:80]
 
 def fetch(url):
     return feedparser.parse(os.environ.get("RADAR_OFFLINE") or url, agent=UA)
@@ -65,33 +93,52 @@ def main():
     alta_rx, pos_rx, neg_rx = rx(R["termos_alta"]), rx(R["impacto_positivo"]), rx(R["impacto_negativo"])
     co_rx = [(c, rx(r"\b(" + "|".join(re.escape(a) for a in c["apelidos"]) + r")\b")) for c in cos]
     raw, report = {}, []
-    for kind, name, q in queries(srcs, cos):
-        try:
-            f = fetch(gnews(q)); n = len(f.entries)
-            if n == 0 and f.get("bozo") and not os.environ.get("RADAR_OFFLINE"):
-                raise RuntimeError(str(f.get("bozo_exception"))[:100])
-            report.append({"consulta": name, "tipo": kind, "itens": n, "erro": None})
-        except Exception as ex:
-            report.append({"consulta": name, "tipo": kind, "itens": 0, "erro": str(ex)[:120]}); continue
-        for e in f.entries:
+
+    def ingest(entries, name, kind, tipo_hint=None, co=None):
+        for e in entries:
             d = when(e)
             if d and (now - d).total_seconds() > HORAS * 3600: continue
             titulo = clean(e.get("title", ""))
-            veic = clean((e.get("source") or {}).get("title", "")) or (name if kind == "fonte" else "")
+            veic = clean((e.get("source") or {}).get("title", "")) or (name if kind != "empresa" else "")
             if veic and titulo.endswith(" - " + veic): titulo = titulo[: -len(veic) - 3]
             link = e.get("link", "")
             if not titulo or not link: continue
             resumo = clean(e.get("summary", ""))
             if len(resumo) < 40 or resumo.lower().startswith(titulo.lower()[:40]): resumo = ""
             s = by_name.get(veic.lower())
-            tipo = s["tipo"] if s else ("oficial" if re.search(r"gov\.br|\.leg\.br|\.jus\.br", link) else "geral")
+            tipo = (s["tipo"] if s else tipo_hint) or ("oficial" if re.search(r"gov\.br|\.leg\.br|\.jus\.br", link) else "geral")
             raw.setdefault(link, dict(titulo=titulo, link=link, veiculo=veic or "Não identificado na fonte",
-                                      tipo=tipo, data=d.isoformat() if d else None, resumo=resumo))
+                                      tipo=tipo, data=d.isoformat() if d else None, resumo=resumo, co=co))
+
+    def rep(nome, tipo, via, n, erro=None, obs=None):
+        report.append({"consulta": nome, "tipo": tipo, "via": via, "itens": n, "erro": erro, "obs": obs})
+
+    for s in srcs:                                   # 1) entra direto no site (RSS) 2) senão, Google News
+        time.sleep(0.3); obs = None
+        try:
+            ents = feed_entries(s.get("feed") or discover("https://" + s["dominio"]))
+            if not ents: raise RuntimeError("feed vazio")
+            ingest(ents, s["nome"], "direto", s["tipo"]); rep(s["nome"], "fonte", "direto", len(ents)); continue
+        except Exception as ex: obs = str(ex)[:80]
+        try:
+            kw = {"pt": "(energia OR elétrica OR saneamento OR Sabesp OR Eletrobras)", "en": "(Brazil (power OR utility OR electricity))", "todos": ""}[s["idioma"]]
+            f = fetch(gnews(f"site:{s['dominio']} {kw} when:2d".replace("  ", " ")))
+            ingest(f.entries, s["nome"], "google", s["tipo"]); rep(s["nome"], "fonte", "google", len(f.entries), None, obs)
+        except Exception as ex: rep(s["nome"], "fonte", "-", 0, str(ex)[:120], obs)
+    for c in cos:
+        try:                                         # notícias da empresa (Google News)
+            f = fetch(gnews(f"({c['busca']}) when:2d")); ingest(f.entries, c["nome"], "empresa", None); rep(c["nome"], "empresa", "google", len(f.entries))
+        except Exception as ex: rep(c["nome"], "empresa", "-", 0, str(ex)[:120])
+        for url in ([c["ri"]] if c.get("ri") else []):   # site de RI (opcional: campo ri em companies.yml)
+            try:
+                ents = feed_entries(discover(url)); ingest(ents, c["nome"] + " (RI)", "direto", "ri", c); rep(c["nome"] + " (RI)", "ri", "direto", len(ents))
+            except Exception as ex: rep(c["nome"] + " (RI)", "ri", "-", 0, str(ex)[:120])
     itens = []
     for it in raw.values():
         txt = it["titulo"] + " " + it["resumo"]
         setores = [k for k, r in setor_rx.items() if r.search(txt)]
         emp = [c for c, r in co_rx if r.search(txt)]
+        if it.get("co") and it["co"] not in emp: emp.append(it["co"])
         for c in emp:
             if c["setor"] not in setores: setores.append(c["setor"])
         if not setores and not emp: continue
