@@ -1,0 +1,28 @@
+# busca = termo usado para buscar notícias da empresa
+# apelidos = nomes reconhecidos no texto
+# ticker vazio = não confirmado (não inventamos)
+empresas:
+  - {nome: Eletrobras (Axia), ticker: AXIA3, setor: Energia, busca: 'Eletrobras OR Axia Energia', apelidos: [eletrobras, axia]}
+  - {nome: Equatorial, ticker: EQTL3, setor: Energia, busca: Equatorial Energia, apelidos: [equatorial]}
+  - {nome: Energisa, ticker: ENGI11, setor: Energia, busca: Energisa, apelidos: [energisa]}
+  - {nome: CPFL, ticker: CPFE3, setor: Energia, busca: CPFL Energia, apelidos: [cpfl]}
+  - {nome: Neoenergia, ticker: NEOE3, setor: Energia, busca: Neoenergia, apelidos: [neoenergia]}
+  - {nome: Engie Brasil, ticker: EGIE3, setor: Energia, busca: Engie Brasil, apelidos: [engie]}
+  - {nome: Taesa, ticker: TAEE11, setor: Energia, busca: Taesa, apelidos: [taesa]}
+  - {nome: Auren, ticker: AURE3, setor: Energia, busca: Auren Energia, apelidos: [auren]}
+  - {nome: Copel, ticker: CPLE3, setor: Energia, busca: Copel, apelidos: [copel]}
+  - {nome: Cemig, ticker: CMIG4, setor: Energia, busca: Cemig, apelidos: [cemig]}
+  - {nome: ISA Energia, ticker: ISAE4, setor: Energia, busca: ISA Energia Brasil, apelidos: [isa energia, isa cteep, cteep]}
+  - {nome: Alupar, ticker: ALUP11, setor: Energia, busca: Alupar, apelidos: [alupar]}
+  - {nome: Eneva, ticker: ENEV3, setor: Energia, busca: Eneva, apelidos: [eneva]}
+  - {nome: Serena Energia, ticker: '', setor: Energia, busca: Serena Energia, apelidos: [serena energia]}
+  - {nome: Enel, ticker: '', setor: Energia, busca: Enel Brasil, apelidos: [enel]}
+  - {nome: Sabesp, ticker: SBSP3, setor: Saneamento, busca: Sabesp, apelidos: [sabesp]}
+  - {nome: Copasa, ticker: CSMG3, setor: Saneamento, busca: Copasa, apelidos: [copasa]}
+  - {nome: Sanepar, ticker: SAPR11, setor: Saneamento, busca: Sanepar, apelidos: [sanepar]}
+  - {nome: Aegea, ticker: '', setor: Saneamento, busca: Aegea Saneamento, apelidos: [aegea]}
+  - {nome: Petrobras, ticker: PETR4, setor: Petróleo & Gás, busca: Petrobras, apelidos: [petrobras]}
+  - {nome: PRIO, ticker: PRIO3, setor: Petróleo & Gás, busca: PRIO petróleo, apelidos: [prio]}
+  - {nome: PetroReconcavo, ticker: RECV3, setor: Petróleo & Gás, busca: PetroReconcavo, apelidos: [petroreconcavo, petrorecôncavo]}
+  - {nome: Vibra, ticker: VBBR3, setor: Petróleo & Gás, busca: Vibra Energia, apelidos: [vibra energia, vibra]}
+  - {nome: Ultrapar, ticker: UGPA3, setor: Petróleo & Gás, busca: Ultrapar, apelidos: [ultrapar, ultragaz]}
