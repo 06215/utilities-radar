@@ -1,10 +1,8 @@
-# Regras de classificação (regex, sem diferenciar maiúsculas). Ajuste livremente.
 setores:
   Energia: 'energia|elétric|eletric|aneel|\bons\b|ccee|\bpld\b|transmiss|distribuidora|geraç|geracao|hidrelétr|solar|eólic|eolic|termelétr|armazenamento|mercado livre|bandeira tarif|curtailment|usina'
   Saneamento: 'saneamento|água e esgoto|esgoto|abastecimento de água|\bana\b'
-  Petróleo & Gás: 'petróleo|petroleo|\bgás\b|gas natural|pré-sal|pre-sal|refin|combustíve|combustive|royalt|\banp\b|\bcnpe\b|brent|\boil\b|crude'
 categorias:
-  Regulação:     [3, 'aneel|regula|resolução|resolucao|portaria|decreto|medida provisória|consulta pública|audiência pública|\bcnpe\b|\btcu\b|\bcade\b|legisla|projeto de lei']
+  Regulação:     [3, 'aneel|regula|resolução|resolucao|portaria|decreto|medida provisória|consulta pública|audiência pública|\btcu\b|\bcade\b|legisla|projeto de lei']
   Tarifas:       [3, 'tarifa|reajuste|revisão tarifária|revisao tarifaria|bandeira']
   Leilões:       [3, 'leilão|leilao|auction']
   Concessões:    [3, 'concessão|concessao|concessões|caducidade|licitaç|licitac|\bppp\b']
@@ -14,7 +12,7 @@ categorias:
   Dívida/Rating: [2, 'debênture|debenture|rating|dívida|divida|bond|follow-on|\bipo\b']
   Dividendos:    [2, 'dividendo|juros sobre capital|\bjcp\b|proventos|recompra']
   Governança:    [2, 'conselho de administração|\bceo\b|presidente da|governança|assembleia|acionista']
-  Commodities:   [2, 'brent|\bpld\b|preço do gás|commodit|\bwti\b']
+  Commodities:   [2, '\bpld\b|preço da energia|preço de energia|commodit']
   Macro:         [1, '\bselic\b|\bcopom\b|inflação|inflacao|\bipca\b|câmbio|cambio|dólar|dolar|\bigp-m\b|fiscal|imposto|reforma tribut']
 termos_alta: 'aprova|aprovou|caducidade|leilão|oferta pública|\bopa\b|aquisiç|fusão|privatiza|reajuste|revisão tarifária|guidance|fato relevante|rebaixa|downgrade|upgrade|multa|prejuízo|recorde|medida provisória|racionamento|crise hídrica|curtailment'
 impacto_positivo: 'aprova|aprovou|recorde|lucro (cresce|sobe|avança)|eleva|upgrade|vence|ganha|dividendo|amplia'
