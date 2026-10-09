@@ -1,44 +1,6 @@
 {
- "gerado_em": "2026-10-09T08:01:51.481250-03:00",
+ "gerado_em": "2026-10-09T08:12:35.325425-03:00",
  "eventos": [
-  {
-   "titulo": "Petrobras (PETR4) arremata 19 blocos em leilão de concessão por R$ 3 bilhões",
-   "data": "2026-10-08T17:00:40-03:00",
-   "relevancia": "alta",
-   "score": 13,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Concessões",
-    "Leilões"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Concessões definem prazo, receita e obrigações de investimento (renovação/caducidade). Leilões definem novas receitas contratadas, capex e competição entre players.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Money Times",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRlVISWFUSHluZFg5eTNXQ2hxSEh3NlZjVUpsSGU3bG90VlN6eFdESk9VXzlKeVVsbTlHd0xzRnRkZ1hyemZrOEJRU3ZkcDFNX0FIemk1dHNWUXp3b0h5MEV5MHFRd2lxLTI2d0VpR0xmOHIyMjl4c1VOUnNHSEh2X2FXVkRkSng1RHpuU3dDMGwzYVZpOGtVQ0pOYjdOVjh0eEVYLTNHTE1BZk11ckE?oc=5"
-    },
-    {
-     "nome": "Suno - Investimentos Inteligentes",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQTXN0SDlvdEZEcnVhWmhvSWVIaDBqdzB3c0hnTjhYNG1UcDVpb2xkVnFiUzJXU19BZDd2NW1RSl96ZmNFSUJMb0h2dEZrLTRQZjJmWHVhOWRkZjZxLXlvcmVOUndwcFV4YTd1TDZ0eG50aEs0VFZNU0o1Z3E4UdIBgwFBVV95cUxOcEYyNzJocmFmWEp1MWoxbktRYmdXX1ZFMWFnQmlaZzJXRmZKMHFiMnN1THA2ZWs2VlktdWttaWx5TjBBX3R5Xzh5VmIyQ180T1BTWUpPUkJwRGx5MXRxQ1VqeE1PZDJqbmx4Y2ZITlBPMVp5SFVOdWRYaXRUeUh6NXZOYw?oc=5"
-    },
-    {
-     "nome": "EuQueroInvestir",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS3pNSlAwdmpMeGpCM0RpZ3I2YUFPZFZyTVF4NUF0SC0zSEVQeURIV1V5V1d2R0pHMUtkaFgxZW1PZHplTV9oQnVWVkNKNFprMEJKOWtaeWk1WklKOHZldU5ZcUM5clB3QVRvVlVHa2RBemN0MTItV29EQ09OQUxrTHE5YXlXRmF3b3BQWEFuaW0?oc=5"
-    }
-   ]
-  },
   {
    "titulo": "Aneel promove audiência pública para debater reajuste de 22% na tarifa da CEEE Equatorial",
    "data": "2026-10-08T18:02:20-03:00",
@@ -94,110 +56,6 @@
     {
      "nome": "Rádio Peão Brasil",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1NaaWRuU1lDOG81a0Z4bWhJUTBteGJkZFZSNC1qOFV2VDB2RjVncWphMG5JYlVWQ3dpeHVMX0Rvb0tqQlV0YTZMOWdVdHlYdVhaNk80OTNKcjNIaGhsNU8xSkpNSW42MDBVX0YwNWI3QUJxLUE3VXRjOTJIX1VtUEJTWmdsaW5mUXVyczBR?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras informa sobre resultado de leilão da ANP",
-   "data": "2026-10-08T11:13:57-03:00",
-   "relevancia": "alta",
-   "score": 11,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Leilões",
-    "Resultados"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Leilões definem novas receitas contratadas, capex e competição entre players. Resultado/guidance move estimativas de EBITDA, lucro e a percepção da tese.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Agência Petrobras de Notícias",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0x5aDFPYlR3dHNYNkh6TElodlhlN21tUkVxOHAtSTFjWWx1bU1GLXoyM0ppMnNXLXk4QXN3bTJnRGlaRHo2XzdqajRvUzRRYmVFdERkR0JUOHZhLWxSOVlLcGRzaEhEUTQydEZOSmdydHdEbE1ENXRxMHpFOEdTd2ZfdEJ2OFIzeHBzcmItTFV6Tm4ybUhmOVJOWkF4OHpYMWc?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Flávio não vai privatizar Petrobras, Banco do Brasil nem Caixa, diz coordenador",
-   "data": "2026-10-08T20:00:04-03:00",
-   "relevancia": "alta",
-   "score": 11,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "M&A"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Negativo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Transações podem mudar portfólio, alavancagem, sinergias e a avaliação da empresa.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Revista Oeste",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmVIbG5pMjlRUkdrcHY3RHlRM1hybG1ReFEwRGs0N0d6R3ZrLS1aeVpZWXV2X2hsQk9sQ21uUzd3NXZJRDM2Qm9sdFV0VE01d1ZJOE5YaEhpeTZidlhDc2RTUG1LcEtwbjVlemQxVWRFa2lnenpMSWtXck5uMWpxdk9yNDZqWFh2OTR2T3lyQ0dBVUVHcC1DV0Vfb2ZHS2t3aEJ1RkNFYkw2YTJvcUgw?oc=5"
-    },
-    {
-     "nome": "Blog do BG",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVgzM3hwQm5ZVUlwcnVYOENEZlQ5bEpMR1VmUWR1SFBXeE02LWVBMVpyQ3FBR2wwdDFBMm9DR2dqMDVXaXNwTnM4RlZKeXFZSFdpLS1nN0RPdi1XM1ZuMmxkSDVfTzNkSzdCYWpzSTZwM3ZHM3RVaXpYalNwU2o2cGdRNHRZRVJEdy1jMDROVXA1Snk5dkV4bHE5aTF3blZtY3F2cmhSNkRQMnVBUXhLSzYybVd6WGpmb3Rv?oc=5"
-    },
-    {
-     "nome": "GPS Brasília",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0JXWDhWamJwUnN3M3BxWjJ2TGZlNzNUeFA4OG1BdlV0d3FGN3hmRUhNTGVnam1JRTN0U3g0LVJ6cnlTYjV4OVVfeVN4dDN1VVRiVEZvTHZleWF6dnZrbkJyWWFEVWxPM2U3cm9UZDNfaFMzU1h4bGFSb2VhWlBCUU5xbVlCQXJyUU55TElCOTR0ZXNMRGgxWlEyUTQ1QUJEUWhfVEk0QXFlSi1uTG5lUkE4VEZzTi1ySGJQakdMUWdDZw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras espera novo polo de desenvolvimento na Bacia de Campos",
-   "data": "2026-10-08T20:00:00-03:00",
-   "relevancia": "alta",
-   "score": 10,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Leilões"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Leilões definem novas receitas contratadas, capex e competição entre players.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Agência iNFRA",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQklPTkJkeUl5YU9pbnAxajIwa1pBVG94cWNENm1sUXNMYTMtNjRQQzlBbmZFLXI5ODRzdnlYV1RvS0F4M1B3YjNfR2RtRWlienVmMXRnd0VrVk55UUlZV3A3QmhZOHBTa0hGTVpua1lfS2EteXJvMURMbk9CZWdLc1JTem1UbGlScTZQSElMSG56QXE0V21ZNDdYaw?oc=5"
-    },
-    {
-     "nome": "Cenário Energia",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1hiT2hXYk0wSXBWVURBZnNmREdQRmZsVHNBLTFPQVVDQzFnYTkzeVZsY2RuQ251bkNuNVJMUlFnUVNsV1JwdHh6MjdRMkZDOGZ6YTh3NFZJNUdDODR6REpQdmtVbTZQLXd1c3JUdERaR1hUM3Jxb2FPbk44UWVGTkZRVHVXR01SckxKM3pkampRQ016RjdMTHhxQnBfaERBSHpzODhIY1VBSHl1S2FTczFMNEJIUQ?oc=5"
-    },
-    {
-     "nome": "Petronotícias",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN0dwMm40MzZUMnpqbVFkMUktNmx6c0pSdlJFTjlLUVllQ0N5VExvQ0M3aEY3UlNkQmFFWnNZOGx2UTQxcWNQUGJzeHYwa0lKVHIyZWsyXzluam1pME9jbFRsQlBwY0pDMHc0SGJybkhEVk5DTGdjZjBzRUh1MTc3Q3oxUE5ua3lmN1BiZjk5amlsMmlTYV9YU09GY0RscFJYV2RNUlp0eVdreFVvMlNQdHpPOGl6Ri1nOWI0?oc=5"
     }
    ]
   },
@@ -270,39 +128,6 @@
    ]
   },
   {
-   "titulo": "Petrobras e BB não serão privatizados, diz coordenador de plano de Flávio",
-   "data": "2026-10-08T17:05:31-03:00",
-   "relevancia": "alta",
-   "score": 10,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "M&A"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Transações podem mudar portfólio, alavancagem, sinergias e a avaliação da empresa.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Poder360",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmVMbkNxMFV6ODJoTDJIc05TNTE0NHZnekY0NEZfQnlvT3plYTJMbHM5TFRZRFREa1gtOHRVWURMVU56aWVKc3oycXp4VDhDYnJxODJZY1UxdzFwel9tLVhBR0pyOFB0QVZOUU10Q1dJb3h3bEgtWVBwOVNXU1FuaDhncUZYRU5iQmJteUpMSTllMGtkX0R5Sk5jNFRrbUFVY1NfZVV6QzVRVzc3NmhzMlVlazZ2RUZydTVtWk9n?oc=5"
-    },
-    {
-     "nome": "Forbes Brasil",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ05QdklwUWxnd3VLV2RZVV9CNk5KdnRFdUU2cTBQcDl1Uk9rd2ZreE9TdU1CaWY0Qk9JNTBxVUxyd0J2TnVwZjROb0VVRnFlTDg4Ykw3T0VnTFJaWVRIODVsSXlsQW9YVld4LTlvVmJwR3JNa0NYZWpGOEM2U3MtRWdYbGo5WDR3N1Y2c3RkdjhsRjBETFR4VDZNbXphQ2FvdUZ2Q2V1dnlwRWRhdWZqUFNadTg0UjhRdnVwTWdiaWd5N1JDMWc5dGNR?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Fiscalização da Copel tem limites estabelecidos por TCE-PR após privatização",
    "data": "2026-10-08T02:00:09-03:00",
    "relevancia": "alta",
@@ -329,70 +154,6 @@
     {
      "nome": "Bem Paraná",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuc0dGbUFFU3BxenBoM25MamdJWUtMR0NOMkZkeWxlZjIyN2RJdDVoQjN2WEU4TWdYcVNQenQwd2U1NmpSVUh5a3RpdFkyMEZRVWhDQ0pMeUhaSnY4Mk5heXVwVnB3YTBzTTE40gFwQVVfeXFMTW1sUzVCUmpqOHpmX0FYXzVjYXlnLWoyWi1MTXFYdi1OSHBmZzl5a3hiaE9ZWUlJaUYyRHRjaFlXbkwyZFpuQzJiLXpFZFk2am50X0RXVXFtYVc0YnN5VmNFenUtM0wyMXJpMmJNcVBzMw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Representante da campanha diz que governo de Flávio Bolsonaro não privatizaria Banco do Brasil, Caixa e Petrobras",
-   "data": "2026-10-08T15:34:29-03:00",
-   "relevancia": "alta",
-   "score": 10,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "M&A"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Transações podem mudar portfólio, alavancagem, sinergias e a avaliação da empresa.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "G1",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcWNPQXVIMzJCNnFrUEs2VVVzWVVmSVB5ZlVDZUJiZUxnaDR1MlZvcUhPVHVFenhOWW1iczNJUDBLcFdXUVk4MTd6ZGxDNlVMTFRPX290WldxbnhGT3ZWTUF6WWxIUXZPZUhhZlE0N3hEOU5VX2o3b0JEQkJiNGxTY2V1OE9lUDRZekc0ZkFJcURjaFhNQ1FMLTdHSUJTU2RMYVF6QU1kSzAycjZ1MFpuUlY0Tlo2YnFla2plOUZMNl94dEJWT21SUHM4ZThseklqM2FzTTI1aEhGbW54cUdOQ3RNMUdDdHc4d0l0UTNabmVUMHhxM3c2YzBJRdIBigJBVV95cUxNclRnOEZ0MHppckRsaVMwWHZodWlNc3N2ZmY1Rmo4cWY2UEVQckxhb1p5RDdJYkFJTEI1ZHc0ODA4dkxQajNGYURIcVNDVk5EWlZLVzNKVE9xRUU0N1BXX0tweTdYZ09kYUROa0dBN29fTERxdVRpTlNNdUZ6Y29fbWExUjRqVFl2M3hCMGxLMkszeEpDVkU2WTBnTThaeTZZNXpfcGVKSDdXR2VvV0RWMHN6aXJKSHpOSXdaNnppVGthRDBvMmJ0eWl3VXNwc2RrYlBEUEhlMHJVMzc3Rm9VVUllQ3ZIby1LUTF4cHprT3lOUDg1NWRtZnJZZlQzYmE4a0hxTnhpSTBaZw?oc=5"
-    },
-    {
-     "nome": "O Potiguar",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUlFFU0xfVExlZUlYSzVXeVU5bm1ZVkRQNC1QSGdyTGtMZnVDbkZFajktMlJXc1pwT3MtenNMRlA2S2pTeXdkNmdjNEhRVFFfbm5vZ3hoLWVyQU15ajVqWUdBbTB6UmFkWTE3S0ZtekVNcmtxVnZ6bFBVUEtUYmcwX3VLSnRraDRtOWJFck9rekl4OTFLLUdKbHkyMjdCRkJLbHFUd2xTX3RiWWR0R3VpTWVIa2dKUF9JZnIyNjN1YnFMRXE1TEI3UC1MRjBBRE9TX0RVWlVJRW1QZ2d6bEdFVjRkRGctRW10?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Leilão da ANP arrecada R$ 530,5 milhões com sete blocos do pré-sal arrematados por Petrobras, PRIO e empresas estrangeiras, enquanto ARAYARA alerta para riscos ambientais",
-   "data": "2026-10-08T16:20:00-03:00",
-   "relevancia": "alta",
-   "score": 10,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Leilões"
-   ],
-   "empresas": [
-    "PRIO",
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4",
-    "PRIO3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Leilões definem novas receitas contratadas, capex e competição entre players.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "CPG Click Petróleo e Gás",
-     "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUGZtdTF4Q2Nqa21jblo3emhWc2lDOVo0a1hRY3hURUh6MElBVTROZGhiZlNzb2ZlRW1odzNRNkdwZDdoVkFGeF9mRldGVTI0ME81QWtFd1FETmQ2Mml1bkJzX0F4dHVFWFBlSFQ4TUJPb0o4RzZ1d2xWYmlxM001MUYyTzdBT2hzT1ZDWDA3OG80ZEtNQWhYYXRqRlJFWkQtdE1iQWNacE5EMmVNa1lxSGtnRy1wQ1ZhcGpjSHpLc1l3aXJLX2JHS3ZuRzZYLU1nYXdPbmV6elVvYTZDTkRuSXZ6NnV5eGpDd3JaS3ZzalZyYlJiTWdrRE56UHpmanVNaG9oaXdQeDRYWVRkM3l6VnhjenB2eDZaeVNjVnRmQWt0WkJhbGdUaUJVTjI3NTkt?oc=5"
     }
    ]
   },
@@ -485,35 +246,6 @@
    ]
   },
   {
-   "titulo": "Sachsida diz que Flávio Bolsonaro não vai privatizar a Petrobras",
-   "data": "2026-10-08T16:50:34-03:00",
-   "relevancia": "alta",
-   "score": 9,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "M&A"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Transações podem mudar portfólio, alavancagem, sinergias e a avaliação da empresa.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Agência eixos",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZm5lRGJRUVNBUzliTGhBTDZTOFNYc0JuS3hndmY0akF5MUxIRDBmdTA5NnpYOG5qbkszdEZFWDlpRXRGR1dpc091RkJrT29vbWVhUGgtMS1Wd3lwamFyMTlHcGROUHhOQUxjNm5ZdzdWT0ZOR2FSdTl1TXlvUFZ4akFxaWladWVMZ1pnVWg1WFlPc2RWQTBOckxUN0I0clA3V01hbWxvNml4TG1xMjNiMi1ZTGN3MFA0emc?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Aneel libera compra de áreas para duas PCHs do leilão A-5 de 2025",
    "data": "2026-10-08T17:30:02-03:00",
    "relevancia": "alta",
@@ -565,159 +297,6 @@
     {
      "nome": "Estadão",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc0JMZENGMkpoQTctbFVJeUpIdlhxQ3dPNHhGY0UwbWxqTnpDT2V5MFk0bklzVkVmN2UyVUo5US1Td3ZlNmFhZnNQOXlicW42d2JTTUNIT1RfWXNicG5WQjJiYlhscGxDbEtSQ1pWb0NaTktLYmJvc3d1azBFQ3ktYlZaV19aaDVOYnhEbDNIZHJ4S1htajhfbnpKNWoxd3BKTnFJcnhJdTNOcmxDcnVlVTFxdU5INlNvUXlBVw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Campanha de Flávio nega privatizar Petrobras, BB e Caixa",
-   "data": "2026-10-08T09:54:17-03:00",
-   "relevancia": "alta",
-   "score": 9,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "M&A"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Negativo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Transações podem mudar portfólio, alavancagem, sinergias e a avaliação da empresa.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "UOL Economia",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUlXZUtwMmkxNG5DdHRYYVVSRnZMdkhBVWMyT2RYSTJEM0hReWJJZlJLaWYwSjZ2a0FqZFp2ZVFaelRDaGhpdDlCa1IxbE1xOFdLekI2a2FkV1JlTXJPUlFzVlJrQVN2aTF5OXJKMXh6MXE0YmRPNGdreWhpdUdUbzFuaGpDM3kwM0NGQU4tVkVSdWJTZkxYZDFVdUlzX2NNcjJ3OTd5clhUclNmSEw1cFZTYXJzOE0?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras arremata 21 blocos em leilão da ANP e pagará R$ 3,2 bilhões",
-   "data": "2026-10-08T10:45:43-03:00",
-   "relevancia": "alta",
-   "score": 9,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Leilões"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Leilões definem novas receitas contratadas, capex e competição entre players.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "InvestNews",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmhyaU1VNmpVbFgtYUJXMWtjOGtpQVFXLTdpTEtNQUhNQWVUZ2NrMUE1OGdzeDN5NGJULWxjVjRueWdMSDQ3Tl9pSk1aWXVpWXp1Q05kWHJScF9FWE94S2RIMV9fVnlxS1h3OFRXdGh1aFR1cFVHUG4wV1FtU0pCbjRUSHhEdHNoRDBLbkt4TllfYnI2YjIwXzViQ091VXc1eTZnSmtR0gGrAUFVX3lxTE15WnIxUlJqNW9BV0NJLVhsNlkxaGlYMlBJaTVVMl9hdVIwRDg5SUhUb3RsUHVOcFhZM3NrRzB5Ukx6dUUxMWZvc2xqNlBNZ2lzYmZzWXZjeFhvMGpCT0dZTFgwM2lpa3c4ZlJzb1pkQzJYQUNWdnRHSmN0eGNLNFdaZzVXUEVGdElkY1B4U1VqNnp0cjgzamlwR3Q2ajhMbEdYLTZKcENEREtUbw?oc=5"
-    },
-    {
-     "nome": "UOL Economia",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaTRCcDNZV2hSMDJYZC1fbGxDSFgxNnctS0dZVzBXTnR2YlY4anZFV0VTaWtBWGFtNEc4Tjh1eTZoTDFFLWpDU2JLZk9WN2dBcTJIUjd6MGRTMlJ1ZDRtVnpCSElBTzZyS3VRajRyWFFqSDZBaEdXbDZsTVdhczRrUk5ZRm9WaERILVBHZVFmaVYtNXNMVVMtMUh4ekxManhMNkcxZHpqYlc2S1pZS2xYdHVuczluc20tS0M4VmowQkN1MF81dDBF?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Flávio Bolsonaro garante que não haverá privatização de Petrobras e Banco do Brasil",
-   "data": "2026-10-08T14:47:33-03:00",
-   "relevancia": "alta",
-   "score": 9,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "M&A"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Transações podem mudar portfólio, alavancagem, sinergias e a avaliação da empresa.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Portal VV8",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFNxUDk2UFVpSHJMelRzOGxJNmh2UFBqSjNOX0RZQ0V1S0JfNHlSeEtDdmU3MU00NzBzM05pV2g3anlrVXItVWxGd1VzX21mZVFnZkp2LVRPR2lXNHZuY291Y0xXTGN6SXNHS0hsQ2ZnZGNySjRxN29ZdTkxc0RfMGJIdDJBNkVWX0FsWG4ydzQtd1NfdzNIRFlCZ0hBVkR2OFlQMGxwYVVQU0JHRVVwNS1LUm1zRU0yRXJHRzlHMA?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "PetroReconcavo amplia portfólio com aquisição de dois blocos exploratórios da ANP",
-   "data": "2026-10-08T08:57:09-03:00",
-   "relevancia": "alta",
-   "score": 9,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "M&A"
-   ],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Positivo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Transações podem mudar portfólio, alavancagem, sinergias e a avaliação da empresa.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "ADVFN",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1doOHhQUTM0S3JtdFM4c2JILVhKSkJmLUpDdXRXV3Npc00yZk9ya0swaHA0NVBnUmhtWkVldjVzV0F6M2dTT0VldHdMeXk4NW0yZ2dWQk9TV0VaY05sM2puMVNiSUNpa1VpUl9jMWFDaW5UR1hfN3ZRYVRLcE1PQ3dGN3AwSERWRWhQQmpJeU9pbnRWeTNuTWRHY2E2YWhmOHlQMWNwLUlETlB4MXRfRU9ST1F5N2Np?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "PetroRecôncavo (RECV3): Adquire Blocos Exploratórios em Leilão da ANP",
-   "data": "2026-10-08T11:25:48-03:00",
-   "relevancia": "alta",
-   "score": 9,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Leilões"
-   ],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Leilões definem novas receitas contratadas, capex e competição entre players.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Acionista.com.br",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY2U0RmVCNDNUelpRMFNCcFAyVlkzVjF3NkZuU005Z1dIVTZFT3ltNXVKVnRya2VEcHdWdVFVREpVWG5tTW04M3ZiYVo1VER6WW91MlRmaHREbXFudWdjSlp0TkVmTUVqU1NRNTR5LWdQU3pqQ3pURTlqb05tVVhjY2Y3OGRLanMwYmFzVGpKdXJ5Mm9paXc?oc=5"
-    },
-    {
-     "nome": "Finance News",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFNZN2tYV1NzT0VGdWtaSzZta1ZwZF9qaHhaeVd1NXkyZzlSNnBVRUx6SXBFaFBUNmNnUVhDcmhVZjRScVRROWtKQnlQZnMyM1ZzRlFwOXZPSDdzMmh2NmdlaHY0V1psV3d6YWJIX3NjbFRhSzl6V1Y1emdjWkt5OGJJUmxjUzRBMDhzNElkOURXTHdGWXJYYk9jZk1kUTd5YU9j?oc=5"
     }
    ]
   },
@@ -785,7 +364,7 @@
   },
   {
    "titulo": "EQTL3 - Equatorial Energia - Resultados, Dividendos, Cotação e Indicadores",
-   "data": "2026-10-09T06:40:07-03:00",
+   "data": "2026-10-09T06:23:44-03:00",
    "relevancia": "media",
    "score": 8,
    "setores": [
@@ -843,122 +422,6 @@
     {
      "nome": "Cenário Energia",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbFgzdjM0b1hKcDBDTkpWNXpjX3NGNWpPNkRDc2VPalFDWXdRdm1zX1pPdWhXd2tidXdhSk16WU83NmM3bzlxc1JzT0tRNDFZZHhvSGs0dGdjLUhLTlVBRzJQM3NWVkY4bWJ5OU50aWE5WTBkQ1FhZEtZWDBkem02d3VqckZKNUZHdmlya2tQckxwQmMtZE52dzZWRWJpNWpkUkRR?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras arremata em leilão 19 blocos de exploração de petróleo no Brasil",
-   "data": "2026-10-08T06:57:21-03:00",
-   "relevancia": "media",
-   "score": 8,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Leilões"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Leilões definem novas receitas contratadas, capex e competição entre players.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Observador",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnE5bENyeVZlUS1xMFotQy1RbjlGekM0ZzdvWUtGcEJrUWZQWGJmZXpMYXViU09SOGlzR0xIc3gyc0YyUjVDX3EzVnZpYVBWemdKbnBVZ3kyREczZ3ktRW9Dd2VZcHNkQXZOYXVvV0JiWVY1RThiYnM1bWZXc1g0MWNKQnRUa1hNS1F4UlpmaGZhMkpmU0RKWVg4RzdUTUs0NzdXdTNSeTBLX0d0?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras domina leilão da ANP com blocos arrematados e R$ 3 bilhões arrecadados",
-   "data": "2026-10-08T10:44:00-03:00",
-   "relevancia": "media",
-   "score": 8,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Leilões"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Leilões definem novas receitas contratadas, capex e competição entre players.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Times Brasil | CNBC",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmRSZi1DNm5ubF9wNml2TGlDc2lEeGl3LWtBbFk4am9tNGJQY1FQVjBuTjAtZ2tZdlZSZkpsVk5haW5XRkhUSGo2bVpBcWtzbTdvMDJVMXB5MXBsVEh3NElsNmJCVU5ubzcycFU5eVNDT0QwbHFUdnRVRFpxbkd1Mml0M29xZw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "PRIO vence leilão da ANP e conquista dois blocos exploratórios no pré-sal com bônus de R$ 94,9 milhões",
-   "data": "2026-10-08T13:55:00-03:00",
-   "relevancia": "media",
-   "score": 8,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Leilões"
-   ],
-   "empresas": [
-    "PRIO"
-   ],
-   "tickers": [
-    "PRIO3"
-   ],
-   "impacto": "Positivo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Leilões definem novas receitas contratadas, capex e competição entre players.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "CPG Click Petróleo e Gás",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbl9YNmE1cms5RnpPYnRQMWhRZFdzaVUyRVlJUGNtT0hMM1cwRjBXRUoxTndSYVNVUFpHWTduS2VfeVVTOXByMVZBdk1pdGtMT2hUYVlYcWNYOHVhQXV6dUdpMVg0U3VpYTlyODVzU0k0UkVtSk4wS092SEw3XzhFdVVtd1k3TFo4T0RFQjJlMmJZWnNKTUJ5LU82U256SmlXcU1tNUo1bUhwdHRjU0hGQWRUUTlNcTdIZ0gtX2ltWUJWSmRQZ2ZHNXVlTmU1NXpKOTNEbUY5Tlo?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "PetroReconcavo arremata dois novos blocos de petróleo e gás em leilão da ANP, amplia operações nas bacias Potiguar e do Recôncavo e aposta em áreas terrestres que somam 58 km²",
-   "data": "2026-10-08T16:01:00-03:00",
-   "relevancia": "media",
-   "score": 8,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Leilões"
-   ],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Positivo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Leilões definem novas receitas contratadas, capex e competição entre players.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "CPG Click Petróleo e Gás",
-     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRWlmd2VrdlFiNldmS1JNZnAzSUtUTFotanQ2dXRMTzhTbUl0YkQ4aEYzR3QyQ2ROdy1mYmpRVHBWai1FcVBkYjI5NEsyWFZiejY2WGdmRDNfNmFUZVNUNmhIQVVzMkV2Um5qRmh6M1F0YzVmbjhBOWNOSXBOMVJGYkhPd3c5VmNrdk9DWDVTdC1sQ3lTb3lONXZpenBfdUFyQjZEY1pMc2xnMEEyekRkdXlfMDR0VDBhODNvNzVhZkg1NUpkVjN2M0g3ampqclMzR0M4RkhLaUJHWUdlLU9VSFk3VkRmbnJ0MTc3MHJZV3Y0QjZ4UnJIYVlxTFZIRjlvQ2tUNXdEU1RXZkFHMlNobDVaOEstWkh2cXRISGJSNzFMNHRpeE5iYVVFOHc0WU5oN2JqQVE2YklwZGhWc052MnRR?oc=5"
     }
    ]
   },
@@ -1038,40 +501,6 @@
    ]
   },
   {
-   "titulo": "Rápidas: Petrobras, Prio, PetroReconcavo, Brava, Vale, Ecorodovias, Embraer, Totvs, Blau, Isa Energia",
-   "data": "2026-10-08T11:17:48-03:00",
-   "relevancia": "media",
-   "score": 6,
-   "setores": [
-    "Energia",
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "ISA Energia",
-    "PRIO",
-    "PetroReconcavo",
-    "Petrobras"
-   ],
-   "tickers": [
-    "ISAE4",
-    "PETR4",
-    "PRIO3",
-    "RECV3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Finance News",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWi1naENUdU9vczh5VmZfRFlxbUVNLUhock4zTDVMSl9LQ09PM0NTZ0hmZkVhR1V2ZmdVaW03ZFBSN1lJZmhQWGs2Z0pWV1V2X2RNRXE0TnlwY05uaUdFblBmSUZxSWQyNnNpMlZibW4yOW9fTmVGc1ZHS2J4YWZLaDNQTHI1bmd3LUdNaTdfcVZGQ0tVTmY0RnJyMFZ5STRwM3NnbVFhTjFlazgtTC0wM3dDSElqdEY4WUN2bHQwZEgwR1FIMXc?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Como identificar fraudes em faturas de energia e evitar prejuízos financeiros",
    "data": "2026-10-08T20:43:06-03:00",
    "relevancia": "media",
@@ -1120,112 +549,6 @@
     {
      "nome": "Agência iNFRA",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUdycUswZWs2WFNRMVhCTHpGUURYSENuN05wendMbWNnUC10UVJveU1EeTVEQmpFSTlaOEROdTBGT05ReVhPaVhOaFhoR0NORDFzZzlxc1lMNUE4dExkN3RxNjVxRmdJbW51MzdDc1FYUEdScUFvbnBnV3BBOW80eDhCMDk1MUVQRzRITzktVWVCYWVOWHdyTkJ4RDhEQ01SN2xB?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Análise: Resultado dos leilões da ANP consolida força da Bacia de Campos e ratifica poder de fogo da Petrobras",
-   "data": "2026-10-08T19:53:55-03:00",
-   "relevancia": "media",
-   "score": 5,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Resultados"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Resultado/guidance move estimativas de EBITDA, lucro e a percepção da tese.",
-   "paywall": true,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWHFNMU5nR05vNUJweU5oUWxDa3EyOUJfNk5waXlrT3ZiMUFSWUNFVTlzUVBZNE9KNXhMT3lNdFl4bV9vb0RXUlh6VHpaWG15M3VMOHpnVmV0MWg4UFYtYmo4RERSZVZBTEJMaGpBVDNubTdCekdKbGU2akNZUjlnZHR1Q1I2SktFSmNDRVJNQXlHYWhIWHJlM2owZmRjNHZlcEphZkR2djlfa3Z4dXkzQmxYbTlzWk5NQzdUMk9GOHdJUzgtX181dkxlRmp5Z0FySWNaYU5FOUFFRDFWbTd5YVluTkRNNUIwcWY2bzRrbnlqYUswVC1WeTBTd9IBigJBVV95cUxQdThNWmhiVVcybjlEejlQaGYtQmszODg3R0tXWVVvTXhqQzhOdUY0dS1abERiR3FoWkxPT1c4WG11N2VhLU9tM2Q1b3l6TzlUaUk1aHNEemE5NEhoc2hGYno4NS1NUWxUZHRhdEItSXdKcG1yUmNxS0lkd0lWMjA5QUpQbnUwQVhoTlVLTl90Q2cxV2RHc3VmSzR3LVk2UGFwQ0lfRFZKd1dobk5GQlhoNk80ZE9QZ0xHWXQ1SmEwY3B6ZVJ3Wlp2ZGlRTV93VE9yYUxQcGJmcWJ5M2xFOUdqN09kVzFzckROV082RjlET0VXSkx4NWZ2NUpSWDh0WFMyMkdfZUhVeTN4QQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Casas Bahia, PRIO, PetroReconcavo, Brava Energia e mais ações para acompanhar na 5ª",
-   "data": "2026-10-08T07:29:26-03:00",
-   "relevancia": "media",
-   "score": 5,
-   "setores": [
-    "Energia",
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "PRIO",
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "PRIO3",
-    "RECV3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRG9XNTRtVXlQVVRzcUhjelM3RVpYZ05nUFZHdnBzUG0wRkdmQVN5SmRUQ0xlb0RJSHlZOWJuU2lreEtaWkFOamN1M1RUYmpWSmVwaGZOd2VDMDVlWGswRnBsYXJFSUhLMEhuQ2liLVpIX2pQX0RQeFlSQmxkb18tMzFTclYyMF9HT3hyTmdVUU8wclBOQUVvR2pZcW5xT1BXNXFHYllKVjkyMWg3aXliMzctVmVxUmQ4MXZR0gHAAUFVX3lxTFBzVmNtUm1QSTcxREF3Qk00Z3VpSFM3RUhoYk5mcnN3NndXVC15YTNicGdZZEdiUmRHc1NEcE9HR3Bpa0E5VHExc3pxLXVUNFozWDdHMzVMaWNSR2NNWjBRcWNnYnV1S0lFalIwalFzRUloWmhOdlJjSFg5enI1SE9rd2FndklnTFRwczJQSEpYSm9aZEJ1Z3ZqQ2ItRjJVRUxLa1JfVk15Wk9JUXB4Sy1iYVN6SkZWWGhzMzdCVFRPSg?oc=5"
-    },
-    {
-     "nome": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1ZjbVJtUEk3MURBd0JNNGd1aUhTN0VIaGJOZnJzdzZ3V1QteWEzYnBnWWRHYlJkR3NTRHBPR0dwaWtBOVRxMXN6cS11VDRaM1g3RzM1TGljUkdjTVowUXFjZ2J1dUtJRWpSMGpRc0VJaFpoTnZSY0hYOXpyNUhPa3dhZ3ZJZ0xUcHMyUEhKWEpvWmRCdWd2akNiLUYyVUVMS2tSX1ZNeVpPSVFweEstYmFTekpGVlhoczM3QlRUT0rSAcABQVVfeXFMUHNWY21SbVBJNzFEQXdCTTRndWlIUzdFSGhiTmZyc3c2d1dULXlhM2JwZ1lkR2JSZEdzU0RwT0dHcGlrQTlUcTFzenEtdVQ0WjNYN0czNUxpY1JHY01aMFFxY2didXVLSUVqUjBqUXNFSWhaaE52UmNIWDl6cjVIT2t3YWd2SWdMVHBzMlBISlhKb1pkQnVndmpDYi1GMlVFTEtrUl9WTXlaT0lRcHhLLWJhU3pKRlZYaHMzN0JUVE9K?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa sobe quase 1%, a 206 mil pontos, com Petrobras e cenário eleitoral no radar",
-   "data": "2026-10-08T17:45:49-03:00",
-   "relevancia": "media",
-   "score": 5,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3lMcVF1YmFjSUxJZnhKUkFGTWNQR0RUdUY0azBXNlk4N0E5ckstSnVaZUtKV2lDVGdCTDRzZUEySFpmdzVXTThtY3BIUlRZdWxBUlVMWTExUXk0ZHdrdHd4b0VNWFJ4VVpLMkowaDdPQnpvbTBXZVlCYkZkQm5xMFZYM3ZLRnRZWnI4Nnk5VEJjY2hpOHVVaDhkUGk1RkxWeTZuMWpuY3Azck51a2lFWFF6aG1Zckw4VkHSAb8BQVVfeXFMTXpKckxvMWotZlBtOFdPMTd0QVBPSHg3aUwwMHpLTVpySWc1VUw1Z012aFljelNnRzd4a01LaUdOLUtPM2tjMlQ0YnZCcDQ4QWEyTk95VVk2b1A5Z20xaE9hX2x0ZDdJbFZDSFp3R3VwdkkzX0kxQk85alVHSE9LNlNXdzV1Wkc1R2xlV3h4ZDEyR0pQelM1VndxMWJjcXQ0Z3Eyd19ST1Vyb1BjREZSamh1S1pOcXhoYXJxbDVSbzg?oc=5"
-    },
-    {
-     "nome": "UOL Economia",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3RKeXJiUjZCQUh5aFY3bUVHU1FGaWZTOXM0WUY2eS1yeWxpUzJ6SXJpaHRtTmJlYVRzZExWRjdSc2FSV2wwZS1Sa3lNTWtWcGp1YUp1dzdoSHEtbjBvUU13LXZ5MTRNT2oxVEtRYW1xeHFMR2EzeVZSNDhqZHV5RUY4OVZtSi1OVWJLUTQ3SXN1SEpfa1hQWWNRUDJFWklMSEg3Uk9FN2hHenBxcllMTzBVT1dfajJWQ1Q3WDNLZ25Lby00Nml2R3BWcU80RWE0TGpKRlBybw?oc=5"
-    },
-    {
-     "nome": "TradingView",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sSWpCbUIxdHo5eXJaOFN4SXBFNUdqb292Ty10c3hvMVd2R2gwSUU2bkVJWVJlUkQzS3hqLWNhOG1XcmNUUkhONVZQYzNUU240a2wzR0xnckJybFh5NnZ0NnNuenJXX1ZNS0ZHMEVKcF9hNVdpX2Fr?oc=5"
-    },
-    {
-     "nome": "Terra",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeUhqb0tuTU1kYmY3TEdUalNuSS04QmFFckhRVVpyMlNmTmlacGoxUGhBdzIzZll6QUdXQXBBWHFPUkhFNU5SLUs1bC1SMnpqd3FKX1BTMFROQ3dRVEtvbTVSSU05QVBfa0xBeTBwaXlJdFJ0R0NHRWdOeWFoSE94ZG5sYjZWUFdOZkdGT0hJTmM4UkJlTlVrTFl4d20xVVZ4NjRkbDI3UGNuNjZKY3NfVUVfRXFLcE9TbkJSVi1XcHdUYUctRlBQRVprbmRaNVh5bk5tSUhRVzVLa194UnJPeEY4bGxLVUt0a2cxbXRtakVBdw?oc=5"
-    },
-    {
-     "nome": "TradingView",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aTnRzaE9JMFhHb0xycXZPdENBNzFpN01YMXZOMl9BekVNMjRTWERMaGEwZk5pc1JneWtSWW5aOWd1Qmdia3ZrTHlZMFJrLWY3NDVhSld0STRyWDVTX01kY3c5bkpKckNhT3VMc2xTUFBhSlVvV0JkVw?oc=5"
     }
    ]
   },
@@ -1280,53 +603,6 @@
     {
      "nome": "O GLOBO",
      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPby1iYUNDSFYtUVg2OElEbVRsb1lqOGFFaFFwOU00UF9WMHVlSEhYczVaQ09KUmtVbm93REdpbk95Y2NhdVgwS3RIMkZWdGR1LUdnMGlHcEFRa2ZsZXdXS3R5RHU3V1dVQm9IcVcwOWdkNkJBb0oyNFdrd2NHQVZJdGV2T1g1SzZ5N3RvemlFMy1Xb01uQjNrN0ppUndURXRYWmJmQ005eG9ReENPM05scEMxeVA1dXB0M3VocWpBRUh2aWJTZ2NIYXZZcDdmTFJsa2lfdzZxWU81OXR2WkRYNGE3V2o3R0Y1ZDVCcDFBNNIB7wFBVV95cUxPby1iYUNDSFYtUVg2OElEbVRsb1lqOGFFaFFwOU00UF9WMHVlSEhYczVaQ09KUmtVbm93REdpbk95Y2NhdVgwS3RIMkZWdGR1LUdnMGlHcEFRa2ZsZXdXS3R5RHU3V1dVQm9IcVcwOWdkNkJBb0oyNFdrd2NHQVZJdGV2T1g1SzZ5N3RvemlFMy1Xb01uQjNrN0ppUndURXRYWmJmQ005eG9ReENPM05scEMxeVA1dXB0M3VocWpBRUh2aWJTZ2NIYXZZcDdmTFJsa2lfdzZxWU81OXR2WkRYNGE3V2o3R0Y1ZDVCcDFBNA?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Oceânica Engenharia assina contrato de R$354 mi com Petrobras Por Reuters",
-   "data": "2026-10-08T20:04:00-03:00",
-   "relevancia": "media",
-   "score": 5,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclNPSTYtanNxNHg2S3J3bjdTRGxxSHJQZ2RCUUJ3eXZmaEVHakd0STh6TW1vRGc1UExfQzlPWW1jdjI3Q1FaNGIyZjYxbmZZNTV5cThrV204QWpETE9QM045Sy1UUTBYYnZoMjEyNkI4Zk5uYTNMZjhOWXpZM3ZzemtKcDVJb3E1ZHM3aGxjRFMzSlJCaVlNUE9NNUpOQTdGc1lXNkczRXMzQkZBS2l6eXdvUzMyYXM?oc=5"
-    },
-    {
-     "nome": "CNN Brasil",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmFMUFRVamkzOF9lY1F3bHB1T0VQSGNvNGZjV0RpelY3Tkp6UjZfSFp3RTBYV0dUSzc2UkF5enVLU1VJRDNKVmpGV0RhT24yb1hnZWNlOVlrd0UxalVtM0VFSG80QUNJaFVJaHJUaE8wSW5PajRPQ3VleEM4anJaTFNlVWswLU83QnVnanNSQUtocU1qYllEVnRKU1RkOC1qQ3Y5MQ?oc=5"
-    },
-    {
-     "nome": "UOL Economia",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnA4Tm1BU2UyMWlkOFp0eGQ4MkZhT1MwaC1BSm0xYWJMejdFWlZYakpfWGt0Vm1ra2FJS1NlWFZ5aVBIWjN2QlBPWXhHMkRNNUM4UmdvemthbTg0dUdQRURPaGpQeTExZUxmbTVlcTlpdHprc3gyMC1WNW55b3dUTlZNZ2E3MXZBTTc2UkhDUVhVOFhzc2pHbWtjamJHd09jWFRuakVJSFAzdE9RZUVNcl9XYTJnREYzTThUcg?oc=5"
-    },
-    {
-     "nome": "Terra",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYlZybmx2UUtKRC1ZXzhPTzVaQXBjeDJFdlB2eWxzVnFwU1NKNURHRFdYRmI3cGw1ZVJ0bTB4amhtU3RLNGxOaEdCSFdOZmxCSXRkbmtOVUZSNjVRTkRxOUNoRkpZU0haOGNPTlhLNV9KeVlia1Q4clhPc2liTDBLRG5oSkVKZmpxTXJad2RoaVQ5bXJXVlJHTVhPRWI5NlR0UmYyVkNzaHJRaEpOcnJEcFBYMnA3V25zVDEwbUV4blZSXy0xVHQ0S0p5dDh3dDVXcnZOdlpQZw?oc=5"
-    },
-    {
-     "nome": "atlaspublico.com.br",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamp0UDhad2JmVjFjcTl1STMyYkpoSGtFQ1hFOXdqQVBmZ3VYaC12bWJMU2dURktYRDZmVEZzN2tpMzVzaGhzRHdYTzdiMnMtdzh6VlB3dVJxT1l3RTlaYld5bC1qeWhjRFZ4eGgtdGV2OEt2QmIzQktPLXhhV3E0TmNmcHd3MVFMQXZtclNYazZ0NHo5c3JLTVYxZ2s1cjR3a1IzTmVyWQ?oc=5"
-    },
-    {
-     "nome": "TradingView",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5eGN2RFRvMkhYWlExSVBoWHVBRHpHN1NJLWYzc3l5ZG5Wb1ZyLWZnLW8wSTFKXy05bzBJRERPa1Q2c3JtMl9Dc3RLRWdoWnF5b0lxZUh3ZFREUHQ1dHJUTFVCX3lLUlNMbEowanF0b0NnY3FLNjdhUg?oc=5"
     }
    ]
   },
@@ -1414,6 +690,33 @@
     {
      "nome": "Estado de Minas",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUIwejk4LTNNa0dmUktPT1lFNEJLQUFnemVhZVFnUVEtbG5zTEcxNGJzeU9TczZyRmY3NkVzdWZfSjZPcXZSRmkxanBybEVocTdEY2p5cnRjbnMwMDg0SmVXcnBNWnpnbmZqTWpabGxjWGg1UWlSckxTcF9hLUJTYlZmUGQxTk9jaEFpS1RRU3lPcVR2WEM5bl93Vm9jS3R5d3poR3E4TlZ5UWFzN0VJWjV0dnI5MHNLV1RWVNIBwgFBVV95cUxOLXJ0UGN0bUdMMXVna2NLLXRvRkQzaUU3VjZOT3ZLLWlIaE5KckNEYmFMNG02enNLZ2QzWTJfNG4xY0RpLURRWFAtemFJTmREUWVkakJYTnNZOWlOQU9UbUVoejBfUVRMWS1KSVdFTlhBc2IyUUNmeXZDU25tOTlHVV92WXpRZlNyc2JxV05qN09tQVNhVUpISHVtNHVRdWxJOWRyMlBJbF8yQ1Z0b3dRYjdUa01ubkxlUGphV3oxbFVTUQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Enel São Paulo tenta ‘último apelo’ antes de governo decidir nesta terça sobre perda de concessão",
+   "data": "2026-10-09T06:40:58-03:00",
+   "relevancia": "media",
+   "score": 5,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [
+    "Concessões"
+   ],
+   "empresas": [
+    "Enel"
+   ],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Concessões definem prazo, receita e obrigações de investimento (renovação/caducidade).",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Estadão",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaGwydWg1aDZtbjZBbm5MN0Z0QTR4ck54NXZhc1VGSFVZYTRWTVg3RmFma2JxRmFOdFNlUHJuenV3NlNQMHJRS1Jha0RrMVFYZUY1Z0dfVjh2TTdoOU5RU1pURzhrbE0xT1FKYW1meVBWYTkyQ3FLNWNCSDRVMmN3cno2UEZYTnNQQXlkNlBpd05zLVNjVmVEbEY3NWxOU2plN01uOGkwSm1tVDhLbGlwTHFoYVpzV3lCOWktNEg2eWVTeGk5RVhLY1VwRW1XUzluQVdVRHc4Z2t1NkhrLTIyeTBVWHcwSFIxVWJr?oc=5"
     }
    ]
   },
@@ -1639,138 +942,6 @@
    ]
   },
   {
-   "titulo": "PetroReconcavo tem queda na produção de setembro",
-   "data": "2026-10-08T17:21:13-03:00",
-   "relevancia": "baixa",
-   "score": 4,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Negativo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Editora Brasil Energia",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDlMdTYtRlFsekZRUnV3SDBoTWxmVGppTTRQSTlVbjViM3RjOGdaM3N2QWdPV1RycURORjRwd0dCTU1zTkFod0tkMVNHcjRlZHRpb05aMUFXblY0bV9FSUlyZDJPLVZjbmMydmNQYW1icFFacUFFdHZVeEdLR1IwbF93NWFtaGNBZVFzb1Jvc05LV0k1c0dmdg?oc=5"
-    },
-    {
-     "nome": "ADVFN",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3TUw4NWhnVnduTlQ2cDhDaWZlSGNRYmhIV05DaXJMVUdTQWNfeE50QXZaWXlVQWk4blZJTUtldzNXSDJKM1BNQTRlcmpLZ3I1MG1qZklTamNPV3BQYS1neFR3dldFY3lyT0E?oc=5"
-    },
-    {
-     "nome": "BM&C",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmFKNVMxbGk1WVhIaDdFTEF3eWZHYXRTY2ZocnRzaGdFZVNMWmc5ZDNuaWZocHlGdVJqNnBkeXZmb2JmTzBSN205c3FoZ29RcDhWWXU4UC1mNGZjRGM4b01OalZrUXN6TEFYRER5UTVDYVhmbVlCVUVmOF80alNSc1JXZDlxcU9HS1QwZFp6NEtiVmJCaXJwNg?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa sobe quase 1% com salto da Petrobras e pesquisa eleitoral; Vale renova menor valor do ano",
-   "data": "2026-10-08T04:33:13-03:00",
-   "relevancia": "baixa",
-   "score": 4,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Macro"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Juros, inflação e câmbio afetam custo de capital, indexação de receita e dívida.",
-   "paywall": true,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYW1sak0yR2NjTzYzWXFEMXU3MWhuU05RRmxJaERwbFRUOVVWTmhpZjl5VzBBQkphNTJ0YTg0Y0o1NmhsdW1vMzRBdEpsa091Qnd6ei1Ga2FoeDJDVmlhTmlWcFlFWVVOR3MyMTVzdU1IZi1xanBZQ2tfYVhTeDRYb1czYjVGWk8zdkR1Zm1Ba0hWT3hIdi1UMjFZRGNadXJpd2o0VkpOUHVXWmVSaGZuLTVQc3NlRjNDQk94anh4bWJWRTNENS1uY2t4QVbSAdIBQVVfeXFMTTZwRThTcjA2S0tSTUpCMnA4TTdDdTJHa3hTeHJrbW04ZmxfaEpIREplQV96eVo1a085czRPems3VjJSQm02ZWNjc2lCU3lsV3B6TFN2VTUzU25hZjF2YUNFczhOZmdxRUcxb0c3dWd4cnNKWlZuWWM4bGxuTnhnV1hoX0JhNGJ6RXNjSEFsdkdzb05SeHVTQW52RWxpT2R0b0VrRk1VYkRlQ3loZk5nV2x6Q2lpYUx1TUZDOGhGRjhQOWExek1xWC1QdmowNG0zWGx3?oc=5"
-    },
-    {
-     "nome": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLTZsUGJjNmkxSk1fYy1pU2RtS2thcU5ZRC1GUjVMZEVZV01jZUFWamZhNDB6VjZuZVloQ2FsZENlY01fYVlJWndBV0VUTlNYUmpjYm5Nd1JxbXpVSjJwREp2TDN4SDh0STU0eGJMNkFxOGJzcEdnbXVQMndrM2FDMXY2cUNycU0xbEVic1RwNGxiYkgzOV9fRWxJQlpLYVBONkR1ZzVzczFtcjVJZzVVR1VUb1NaRjRyS1FZUmFrWGxZV0dWb3FZOFBxR0wyMUc1Yk5jSmtNbw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "PetroRecôncavo vê produção de gás cair pelo 5º mês seguido e acende alerta no Itaú BBA",
-   "data": "2026-10-08T11:53:43-03:00",
-   "relevancia": "baixa",
-   "score": 4,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": true,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV3dNWE9ZQ1d6WU1iVERleFdLa3ZpNVN3TnlhS2VJV0VLX2ExbXVqRjZjUmFhX25kVzNEU0c2dTM2eGdGMjdQb1ZWUGJva2hZTTNJVUFxbW9zSERQSmxISllwemh0cFRoNVA3QzNpOUZScUREb3hfTjFmXy1tcDVFRGJPZ1Y2YXdVRDY2cVNWaHRrWlJsaEdrV2oxWGdrUUZRd3dDNHlhQUNPSkpmUlJxaWJYUkpVU1VQdUFaU3VNWnZrVEFMM3FVaXBWSWI2dUYzRXNiV3h3dHVEdmt10gHiAUFVX3lxTFB6NUtXVkFVTGlaYzBldEp2bWdCVWVMU1hnV0dUMHZqUWdISlIyeTJTTV9FY2ZsbTFrRUtkMnJ0ZllRYWdYUjhnUW9MQlBaVG9Nb09xeWNiVWxaZ2doWm9CUUpCTnJ3N2RnMGl5SW8xRlJGWVp5MDNnVkg4dW1CM1F0OG5adVF1Qi1iY20yZThWcU1qRlV1LXZJMDB5ZzZYZ0F4eGE2OW1ieFlHMEkxbjVmcjRBZDVCMk9oeW84YWk5cFFXcXE0ZmdIaldfQi1xYVk1UWdCNjBqbkxabzdPN3VyS3c?oc=5"
-    },
-    {
-     "nome": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS3k5V1Nxc0ZnUUVGSmlZR1NWWU1yanlESHY5a2piaGxfQ25FVEFMOHRudDBTd0RhMVk0V21CMEQwZl9vT1FMMjNPWk1KcFM0c3hQR0VZb2V6aElEQ0NsT1AwdklGVnIzVDB5WHV2TEVuWGNhM3RnRmY5aUMyNjZVSE9BcTZZTEpZc0ZaZ0NHdWcxMGl5YVFsY3dIVG56TjBzS1cxeThtSzBOakQzYUkwaWNMY3B0Q1cya25mRHplbHJ1RldjYy1WQ0JnTUJocWs1U3F1VjhSS1F5QXlBR0xnc1Zwck5GOWs?oc=5"
-    },
-    {
-     "nome": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQejVLV1ZBVUxpWmMwZXRKdm1nQlVlTFNYZ1dHVDB2alFnSEpSMnkyU01fRWNmbG0xa0VLZDJydGZZUWFnWFI4Z1FvTEJQWlRvTW9PcXljYlVsWmdnaFpvQlFKQk5ydzdkZzBpeUlvMUZSRllaeTAzZ1ZIOHVtQjNRdDhuWnVRdUItYmNtMmU4VnFNakZVdS12STAweWc2WGdBeHhhNjltYnhZRzBJMW41ZnI0QWQ1QjJPaHlvOGFpOXBRV3FxNGZnSGpXX0ItcWFZNVFnQjYwam5MWm83Tzd1ckt30gHiAUFVX3lxTFB6NUtXVkFVTGlaYzBldEp2bWdCVWVMU1hnV0dUMHZqUWdISlIyeTJTTV9FY2ZsbTFrRUtkMnJ0ZllRYWdYUjhnUW9MQlBaVG9Nb09xeWNiVWxaZ2doWm9CUUpCTnJ3N2RnMGl5SW8xRlJGWVp5MDNnVkg4dW1CM1F0OG5adVF1Qi1iY20yZThWcU1qRlV1LXZJMDB5ZzZYZ0F4eGE2OW1ieFlHMEkxbjVmcjRBZDVCMk9oeW84YWk5cFFXcXE0ZmdIaldfQi1xYVk1UWdCNjBqbkxabzdPN3VyS3c?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "CEO da Petrobras (PETR4): Os possíveis nomes para um eventual governo Flávio, segundo jornal",
-   "data": "2026-10-08T20:01:00-03:00",
-   "relevancia": "baixa",
-   "score": 4,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Governança"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Mudanças de gestão/controle podem alterar estratégia e percepção de risco.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Money Times",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDBpbUcxa1lxdlV5WmpYR2s0QlkxNFFkMVcySEptV3lIdEhBZ1pFUmh6NzJGU19yZWpCWU9DbU9rM0FGR0kyLWRlVDU2QUZlTWZiRVJkcU1RM2JoMGo4ampsTlM2ZmFpZnJOb0pLWGlrdWJ1MUJOaVF5OVdTZUVZSTc4QWdTV2gzcEFxaDlLOC1QLXZINlB3eTcxMmdNU3FlRXItWEdOSkc3WXBu?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Vereador pede medidas excepcionais a Sanepar e Copel pelo temporal",
    "data": "2026-10-08T11:35:00-03:00",
    "relevancia": "baixa",
@@ -1861,99 +1032,6 @@
     {
      "nome": "Finance News",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMWtmazROTlg5SVBYVkRNbFVfMmNNejlTbkdEdzgyQ3dicE1wSEVVTmg5ZElJLW1LcHNTVnFxNkN4Yzd0d1hDeXRXSVpydnBESnhhMEozT0dHSVhRUjBrdGhYMHJtMFA4WE1tS3RRSHVCSVFXU004QWtXRFFkbHNieExybDM0X0U?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Projeções da SLC para a Safra 2026/27; produção de PetroReconcavo, notícia da Brava, Eneva e de outras companhias",
-   "data": "2026-10-07T21:37:47-03:00",
-   "relevancia": "baixa",
-   "score": 4,
-   "setores": [
-    "Energia",
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Eneva",
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "ENEV3",
-    "RECV3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Finance News",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU0hlTjdKeGlOSTF4RF9LamFYOVNxN3Y3bDNkRUdwbmtTMkd4S3ZLc2dDeVFGUl82TWlLQmZZM29XZDZLUVFVQXRPeDhEVTc2MXo5V05VRmh1RkZNU0tha3BmaHRTRWl6eHc1cFlsUC1EWVpDb3JCVWRfaFNuNDEtVS1IQ1BEVjVraG02bzREeVlJVGJZOFljSU03VHlLdXZwdDczVWpBcFVEbjRLSE5QX2NjRzhmUGFRMXZ1WkxOTzRJQl9KNzBPWHdmR1VvU0R2R0ROeWRqTWRfLThQQ2dv?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras arremata 19 blocos, Brava amplia produção e Eneva avança no Parnaíba",
-   "data": "2026-10-08T11:55:48-03:00",
-   "relevancia": "baixa",
-   "score": 4,
-   "setores": [
-    "Energia",
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Eneva",
-    "Petrobras"
-   ],
-   "tickers": [
-    "ENEV3",
-    "PETR4"
-   ],
-   "impacto": "Positivo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "BM&C",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDQ5M21pbnVhYng4NUF6SjItay1QdGZsaTA0TG1BYzRrekVtb0lWNy1maGJpckIxQlJCeDJpTkNtdFVRX3ptdUtMMkxjcEE4VmV5UmVrdFpKTENMcDROV0JveXBxcWtfUXloNlI1QWs3YTRhZFp5S1UtcDQyemFYQmVoeWpiaHkwSnhYNFdoaXNfSUtGZTB2YUZhczhCLXBLbGNpUnY1VDFhbHh1bW9ZM0F6WWxXUDdNRmZPUFlB?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa sobe e fecha aos 206 mil pontos com apoio da Petrobras",
-   "data": "2026-10-08T17:29:47-03:00",
-   "relevancia": "baixa",
-   "score": 4,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Macro"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Juros, inflação e câmbio afetam custo de capital, indexação de receita e dívida.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "BPMoney",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa09VVHFzeDJtbkxOejFKa0tCLWdOQ0NYZm9iMk9ySUtEX3pBMHUwWjFycUN4Uks4dlpDM010YWttUUE4STFrX2dUUDBlLXRqb1RETFZwY2o0Q3hMZ1h2OXBuQVZUenlua0ZDVnh2QmU4ZVZ2QnJsZ0NWT2lBMTVPMGs1YlU3NElSZmpyV1E2bEsxZGw3U0FtLUh6QmJOTzZsN3c?oc=5"
-    },
-    {
-     "nome": "Valor Investe",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3BNRkpFMXJzRXRYOWh6YjlrdDA4WDFwelFMc0dfQ2RINXB5c21ERW5zUjVMMzJVOG9yRHctS3BLWm9UTEE3WWNhRG5RU3JEVi02RXpRQk12VHBFd01IX2VQZGpydlktZ3hZSmVGOTNSYXRGUWhad0FjWnR4TDZ5aThyQ1JNdTV1NUpXb3MxWi1xVmpxSUkwWDhlOVZobDIyZGlPck5EYWF5NGVtTC1NdWZUU1cyM0ExRVhaQ2diLVRVUmEtcWNCQjRfODJMNWNTREpwLXp30gHkAUFVX3lxTE83dy1DcDBHUjFaaHo0cEdqRVdvd2w4aHhEMTVHLW9hTXJnRm5la2hFYWdUNWpyeWZ4WTRZTnVyQkN2Wm9HSXdUNjdyWTFoaEIydURFRjFPdTl1ZTNVSC1IQVlpQ3Rxd3JyQ2JuMGFHVlpBZlJXTjlyUnk2eG85ZXBLaTRoLWtwQzBjWnlRVUs2d3hFUXdvV2hwOEp5ZEZNU0dkcFhidkF1eEdvTlNuQVdTdWQ2UURlUk5LdzNFQjFXSlV5ak95UmlSRXVwbnVLem5FZkRfLThhYmFEaE1weXNFZ0NBOA?oc=5"
     }
    ]
   },
@@ -2235,95 +1313,6 @@
    ]
   },
   {
-   "titulo": "Produção média de óleo equivalente da PetroReconcavo recua em setembro",
-   "data": "2026-10-07T21:47:01-03:00",
-   "relevancia": "baixa",
-   "score": 3,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": true,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcC1KOHZ6NThmSTQydENDc2tnOS1uSlEtSUZiTVk4OXg5aFhJMVRXcXFGeFhMaC1tbldIVjFtX0VlUGh6QTYyTG9TVWlMVXNrdDFGY1IwSVBRcmI1d01fNVhvc2Z2M1ZkdHNrQkVGS084ZEZlSHNoMDlPXy1LN0hNc2lYMG45MEJRUmpmRXpiUHJ2R1oxbTdDRXNHNjc0ZlZXM1dHczRCNlR3QUZaZ08waHJKSEVuWlljdGYwS1h0aDcwZE94RWYwQy16c1dOVXhQVW1oY0VR0gHWAUFVX3lxTE5wLUo4dno1OGZJNDJ0Q0Nza2c5LW5KUS1JRmJNWTg5eDloWEkxVFdxcUZ4WExoLW1uV0hWMW1fRWVQaHpBNjJMb1NVaUxVc2t0MUZjUjBJUFFyYjV3TV81WG9zZnYzVmR0c2tCRUZLTzhkRmVIc2gwOU9fLUs3SE1zaVgwbjkwQlFSamZFemJQcnZHWjFtN0NFc0c2NzRmVlczV0dzNEI2VHdBRlpnTzBockpIRW5aWWN0ZjBLWHRoNzBkT3hFZjBDLXpzV05VeFBVbWhjRVE?oc=5"
-    },
-    {
-     "nome": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMnU3VS1ENG5EX0FLMlF5X2dqajd2Y09BTlJqYTc3VE9BYTFyZWlqaURaYU1wZUMwX3o4V3FzaFlhcndfZWl6Q1ZVZDFmSlZFdEJLRmR0Y2J5enlyWV95T0wwYTZCLVg4N0tQYmJjWENTTm5ybEVuemw1S1lWejRuWG1maDFyMUUtd09UejAzRmI2VTJjckh1QVJvczdGLWw3b25jZ3YyZlQzZlZVZUwxLUo2ZGpFZXV3aVVZVFQ3R0s0UXFTbDVJ0gHWAUFVX3lxTE5wLUo4dno1OGZJNDJ0Q0Nza2c5LW5KUS1JRmJNWTg5eDloWEkxVFdxcUZ4WExoLW1uV0hWMW1fRWVQaHpBNjJMb1NVaUxVc2t0MUZjUjBJUFFyYjV3TV81WG9zZnYzVmR0c2tCRUZLTzhkRmVIc2gwOU9fLUs3SE1zaVgwbjkwQlFSamZFemJQcnZHWjFtN0NFc0c2NzRmVlczV0dzNEI2VHdBRlpnTzBockpIRW5aWWN0ZjBLWHRoNzBkT3hFZjBDLXpzV05VeFBVbWhjRVE?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa fecha em alta de 1% com Petrobras e pesquisas do 2º turno; dólar vai a R$ 5,02",
-   "data": "2026-10-08T17:36:06-03:00",
-   "relevancia": "baixa",
-   "score": 3,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Macro"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Juros, inflação e câmbio afetam custo de capital, indexação de receita e dívida.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Exame",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWVhb29zbkFIUTB2b3I3VHVSUzV0N0VvUmVXUlZYakhObC1FdVRsRi1Obkc3eFBoX1RPRG4xMUtjUi1Rd09wSGw0WmVjbDVnZFNVRHRCZVcxTDBNSXRvUDlxTHB1bEhObENSM0FqU3RCTm9BS3QxeTZpRXBfU01Pc1gwZTFmQ01Ed2hkbGdET3M4RUVUaVAzZ2NCUmxma0liMmFlUUd2M0UwY0xQbklvelhaaDlrWDZfdWc?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa retoma alta após correção com Petrobras; dólar ronda R$ 5 após rali eleitoral",
-   "data": "2026-10-08T11:17:18-03:00",
-   "relevancia": "baixa",
-   "score": 3,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Macro"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Juros, inflação e câmbio afetam custo de capital, indexação de receita e dívida.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Exame",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMDktRG1qOWxFVllNVnZHT2FGU3V6aHJDTzZSbkkwcUpBSFdZTVBFbDlNWFM2c0xiQWxFQXBtT2c4RG5ZbEhEXzh5bDVROGFIcUR6bXZYenFOWndPbFptazN4bEphbWdYU2RhVWFpQUpKQldjWE0wZ01jMVRFcW9kWUczV21YV1dTNzJmbTNsamlpVnFwSVY3dFY3U2lELXctTWxJaUtKczBHejdBejFWSVJPQWplY1FJUUVj?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Com preço da energia em queda, total negociado na BBCE sobe 9% em setembro",
    "data": "2026-10-07T22:10:48-03:00",
    "relevancia": "baixa",
@@ -2349,97 +1338,6 @@
     {
      "nome": "Estadão",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWFJRT19DWFEwMllma0lGMFI2dFZhUXhYNURKTDQ4YWxOUGR0TDd5Mk1EaWIxSTlYak4yUUpPUW9sMkFDeWJiZ0QtUnBTLXhTTTVhVzBIa29YUXVjTVd0Y0hpUXA1NlB5azhQSkVNNlpYbTNYMm56VTdIR0FIM082dkZDUGtKb2NQSjY3QXlQRmRDemlZbjJFQVRoeGo5QmVRMDd0bE14WDJRVEFMYlUyRko5eGFQcVRQTkQtb3NJOWp0bUXSAcgBQVVfeXFMTWlxZ1otbjBCWHdOUUpLaG5MX29MenRMZi1zOTlXd1BHeHdmOHlXZXVJRFRkZm1Ya2ExQUlDQ3QydU5XdUJTY2FSeDkyclJMVmF4eFMwRFFWbXFoX2VmbTNqdTg1bFJ4UFU0YVZtci1Xc2dHWlhyZ3NOYWt5ejVwTkN4dHcwaWFhMEh3NHJPdjI3U28tZW5hUTdVbF80N1FJcDVBblljNDVZU0MxdWxVMWVRVjBWbnR5NFREYVMtQlBaRWJXeWRXUDE?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras (PETR4), Americanas (AMER3), Samsung e outros destaques desta quinta-feira (8)",
-   "data": "2026-10-08T09:57:00-03:00",
-   "relevancia": "baixa",
-   "score": 3,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Money Times",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1N2bmpNVS1EcFhwUXJBVTRKRUJ3YlZMNHA1S1kzamMyd3pfUmNURl9fR2lyWHplaE9CRnR2TW5vVTZCbi1TdExMR181YWg1T2EwZW42T1RadmhVWkNPNlR1dnFyZWVIRVlLZUkwQ19VUVNwY0hFWVFaaXNhVWtXeTZfVFlyYnBYVUZyeDRBWWhIeTFCaElvRUtIeDB0aFhRM0FabWNOcy1TZ2J0WjBjaFIwVmQ?oc=5"
-    },
-    {
-     "nome": "Kinvo",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUWFWaHNxVjgyUmZvYzRPalVldG5YTjR0VmIzalBNYWE3MkFxZDZjV0RSckt2N2U2eENXdUpoZVB5dGxsdjd4X3ZlWWtCeXdWUXpSWFpPQzFhbWQ4YkJ1MWJTb0p6MmZoM3d3Ni1iLV9LMkxEOEhsb2NHZ1FWQU5BM0JLaTFCVFQ3OE0zMnFrTWVHbTRrUk85Y2NiTm4xUnVnSU1QQ01BakVOTS1taEVR?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Tempo real: Ibovespa avança aos 207 mil pontos com Petrobras (PETR4); dólar recua",
-   "data": "2026-10-08T11:44:00-03:00",
-   "relevancia": "baixa",
-   "score": 3,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Macro"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Juros, inflação e câmbio afetam custo de capital, indexação de receita e dívida.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Money Times",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40QkdTYVBScTFDb2ZhZTB3RzhNNEtBOVpabENOdmdhdDhaMHBYMC1vXzN0ZmlpSnF4a0duaE4zWms2VWdhUTk4dUlsemJ3bmlxakdJeDNjUFpqbXFwXzVLRE1ZT0JOa0t5YWg4?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa fecha em alta com suporte de Petrobras e com cenário eleitoral no radar Por Reuters",
-   "data": "2026-10-08T17:05:00-03:00",
-   "relevancia": "baixa",
-   "score": 3,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYW5ZamhhSEgtQ0MwTERxeFhfSWlsaFFCN056ZFdZVTdpRWk0X0dvYVpXRjU4TXJseFhYalU4YnIwNDdFZ2hyR01sSVBDaTdXNlpuX2dGNzNZN1MyVmZfNlJvWlI4VUszbW9CODNiVXNLSGpBbzIxV0ZDNGZsWWNjOFpDTm9takpXdWlqUk1uYjNNWDMydDF0enBiaXgxTXIwTjN5V0JtYXExU0dncTZfeWdhdFVINTc4aUdNa1BwTXBuVlBwOVVGNXRsc3lNQU1SX2c?oc=5"
-    },
-    {
-     "nome": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXVZRTlIV1lUSVhsSFRJTGxTblpoMVRweWI4SkhpbThDOUNlTENUdlplRkp4dndXUzU2OU16azdiM2V4eWhQXzN5V1pJM3YyNk16dWcyUE43ekRLZ1Iyc21fajY0cnJWbDZFVzZEaHpfOFQtS3kzRVhlUk9hU0swcGNUaENYbWRfSWoyZ2UzSldma1lhdWlaQWk5WDdzamJXMmpuRTkzeENidHRQai10bGRR?oc=5"
     }
    ]
   },
@@ -2761,95 +1659,6 @@
    ]
   },
   {
-   "titulo": "Ibovespa B3 sobe 0,94%, com apoio da Petrobras e eleições no foco; dólar vai a R$ 5,02",
-   "data": "2026-10-08T18:00:00-03:00",
-   "relevancia": "baixa",
-   "score": 3,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Macro"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Juros, inflação e câmbio afetam custo de capital, indexação de receita e dívida.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Bora Investir",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdk9BXzREUlExNEZ2VUVKb05pYW5zVmlDTVZCN3A1MHhCRjhGTExBUGpxcmtVemo3YkdVRVd6ZHlnSkdyQWh2dF9NZGdmclFBbVQ0Ql9WUUV4NGotS0FjLTQ3Nlh3UjVPcjJsSEFvZVBnTUs5U1VPVUtVR2JtR3JvamJuZmRpeHRZd1JIY2FjMlRVTlZSYXR6UDVCdGN1RnNfYUtmSjRDS2ZNZ3lHaENKRURCc0cxR3lEc3lRRG95WV9CXzY5QkM4cA?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa avança impulsionado por Petrobras, com eleições no radar",
-   "data": "2026-10-08T12:07:36-03:00",
-   "relevancia": "baixa",
-   "score": 3,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Notícias Agrícolas",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdlI0S3l4d0diV25wT3pMSTNSbWpjaTl1eGl5QmNZWE03bVJwTzlTQ3BleTBGTGZiVG9NUnd0LTdLSFpsU2owenRQZk4zWjhVQ3pBLWdxYzFkX0ZtTUFPN1ZlcXM2ZXN2cTlMdUEzX3h2YmdjclpyWEFUZFRFQVdiaWRSdGFxdlc0cFBWRlRPLWFZdVZuQVdrMW16bTNRUXhUVnVuVkFkZ1UtdUNPbkg5RlVmcXVERXNhbk5hWHlqQTNEQm9TR3cydkZaSDlsaFVBVDFvY2cwONIB3AFBVV95cUxNaGJTd0VBbHVLbHJMbU9ERGZuOHFQOGJObWFaVXdzcWVIRFdPdFZ2czRTYmwwb25RdE1OX2UzRzJkTGtjR1BILW84WWo0N2E0MW9nT19WUnhjcEtITGJXMEF6eFZicjJ6dGZkc0tpUjd0b3A1Zk42MGdpSHZJLVlkdHRXNDhuMFdhU1RJSTZ6OER2WXBsR3VCVXVsTWZtMExreHdGOHJkMUJYV01SYmVFNGdxOEVKZUZjeDAwdXpfZHliOWx4by1ib0Z2azBYSVdkRVlHemNVelNlTkZJ?oc=5"
-    },
-    {
-     "nome": "TradingView",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ldGlWOWZreUw3RjNUeXlBOE1URmZnYmJRYzN3bkp3WDFxWkZfTXRxb3VDeFd6dGZ4Q1lIa2F5dGx4QVdSeW9WanVoMHpjZEJjaWo2bHc0STFWNkdnOXhjSVF0WG9STE9uaWRFVi1HZmk5cmF0V2hF?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Dólar sobe, fecha a R$ 5,02, e Ibovespa avança com Petrobras e cenário eleitoral no Brasil",
-   "data": "2026-10-08T09:00:28-03:00",
-   "relevancia": "baixa",
-   "score": 3,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [
-    "Macro"
-   ],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Juros, inflação e câmbio afetam custo de capital, indexação de receita e dívida.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "G1",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05TVM4V0pEM212allEODJqbXhLMkZ1MmRLUGk2NWd0ODRaRlExMWlIMTdoNUg5elBRYXRyajFaX1F5U0lJWV9SVXVvTEVjRllfOWRtOElhcURqLXNJeGJIbjRhUW0xeVJQczJZLWpDTF9OaGl4RHVuddIBhwFBVV95cUxNZ1FRTWJaaFgtV2UxNmkwcERmSzFLOVJTWUN4RUVJT2N0Zmo5WlZZQVYxQTdpcU1XVzhpYVFqVHRQS3lVR2tpT1lIN3RpSVVFSTZyVFNKTy1EZDBkZTRpWXVWSDlRNXIxWFhNb1c3WDV3TlRSZ2hmSy01djBNQ0JmN1Z4QkE3bms?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Neoenergia Coelba instala sistema solar de 70 MWh/ano em instituição de Salvador",
    "data": "2026-10-08T12:34:30-03:00",
    "relevancia": "baixa",
@@ -2873,141 +1682,6 @@
     {
      "nome": "pv magazine Brasil",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGdhdmozc3R3RnlPN0pmVEtnNHlkV2c2WFIxYVlVY05sSHpSWkw2U0IzQ0hSX1pDVFVDcS0yWmZQaHJJWDZaV1dsMTdxMGtMdWVQd01YWDFucHhpNUt3UENvV0pPblBfZDJpekYtU25jTEMwcE9yM1hWQWx2MXF2TzBNR3doX1FGY1A3ZHJ0V3plWmV5UEt6RDg2MnFHaURMZlZDWnc2TW1uUFhPdkFtMlNNV2ZmUnBKaGVHa2Qxcm4zbWloYXc?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras respondeu por 91% da arrecadação dos leilões de petróleo da ANP",
-   "data": "2026-10-08T11:32:59-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Agência iNFRA",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekhFZFJIbHNJWWt4cGIzdEF2Nl9XVzVSZFVCMDVObV9JZUwxZlQ0SHpydlhUNXViYk0tbkJhMGpBM0szZDhEMl9IS092V3hfZWh5SzdEV1RGM2lXM3FZdVJjdXZHeUFVOS1jZlAtWDF5cmg5WnhvRVUxdG54NGxIcW9tNWZCYlpIcHJmdi1OT1VDYjl3emcwbUxobTlmSzVxV21aU0RR?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Adriano Pires é cotado para MME ou Petrobras, sob Flávio",
-   "data": "2026-10-09T07:33:28-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "NovaCana",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWS00aV9Za2pVa1NIeTlMNXdyQ0R6NXZQVnBlWE4xbUhnSkRSOHVmQ0tpZ0xsV3VFUVFGRktoSVZ1MGhLYkJmVnhldUNxam9Dam50cS1YZ2lzbTlmUjV5N2F1MGk1Nmo5dWY5WnM2Zi1tcVBLaElYV2JSSG5BcVR1TTU3d2hHT056NnZpZVdmV1lFUEE?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Para ANP, leilões foram bem-sucedidos mesmo com pré-sal sem disputa e bônus concentrado na Petrobras",
-   "data": "2026-10-08T06:00:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Agência eixos",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEJSMi1FU2dSeFFLUWJzNkdVNmNpUnMtOG1TQmdVRkpQU0lZNHhBaUJZblpfOXA3OU9QNlhwY1NfMTRtSEl4WlhMYl9mdXVCemUxV3ZYR1RZT3VKNlNFazZTNTF0RzNDNG1vZThoVmRmM1dpbnNTQnBBSk5wUFBNWnBKczV3b2h1cTBCcG1vQWxxd3p4TUdRc3ptaEhneVhfRHd1VkZ4MnJ1dw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras leva uma área no pré-sal a Bacia de Campos",
-   "data": "2026-10-08T01:18:34-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Editora Brasil Energia",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc1h1YnVvNDd4Q2RSQ0JfTHh2YkU1ZnNPel9hYWJnRXVDcWdWYzl0WjFsLUhCUnhCVm1qb1ZVSFZESzdqdlpKY3pXNTFwcmY2ZjJTalotTjFkZnVJaFpKR19tRXB3aUluS2tkYTUtd0d3MVA3ek9vYWNZYm5FR1RCYUxfUTIxR1RLaFdMVjFMTGJZYWNveUZvRHotYWc3eWs?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "TechnipFMC fornecerá linhas flexíveis para a Petrobras",
-   "data": "2026-10-08T17:21:14-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Editora Brasil Energia",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWE1UMmtvWFEydzV1Q0VtdTI0UVl4c3lpTnVtYWIyb0FqNnNjZWVTQVFNeWVjSHpQQkk0dUNmVWw0WUJnWTU1VXMwTmo4YnhPbk1UZUJYYW4xWS0wTW1MNGxwZUdZanVwWHpsNWtENGpIY2MxNXl4STNQNVUzajNySUFPMllWaHczaWEtemZLTkJidGRvbkh4MXRMb2FhWDdu?oc=5"
     }
    ]
   },
@@ -3066,114 +1740,6 @@
    ]
   },
   {
-   "titulo": "Décio Oddone, Adriano Pires e Eduardo Pazuello são cotados para Petrobras caso Flávio seja eleito",
-   "data": "2026-10-08T17:49:37-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": true,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcnFFR0ZER3hOcW1UMzY5bE1pcFM1emNCLVZ2dGJkbU1sczl2UkkyUGFyM1c2TEotSUhYdEE1VlN0dFFSejhwa0NIVHF4VnZHVEtwSkpscjgwcmNzSUo4ZXd3em1EMklRRXBTMEFMT3FHSDBEWHppdGluQ291LTZuNlZpTGFzMDd6eGhzaUNfa3ItSWZhNnRydkZ0Ml80RkZLdlJIdWZUZ19qODkyVUh2eExHdnF1S25SMVJXaEhpYVpsMzhUSi01WkhvWVpZenNlOXBpVFFhdWtHcUROOVpHSTFOdlVlR3d5dUVPc3VKdUwtc3laZXp1MjNfTFXSAYsCQVVfeXFMT3NMcTBUdXQ4andDZC1tSG04TGJWSUZsdkpwc3pUaVpOYVZ1ZTZmMnNYS1FPTldZRGQ3WDhRWEpKVXZwYnB6Yjlnd2hMRkJ2bi1jZ1E4ZWN1Y01RZDhTTkZsRmd1bExRVWJKRXlLWlo1dEFXNzVSYlFXRXpmYVBRYUpwUHBBWjJLZjJ4SjN3bEtWbWRDQ0xOV3VVcEEyaHVNR1BNTmlIUXhmTzF6N0trM3RQMV9HWkRWcDBCd3dQLUJFNVhMZ3U3cWkzalhadlBfNXZyaGJQR1dEQTdJVTdBbDFhYmNpTUQzUHZ1QldtVHpqWkpOdHBpX3dTY25uMG9taEk1MDczLVpSb2lJ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa retoma ganhos com apoio de Petrobras e maior otimismo eleitoral",
-   "data": "2026-10-08T17:28:42-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": true,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON3ZrVHBTUDZlZE9ZNEdGQ2tJOFplcmp1M09BMmZTZ2RHSVRBUjNqNHpvaHJnQzNtVm1waHZ0NzZTTWJfQVVBNm5wSkpFYmRPYjJ0Q2t6N2ktUmoyVjVrYThCcWpwUkRHYWxTRDlXN3JCek9QUWRyOXNUQjlrT3RaZVFMd0l4VllNaHE1QWVvMWthNXlpZ0hOUUJ3Z0tBd2xfVnVsOHFxa0NFcEN2Z092VHNCb0pERHRPYXRXVmx6eS11bUpNc3dleEdn0gHYAUFVX3lxTE91RW1HN2JDaTZLMFQ3UjVKVHRidndodHhKd1VqTWxwM2FhYWtqSjJlSXFleHh3QkRsZFJkMXdoRVRyWEh3a0NsV2NDVnZBc0o5RnJvZExIUlE4aHhib3gwU0RlZmpFRFNkd3hXZWtOOFBkMWllUTFuVnBYdnFxVXd6T205VUZfaEhzYTAxbTAxQi1vOXFmdjBrU243N3BrbXBvMDNkeGJ3YmRfWkd0QVVWTnVmaWVYa3RPc2EtNF9sbmNlbFZpTFNTUGxxdjFiWUd0djlKSVRFWg?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Blocos comprados pela Petrobras na Bacia de Campos devem render novo polo, diz presidente",
-   "data": "2026-10-08T13:13:47-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": true,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1V4OGl3Y055c0ZwVVBudlo5YlFzNXJ3VVIyY0V2SmV5eEZGaUlJSjNOTFVGSE9wRDg1bC1tZXdwRFgySVU4VjFZTWdmczhiYlB2SkJRSjMzMDhlYS1OODF1bmhmRURxdVpiNEVmOUs5ZTFDeUd1bFZYaDduXzQ2R3lQdlNJLU9ZNjdCZ0x2SXp5WVVzMTgxVU5taC15N0RzaHo2U1V4MWliY1k1bXVtZ084WDM3VVB3clFTcHlDWjhMMzIyblE3NjI0Z3Q2eHpMNTM2eHlEZXAxM0w0YTlZ0gHuAUFVX3lxTE41VmRSU2FMMFphTFl5UnpBTUtwM2hlLVhuVjRDUXpYeUxDdktaaXlEVU14UTlUM25iOWQ4NExKRDNFekN1ckNkNERucjVzazM3MHl3NDBFOWNKdnJUZFhCQ2dIbG8tbW5IMEJXTVQ0Q0NONVBhZ25MU0oxUmRsNk5tOVM0cGFqXy1BdFNxWnllemVaT1hUdjI4UjZvblIybk5qd3BBWW10U2FhR1FDSkdNZEVHYzNiYWVjdzJZOG1FaXZrNDlZYTV2WlpuZzNheWxvQVl2R3N6ZXJHZzFCcjdoakw2ZkZRSXBoZXlaOUE?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa tem ligeira alta com apoio de Petrobras e eleições no radar",
-   "data": "2026-10-08T10:37:38-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": true,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdE9jb2t1VXFScDZBVUtGQ2NQaWlHSkQ5TjBxX2pjU2g1VUNOSEhJOFBxREV5bHh1U29pZnk5bF9rY2o3NDdwSW10V0tPUXZVWFYzR29PVmN2d3FIV3h3T1VlVTJhZ01UXzQxR094TEJxZjVBeWdYTmtNTDZKOS1TblFjenZhc0U1b0hSVzA4cWRPS281SUVkSjV5ak81VURicm52Q1Y4d2hyWmxBWlJGb0dkVGJ5VmlXdXFwN3I2Zi1ZZjB1aE4yRzRTREpMNmRndng40gHTAUFVX3lxTE90T2Nva3VVcVJwNkFVS0ZDY1BpaUdKRDlOMHFfamNTaDVVQ05ISEk4UHFERXlseHVTb2lmeTlsX2tjajc0N3BJbXRXS09RdlVYVjNHb09WY3Z3cUhXeHdPVWVVMmFnTVRfNDFHT3hMQnFmNUF5Z1hOa01MNko5LVNuUWN6dmFzRTVvSFJXMDhxZE9LbzVJRWRKNXlqTzVVRGJybnZDVjh3aHJabEFaUkZvR2RUYnlWaVd1cXA3cjZmLVlmMHVoTjJHNFNESkw2ZGd2eDg?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Neoenergia concluirá até dezembro plano de construir 12 subestações e ampliar outras 33 unidades",
    "data": "2026-10-08T13:35:37-03:00",
    "relevancia": "baixa",
@@ -3201,87 +1767,6 @@
    ]
   },
   {
-   "titulo": "R$ 3,2 bi: Petrobras domina leilões da ANP e faz aposta em Campos e novas fronteiras",
-   "data": "2026-10-08T15:30:17-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOExzS0FEMDl2dlBEcGZKZFhfSW5JbjFaUzh3STd3UWtDSEpCX3FOaER1UW9TY1VoWnpVWHZxZlNlbElZYktfMWtadmtyelRibW4tbmdYVDc4anhQRUIwbU1tV0FjdE1Ja0hueEhMeWZncDhsMDJpTHJzQU1rQjZMb0xpaXVvZUw0SkExcGNSLS1pRUtIdEtfWmM0TDViSl9ZR3hSTlpqNkRLWW5BM19UdjJ1bE5RX3hTLURqX1hXOTNjWHhq0gHKAUFVX3lxTE9oUzJ6VW0ybzFCY3lWaVdQdWNzS0x1VDhUSktQWjF6bXhOOHJZaUhncHZTcEc4ZE9KZjNJeTF0dmpZZ1hIR2IwWVNENUdDNURaajdSVmJaLXUza0U3M1lEbVR0Z2RELWlmUlMzRTZtbmVTTGJVNTMxQ05ka0p1NGFaSjhhUDZpaWZ1amhqOFBiVXpSYS13QVlhdlo3dFBwLXAxY2RBQUtWQ1JMRGhpZXo5YUg4T2R4dUVyTnhwSEViNXYzNTRWNkVYTnc?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Após disparada de 8%, Petrobras perde fôlego com pressão do petróleo e vira para a queda",
-   "data": "2026-10-09T05:23:03-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Negativo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": true,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQURBSEFxQ1l6aTAzQVpJeVF5a0NmRnJKZnc2Z2pnN0pBUFFnb2JCR2ZoVEJzOGNSLUdJQ1prdGs0VnJmaEtMdndsbWRtR2p4anRvOWhSUm5wWkxMT2xnWG14TUZxWHdYWWZhT1BzN1ZoVGI0WDJIM2h5bVY2c1BpQnh1aEJtT296cVpETVlIN2w1dG9HMEpKX2lCakFWNkJ2cjhIVjV0MFVtRmFNam5URVZyUC16eGdjZ0dKcWl2RTVCU2NrM002NmVQa0dYSURkQWg3akFlZy1wem1UN2NocmdzZEZzZw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Governo arrecada R$ 3,5 bi em leilões de áreas de petróleo e gás. Petrobras se destaca",
-   "data": "2026-10-08T00:00:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "O GLOBO",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEVSMDlKOEVtb2tUTXJZR0VUX3ZIRmtoOGdtcmJRbUZMMGxYVC16Vjh6UFNkMGN4LWpaWFFBMnRWVTluRkpWeWNZbUdQZG9aaGZxYlBCNmtJWnd6aHdPcnQtallrakJ1QnJyWFZrakx5bFRoT1hHeFVYUm81R1hvWFJod2dseEZhUVY4NkVMcC1sUDVISHR0ZGROb1dZVkRjWWZHUG5ORHVYUlp2MWFqcTIwWmJ1blpXM1hyQkV2bVdFamJMclYzbjlSb19CdnlvcGdkakdOaENHQdIB6AFBVV95cUxPaFFQZVBiTi1aNjJPLXFGRW1GVVlESVlZQlEzbmZYOE5jSkhLLVhYY1M0WXlialRwc0EzSHhYY1h2MXUxSTBDbkhObWs3VzF1VXdFSmdwbnhjTWx0RU1pSTR6SXVCcDc2Q3JNSE5SMzZmdHY3dEpFdnFMVGtzd09kMnBQN0hfSVNwdmRCQm5HeHNHcG92ZXhZTWkxZzJWdno3R2huNTNnNjdiNFI1eVh2NWE2b3hnVENyclZDV1lieXFNMlFNc3FNX2xuNi00SFV2OWk1TTd6eUd6V3lLU3NNdWNkUXNqMVlI?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Day trade: Compre Brava Energia (BRAV3) e venda Cemig (CMIG4) para ganhar até 1,4% hoje (8), segundo a Ágora",
    "data": "2026-10-08T09:40:00-03:00",
    "relevancia": "baixa",
@@ -3305,87 +1790,6 @@
     {
      "nome": "Money Times",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3VXdRRUNXWVREakZVUEdRRFIxSmN6SXBLbEZndHRUNy1LTEd6UXRnMEctd3hHYWY0aVphbXVZQ3UxeDZSQ3pvVm9EY0MyVHdVa0NLOUI5elR4eWQ2TGZiNWptQQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "PetroReconcavo (RECV3) sobe com petróleo acima de US$ 100, mas produção 'fraca' limita ganhos",
-   "data": "2026-10-08T11:43:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Money Times",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEh2VTBFZXlRaHU5VE9ObGpKWXItRmg0UU04dWd5MGNNU3Q0emUwcHhpRUFkQ3pVaWRCMGNDeTJmbDd6UWJsQXV1eHBCN3JrWFVOLXdsTGtjb3p3bWlIWnJ4Vm1mRklQTWJZRUdWZHNJdENwQld2cFJHbWFPRjJUdm5QQlZIaXlZd0pKZHBwQTFDZWdKNzI3RGxUbzZYNC1oS2VkREJ1dmFmUTl4NlBseXdJSlFCckd4Uy1FSGp4Rl8?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "PETR4 subindo com o petróleo Brent: análise técnica das ações de Petrobras",
-   "data": "2026-10-08T23:23:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcnp2Ri04UDRuUzJ4X0gwYnF1MG0xYjMtRXFjLUlOaFRrMl85QUZpTXg3RHJON0hIa2NHbDhjS3FKVGFfVHM5VzBpTEZJeDVTYnBXajdKbFE0OEwtQmhGRC1qaWc0Nzh2bmdTbUprVDRmTHNvYlhhUVNJRVNyREJDVUNGTzJEUVNSQWZzaWU0TS1oZ2FJaVJKdmFQaFFCS1JLdkk5ekpybGEwS3gtTDdpTnduSEE4ZWtF?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras entrega retorno de 62% após sinal de Preço-justo do InvestingPro Por Investing.com",
-   "data": "2026-10-08T09:04:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ1F0TFJUSWZmZTllNWNZWmRLQkt6aFVWTWVJZ2F3N0h5ZG9BZUpTc1VXTmo1ZEJzckhqbHY4Q0VOZURfSW1ROFFucWdVM2VweEczVXFxd1A5S3RIcWVhQVlFOWVNay1vWXRpSHduWFB2WDc1Y3RVcFZQZDVfT0lzNUtkaU9IeTl2ZnFOa3R0dE5xRTE5ci1aYldSYVhIWThmUDV6TVpLRmRRazNLVEl3QzJZWkI5ZlROWXRKT2loT2Y5eDNrNkc2WmtQRF8?oc=5"
     }
    ]
   },
@@ -3606,33 +2010,6 @@
    ]
   },
   {
-   "titulo": "Petrobras (PETR4) registra bônus de R$ 3,2 bi em leilões da ANP",
-   "data": "2026-10-08T08:45:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Visno Invest",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXRDaGwtWFlUU0R4ZXBsUTRiWFczb29fSlhmbTZsZEJZaGhHNFJmODZDaDMySWtnbzhEelE1YTZPVHpvVDVtRDIyMDVKM0tCYlQyNzBCY0laSHFNVGN3ZUdlaGZ4NHctNDhkZGpTNW9KcUhydHYzSC1YaEJKUm55b2VFUDdEZk1QVzVyMGFMYlJ1TU1OSVZPM0Vmamgtdw?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Axia Energia vende 49% em ativos de energia por R$451,5 milhões",
    "data": "2026-10-08T08:36:50-03:00",
    "relevancia": "baixa",
@@ -3656,33 +2033,6 @@
     {
      "nome": "www.boca.com.br",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUxqQTdwbnNaaTZnTTdOUEhnTDNPZ1JwVnQzd2plcF9WNE9UVGI1OS1uTHkydnRzSnFDTURVdWVkTXVMRXN4Q1MtQklySkI5d0FGQXZwa244NHBYT0JTb0RMNnA4S2s3SzYzM01Jb0hiLXY5dEhWWnFEMUJMRWVmLXpWazMxbVJ0MG9HeTdRNlZjU2x5RnRacUx4QQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa avança com Petrobras; Vale recua com minério",
-   "data": "2026-10-08T10:43:10-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "SpaceMoney",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdFRhVl94dFVmU3B4REIya3RpNm1yWTJ3LVhCbF9oYm1GTWFySVhrbUJjbTkyai00RVB4YVhNdnBVdm9FcmVBb2lPTmlBTUQ3c190SmFuemFpTkNuRFUtcW1PTERieGRPYTcxTDRSRndGS3lIX0Fqb3U0cDlqXzdaUFZFQmJVQkpBbWRtRXhzWnh1NVVqbll5anBiR0o?oc=5"
     }
    ]
   },
@@ -3714,8 +2064,8 @@
    ]
   },
   {
-   "titulo": "Equatorial Maranhão informa sobre atendimento durante o feriado de Nossa Senhora Aparecida",
-   "data": "2026-10-08T15:44:35-03:00",
+   "titulo": "Equatorial dá 50% desconto em geladeiras e aparelhos de ar-condicionado novos em Goiás",
+   "data": "2026-10-08T16:25:23-03:00",
    "relevancia": "baixa",
    "score": 2,
    "setores": [
@@ -3735,8 +2085,8 @@
    "fonte_primaria": null,
    "fontes": [
     {
-     "nome": "O Imparcial",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVhEWDRiVHdsaFFJdDhGQ19DQjVvYTVjZTFVanJDREYwcVJYNjAzU0xzM19EYURrOUc0czNNSUxvNkUtVXhXRmE3NDNSa2JweHZxeHZkaUJudjhvYmxwUkVibE1YUFR2VlJ0XzJudmFnVW5pYU10bTVfbjd1VXlEUkh2ZkRYUFg3V2ZyazRZaTYycWhQTFVqXzE1Y3p5YTN3YXNiLVdpekhYc0dady1DeFlyUEdxbi1ySmpPSGFWbzJkN3NPQU5QZU5IZjRGSkk?oc=5"
+     "nome": "Mais Goiás",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ3hVNFl2TFYzazdieUtjUDdwTnVIdmtQbkUwUDR0V0dENXZ4S09UVnp5Q2hNQnh2VDQxZVVNMkE2d3pwV2lCWXo5M2pxYXJtRXpKbWtrNUNXN0dCdHlPTTlpelhKVzlBRGdUamFFbk85RlM4aUpSenpPa3kzZ1ZZS1oweEZsdE9uQkZSZUpHODdFMjNPWm9MMW1NbGxJOWwzeEd3dW5pV1M1YnZGdU9sZ3ZpTWxKNEptODBQVzRlUEo?oc=5"
     }
    ]
   },
@@ -3764,6 +2114,33 @@
     {
      "nome": "Diário da Manhã",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0hPb3VndUpNR19oSElFWEptU1Fmb1UwMWVVcWxuSWFjVzhqTFVEcXdYTTloNWN6N2VtcFhZR2QySE9nRERhM1E4ZF9FUTl3NFc4a244TEZ3cGRMazZJRGdCc2M1enlfN2daQUYtQWhNSnRqWFBPRmFpeWdwcVNDSm1MNHJZQmJkZUZfRjJ5LXM1WXRMcGV3X1A3Y2llQk9PdHo2RVhmN0I2OG0tY3EyZlJXQzFUX2hhZHh0YUxUY0Q?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Equatorial Maranhão informa sobre atendimento durante o feriado de Nossa Senhora Aparecida",
+   "data": "2026-10-08T15:44:35-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Equatorial"
+   ],
+   "tickers": [
+    "EQTL3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "O Imparcial",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVhEWDRiVHdsaFFJdDhGQ19DQjVvYTVjZTFVanJDREYwcVJYNjAzU0xzM19EYURrOUc0czNNSUxvNkUtVXhXRmE3NDNSa2JweHZxeHZkaUJudjhvYmxwUkVibE1YUFR2VlJ0XzJudmFnVW5pYU10bTVfbjd1VXlEUkh2ZkRYUFg3V2ZyazRZaTYycWhQTFVqXzE1Y3p5YTN3YXNiLVdpekhYc0dady1DeFlyUEdxbi1ySmpPSGFWbzJkN3NPQU5QZU5IZjRGSkk?oc=5"
     }
    ]
   },
@@ -3849,33 +2226,6 @@
    ]
   },
   {
-   "titulo": "Equatorial dá 50% desconto em geladeiras e aparelhos de ar-condicionado novos em Goiás",
-   "data": "2026-10-08T16:25:23-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Energia"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Equatorial"
-   ],
-   "tickers": [
-    "EQTL3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Mais Goiás",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ3hVNFl2TFYzazdieUtjUDdwTnVIdmtQbkUwUDR0V0dENXZ4S09UVnp5Q2hNQnh2VDQxZVVNMkE2d3pwV2lCWXo5M2pxYXJtRXpKbWtrNUNXN0dCdHlPTTlpelhKVzlBRGdUamFFbk85RlM4aUpSenpPa3kzZ1ZZS1oweEZsdE9uQkZSZUpHODdFMjNPWm9MMW1NbGxJOWwzeEd3dW5pV1M1YnZGdU9sZ3ZpTWxKNEptODBQVzRlUEo?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Dia das Crianças: Equatorial Maranhão orienta sobre escolha segura e eficiente de presentes",
    "data": "2026-10-08T15:43:13-03:00",
    "relevancia": "baixa",
@@ -3899,34 +2249,6 @@
     {
      "nome": "O Maranhense",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1NiZjFlNFBLWFV3d0NMazVvRWxSVWoxdER1MXQ2S2tKZ2d0djVReEFHTlVaZXRBbmZaeVFueEFnbmFTWmVkZkJYWmd1SEZvdWNKblVXUU80TDBiWHlPbXpXa3hHbC1sZGJkS1hRY2dscGR6Rng3eXNxNGY5UU9CRVdJaGhHRWRwZ0tqamZfY3QtZlBOR0h3a0lScGhocmYzSVNUSHNvYy1kVFNfd1ZaY05pbTRTQQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Pazuello desponta como nome cotado para presidir a Petrobras e une experiência militar à defesa do setor de energia",
-   "data": "2026-10-09T03:18:19-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Energia",
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Ultima Hora Online",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTTVUcDFMUTEzX0JCUmpsamJQZ0dVaFlzLWFPM1RobXpNdG44TlJHQklIV3E5SkpFeUx1ZEZtR0g1dGg0aE5vaTRfcGpyM1ZFeXY2ZDhzNEJ4Nms1NzNHeFZjclB2eWNONl9udUhDY0p2LVMxU2xJUnE0QzRVUy14eXBpQ05JbGR6MGhUclBaZDBTZkphRElWd2ZkaUhEN2VOSmNkMm9ORnlpQWk0cTlVX2cxdmNNYk9yMGNaYTVKeVMxQjgwdGZoUWpVeUlLY1psb2wwUzhxQ0tzZzFTZmg2OFVDMHhSWDFHdGhLZkRqOHY?oc=5"
     }
    ]
   },
@@ -4745,6 +3067,33 @@
    ]
   },
   {
+   "titulo": "Rápidas: Petrobras, Prio, PetroReconcavo, Brava, Vale, Ecorodovias, Embraer, Totvs, Blau, Isa Energia",
+   "data": "2026-10-08T11:17:48-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "ISA Energia"
+   ],
+   "tickers": [
+    "ISAE4"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Finance News",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWi1naENUdU9vczh5VmZfRFlxbUVNLUhock4zTDVMSl9LQ09PM0NTZ0hmZkVhR1V2ZmdVaW03ZFBSN1lJZmhQWGs2Z0pWV1V2X2RNRXE0TnlwY05uaUdFblBmSUZxSWQyNnNpMlZibW4yOW9fTmVGc1ZHS2J4YWZLaDNQTHI1bmd3LUdNaTdfcVZGQ0tVTmY0RnJyMFZ5STRwM3NnbVFhTjFlazgtTC0wM3dDSElqdEY4WUN2bHQwZEgwR1FIMXc?oc=5"
+    }
+   ]
+  },
+  {
    "titulo": "Eneva (ENEV3) amplia território e garante seis novos blocos para explorar gás natural",
    "data": "2026-10-08T10:58:05-03:00",
    "relevancia": "baixa",
@@ -4799,19 +3148,19 @@
    ]
   },
   {
-   "titulo": "Petrobras paga R$ 3 bi em bônus para ativos na Bacia de Campos",
-   "data": "2026-10-08T08:31:43-03:00",
+   "titulo": "Projeções da SLC para a Safra 2026/27; produção de PetroReconcavo, notícia da Brava, Eneva e de outras companhias",
+   "data": "2026-10-07T21:37:47-03:00",
    "relevancia": "baixa",
    "score": 2,
    "setores": [
-    "Petróleo & Gás"
+    "Energia"
    ],
    "categorias": [],
    "empresas": [
-    "Petrobras"
+    "Eneva"
    ],
    "tickers": [
-    "PETR4"
+    "ENEV3"
    ],
    "impacto": "Incerto",
    "resumo": "Não identificado na fonte (apenas manchete disponível).",
@@ -4820,8 +3169,35 @@
    "fonte_primaria": null,
    "fontes": [
     {
-     "nome": "MegaWhat",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlhHRnRCakUzQ0tCQnBjN2Q0emtYcGxiQmJMSkUyMlJ3VlRXTHctZDM5QmJ6V3FNZjFCdVhTd2JLcm1KVWVoNU9IYjZyQndQdXloTGlaWkhtQmJEV1ozeF9aUXNPWW1KSkpHNjlVZmlkbEFXUGc3R0N3dDUzOXB1OFlaTVJZcFRtMlJ0Yk4yb2dNM3FENUVBelNJY1ptTWtnMG00?oc=5"
+     "nome": "Finance News",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU0hlTjdKeGlOSTF4RF9LamFYOVNxN3Y3bDNkRUdwbmtTMkd4S3ZLc2dDeVFGUl82TWlLQmZZM29XZDZLUVFVQXRPeDhEVTc2MXo5V05VRmh1RkZNU0tha3BmaHRTRWl6eHc1cFlsUC1EWVpDb3JCVWRfaFNuNDEtVS1IQ1BEVjVraG02bzREeVlJVGJZOFljSU03VHlLdXZwdDczVWpBcFVEbjRLSE5QX2NjRzhmUGFRMXZ1WkxOTzRJQl9KNzBPWHdmR1VvU0R2R0ROeWRqTWRfLThQQ2dv?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Petrobras arremata 19 blocos, Brava amplia produção e Eneva avança no Parnaíba",
+   "data": "2026-10-08T11:55:48-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Eneva"
+   ],
+   "tickers": [
+    "ENEV3"
+   ],
+   "impacto": "Positivo",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "BM&C",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDQ5M21pbnVhYng4NUF6SjItay1QdGZsaTA0TG1BYzRrekVtb0lWNy1maGJpckIxQlJCeDJpTkNtdFVRX3ptdUtMMkxjcEE4VmV5UmVrdFpKTENMcDROV0JveXBxcWtfUXloNlI1QWs3YTRhZFp5S1UtcDQyemFYQmVoeWpiaHkwSnhYNFdoaXNfSUtGZTB2YUZhczhCLXBLbGNpUnY1VDFhbHh1bW9ZM0F6WWxXUDdNRmZPUFlB?oc=5"
     }
    ]
   },
@@ -5038,33 +3414,6 @@
    ]
   },
   {
-   "titulo": "Após denúncia ao MP, Sabesp atribui falta d’água a chuvas intensas na Baixada",
-   "data": "2026-10-08T10:00:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Saneamento"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Sabesp"
-   ],
-   "tickers": [
-    "SBSP3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Santa Portal",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHpVWndXREVaTnJQdHY0OGxpMExRcG14cmFWVVZSZ0dKQ3hRRXJxNlpvVGZ1MzQwZnFfNGFnZmpObk9pQzZJZzNYOG9HT1NEUWtsaDVyY2NEYVBfWTZ6TE8wTWhNM1BYbzVPNV9lVC1fN3o4b2xUVHpaLU5EZGoxNWVRX2pCcThQTmRnTDFlM2VySXNyOW00elFuUGQ2TC00UnMyWnl0a2NGWE5CeEZFSA?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Sabesp está com inscrições abertas para seu programa de estágio em várias cidades do estado",
    "data": "2026-10-08T11:07:15-03:00",
    "relevancia": "baixa",
@@ -5088,6 +3437,33 @@
     {
      "nome": "Barueri na Rede",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGtaTk5Raml4NHB3M2ZpbWFGNl9KN2N5N3c0NHhqSWdNR3paVjdTekZZaDFOeG5CT2E3ZFMzRm9hakFwSzU5dTF3NW1pa1p1cGo1LWhRcVZ4ZlFSUUNzWEpiYVpNTkJCdHVnSUZsX2dUMUhGZG5ZYTAwdkh3WGgxOUVxN0pWVWZDbDFMUHlvblFwTkF0WV96dHFxVVZZTkhXV05UV2k1RXU2SGVPMGpubjhIejI1dWc1cUtnUA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Após denúncia ao MP, Sabesp atribui falta d’água a chuvas intensas na Baixada",
+   "data": "2026-10-08T10:00:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Sabesp"
+   ],
+   "tickers": [
+    "SBSP3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Santa Portal",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHpVWndXREVaTnJQdHY0OGxpMExRcG14cmFWVVZSZ0dKQ3hRRXJxNlpvVGZ1MzQwZnFfNGFnZmpObk9pQzZJZzNYOG9HT1NEUWtsaDVyY2NEYVBfWTZ6TE8wTWhNM1BYbzVPNV9lVC1fN3o4b2xUVHpaLU5EZGoxNWVRX2pCcThQTmRnTDFlM2VySXNyOW00elFuUGQ2TC00UnMyWnl0a2NGWE5CeEZFSA?oc=5"
     }
    ]
   },
@@ -5819,574 +4195,6 @@
    ]
   },
   {
-   "titulo": "Petrobras domina leilões da ANP com R$ 3,2 bi",
-   "data": "2026-10-09T05:03:08-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Acia Araçatuba",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SFdkbDExdG42ekd3cTE3eTR5M2puZmswRm8wcFQ3VGhDcXE1LVNDMHh0dEM4SkJuMnVDOUxuM0FnWXNSUHQ3bDl1UmdsbURXcU9pdTJLVUdFQ09vQ3JvaG5Bb2NkNG9wLWM4WGtR?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras Faz Compra de R$ 3,2 Bilhões \"Mirando o Futuro\"",
-   "data": "2026-10-08T14:32:53-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Forbes Brasil",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSFRMTkVhc2F5dmRPUF83ZWlfcXZyZXRxUkxsaGg1RXhncVpkTXM5b01tUW11Nms0N29wd1V4Mnh3M0N0Ymh2REIySkNjQkdFVnN1WENvVmdQVG9rQUJIMktyYUJQS2pVMDFPeDI1Y3hCWncyaktYVmVaakMwOXdrMWdROVVJOWxNWHdGU3gtXzFFVW9GRG5rZjM4Y1pVQQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Oddone, Adriano Pires e Pazuello são cotados para presidir Petrobras (PETR4) em governo Flávio, dizem fontes",
-   "data": "2026-10-08T18:31:59-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Valor Investe",
-     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOT01CUFZ3VHhDX2dsVlRpSDdNdmVFdXRwTHZjZHBBWVQ5UFYzaTRtaTI5ak4yQ3d3SnlseC01WHlQNERiRmFJZkY2VVBjWE83Q1RZYy02OTExWnF5NTJ4a2l5Rnd6YWIwZFFHZFNlR1lVZjZqRzR6WExtdUNDd3ljemljWGR6RWxUdXBfSmlwNTBjUE8wbEV2RzMyVHhNWTJrNk5zN21zZFJXSjQzSXQyQVJENUtXdWtJcEJVLTJKdXg1T0Fwd3JrWTZSZzhYX2FRVnZSd2lRUl9GdjI5NkFOSXItaGlzTlpfY0lEd0hRSzVJSmo0aXZkRDBqZlUyN0EyTzZRbmdUUHFzR1ZIZ05rdFBHVnR0YTlmemc1ZWp30gGsAkFVX3lxTE5LSVNnVHR5eVY3MnZJSkFtR0pFVmJ3TnN1UGdDLTZQbDNiQWw1a0Y2ZnA3WUZ0UVlUMy0zS0YteExyZVo3RnFTZWtUZ1hmMlNPd3hRTmpZTERHZ2hNTE9VMUd5cXBNVU04MzJWTHV6UDRUbkwwV0dnNDBxS1dBYWdNOGlmcS1jbGVHS3p2bnhvbm84Y1lQNlBocktXNHVsNDBwWWFBNERMWEFwOFZ0OV9YdzhscHB5aV9VZl9mSTBaMEM0bHF5SV8xc00zRnFPeVYzS2poTGxjRm1ISTdjRDRZc0I4VHhYeGlBMzlVc3hxbTNuMlpSZVRwT3UyYkQzV0NJSll3MU9iODR0VnhVMEtZeHpONmV0VW5DWmlfRHZpYmR1RTFWTmVsajNpOA?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras amplia portfólio exploratório com 21 blocos em leilões da ANP, e mira recomposição de reservas",
-   "data": "2026-10-08T13:33:22-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Positivo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "ADVFN",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnZuS2FCOWEwRWNVQzB3MVJGSEx0Y29zZ2tfUjVITkdOenU3VlVuLV83MzVjZUNwdndKRFU4bzlaUkYyVkhZbGhxUTRaLURTSWo3eXktZkt1NFF0b3puNVlRS1FWZnBCSm1zSzNDWjZNZVFnMXZsLXJFZzFMODAwMnRIR1hOUzNGTWFwa0NDckJuaUpHeFJiX0o4bm5iczhNRUQ4SENuUW85ZE15OFJjN2F6WFd5R2s5Z2VCVDd6a2NMbE1qZm5oTFFHZWxWSV9jODNEYUh3?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Pazuello cotado para a Petrobras",
-   "data": "2026-10-09T05:00:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "O Dia",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT0RTQmVBZHVBTGwxVUtRV3V3M3pOZmdyd1hhaUJnQ0J1N3ZfNTNpRDh2NE10N3YyUnlaeW5QUmQxOGZKOW9YSlR5d3pTOFFIV2FTNnVocmk3ZGVTTHpqNkkyNWFDV09lODg5R05jXzMyTThNanFrd1dFdWU2Z2RNVEQ4MEhqX2ctRldUbmNKeDBnY095SUx4eDU4amx0dGpl0gGmAUFVX3lxTE1vVW5SUDdtcjBHZnk0UzBtVHVTYmh5ekxmckhqeDBZSXRkTURaSE9TSTNOZkdwQ1B3VzZPaW1icGhxVEZ5aVBRb29ZSzdEMnJJOUVESDFwczFTYkJwZVlBQW5vUENVTEFKclo2MWt2ZGpMeDRHSXVfRndlV2ptdjZOTWVnbjlOaVg3d0p5VG1kTnVDMzU0RUJnUkFDdkZySjYtYk1TS1E?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras lidera leilões de petróleo e destina R$ 3,22 bilhões a novas áreas de exploração",
-   "data": "2026-10-08T16:59:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Brasil 247",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVZkWWUyODR4S0FnZDdtc2VZU2ZURzN0TlJFWWZVdTR2bXZ2SnhwT0swYUYtOEs4NXJkZTB3eDIxcFFKWXhQamdWd2w4czA4VnVoMTVKZ3dvT29BMlZLZUN2M1Z0VHZUZlJWbW8xTkwwUEN1YXVsOEIxczJybEM2STlyaEF5UXgyUEpFNktxRHZIYlBvczNNcFlRQjdfQTBUMzZqVXEwd2t3dDl3T1dfWm1wVmNfRFFxa2xIR0x0b1M4Zw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras e Qatar Energy arrematam 7 blocos na Bacia do Ceará",
-   "data": "2026-10-08T15:00:41-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "TrendsCE",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEhVZVZNY2VSbk1Oa2lia3AzWThrZUpzT0JNaTVFMDctRmRmMHNteTNDVjdxZFY4cXpOSUpUcGFZNUJGN2lONzlXbmR4SkNQR2pYWEMwb29NaVp5Q2hQSHVJTUlMWm9qVWJJeWc0OF91M3dtSXBDRUNuWlRwMnRjYlQ0dUx2WjBTOW5NYmZqdnFkaDJGSk56TmxKYjNRQVJnTEhJ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras Vê Retorno Do Petróleo Ao Patamar Pré-guerra Mais Distante",
-   "data": "2026-10-08T17:53:06-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Cenário Energia",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczhES0YxN1BJZmpqMGNvRXlkMlpGOHdtMjVKZS1nWGU2OHRSSDdEUks1cjdqd0k4dnZGZ3dmOC04ZGgzUzdFRVk0X3JtSXIxU3NtdzIwQ2wyd0xYQ01EQ1QzU2tOdDhzWjNXTjI1bl9Kb2E4bzNoWktJWmhTTjhFNHNlSWtqRmxBVjM5U2dLMEJkLVhvbXNGNFBWMUtoYWZzY2ZUOUVYTWZCTFlzbVFF?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras investe R$ 3,2 bi em leilões da ANP e reforça aposta na Bacia de Campos",
-   "data": "2026-10-08T19:00:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "BPMoney",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2toVmxaLTNYOFB2SEtWYzhTWjFvSGFDX214LU9yTWRVZmRyNnJteGFKM202aVppMzZoWW9CWGlQeU5Md1c3Wk1KeFBPZUxDWWxzS3RxWlkycm5IY2tvaHIzVVh5VWE2Y0FNRXB0VTJMT3pxYWptanQ0TDRFQXNpdVJGd21talB2SVZ2X1EwN1hDS1FKNzBhSlpR?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Fechamento: Ibovespa sobe firme com novo otimismo pós-eleição, impulsionado por Petrobras",
-   "data": "2026-10-08T18:32:49-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Bom Dia Mercado",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLTV1ODNKdTUyOU40cXlaUjQ1VnhNMFBPUDdINlcwaTNQQXotUVNGOVlIeUtlOXpLa2tRXzlCM1ZOUThQX3Utck5pa0hnV19QOWNFZ2ZURzg2OENxU2RRTmRMX002a3VnNnoyWW12LWNmbDJiYS1FaldoeHZ2azVuM0o3VzI2aU9obWM5NXpvN2c2VXpycm9aTUJzb1pubkRhdldUUUNSSktvalVBZEZhazhjMGRQOGJ2bXZsQVZ4Zi1TQ1Fuam9mZ04wOENFbmIwWEk1b3M2cjdEU2wybUxsVUtCTXBNMndxUVhabjYwcm1tdw?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras: novo projeto de biorrefino",
-   "data": "2026-10-08T12:12:15-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Revista O Empreiteiro",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoSmhCa00yVXZ0ZV9aVmpWck5tZFVwWjk1V1ZIR0pueFpoWWpEY2xodzd2OTM0c1VtUDJ4WEZMa1E5UG1USzlpQzZjX2h2Sk1HYmpxdmNfSkpWbF9EMWFHb3U3UnNsV2FGZURMdWp1OA?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Conheça as 13 empresas vencedoras dos leilões de petróleo junto a Petrobras e com R$ 2,37 bilhões em investimentos mínimos: veja o que pode mudar para os empregos no Brasil",
-   "data": "2026-10-08T16:21:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Positivo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "CPG Click Petróleo e Gás",
-     "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOUDZ1ajFQLXhVbzMyWElyNGtqYjBKQVpCV1E3TnRxT3dKb3Rtb1U4NFgzNHhRUG1GX0tjUEctaC1ENmhpakJwQ0hSVnJNMzRqelZ1d0I3QUY2R3R5ZS1UeGZkbFY4dXdEbVl3THVJbExDUHp2aVU1bU5jQUVBSEFFWEF5STE1aDhWNTBXQ0JmRVpHSTRRNkpiT2VSTGtFTldkLXBNbUxKT2VEczBMbDg2aEpON1ppeGQ5b1ZzRkU1Qk1wdG5vNWpVU3VncnRiZ192NVROc0ZOd0NrLUxVNmVHWXRxdGRDRjM3ZHBmVUJMMUFfZlVGd0NfcVpncW5PUFVuOEdoemI5c0xZY21JcnhyNVhNNXc3S1FlNWVsWXBsZHZ2cGZrRUU2YXFDeFc0bXNmYm5USg?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa atinge 206 mil pontos impulsionado por Petrobras e clima eleitoral",
-   "data": "2026-10-08T17:51:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Tribuna do Agreste",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXQ4SXVfbDR0UVlQS2YxNmV6Y0V1UkUyM0pCWmlrdHRlc05GUVNIekt5cUQ4dURVOE5jUEtwTEY4TjJoemdKalA5d1o0aWtfSjA0SHBSMUJ2UFIxYk5vTmxhc19mUUtxVjhFdzBKVGVhRkJDZ1pJQTU4Y3UwUVJsY19DMTZ5SzhXU1RSd2xCZ05RQUdGQzlEVkdhb182aGFMS2xTTXBkTERYbF9uenZIUDhCVHpucW9YRGpXTW9zei14VzRnZmxnWks5OXAyZmNY?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Petrobras: Petróleo encerra dia com alta de 4% em meio a tensões no Oriente Médio",
-   "data": "2026-10-08T17:43:00-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Tribuna do Agreste",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUks5MTBDbi0tN1h2anpsSDdhelJBR2J5Y2NQT0ZVZm8zUlJxMC1YUzJ3TS1xVTdLbzducnp6Wl94TjloRHg0X3NPc1VzdlpJMWlVODhGa1RhY2ZndDlJVENxMm9yVGM3bGxtVElnak9xQzNadzdadzNhYVljeUtfaHBBcWxrTzlVdHNTMHEtYnJITFluYTRhUFQ1R1Y2UC12WC1BQzBUTXZfWlFTZktzMnk5VGhGZXVpU3o5T2U3Q1VNSkhUMi04WGZIcTFVUDdrYVZvc0RR?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Ibovespa sobe aos 204,9 mil pontos com Petrobras em alta; Vale cai com minério de ferro",
-   "data": "2026-10-08T10:21:48-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "Petrobras"
-   ],
-   "tickers": [
-    "PETR4"
-   ],
-   "impacto": "Negativo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "BPMoney",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWxYTDRvWWtNcXhqdWM5LWZqbE9HWHpkemFxTDR4ZzA3TlNOdHZzUk5sU1JVdW5nTWRkak5mMkg2cUNsV3VTQkhSTDVFUi1yQnJnWWFBWTdsSW5XeUZCXzB5bUVjNlZzZUJYMDRZb0dGWE1fenNUVndzRDhRVk8wTVVCMTZyR2l6ZkxpamFXZ3hhVWd3M2hxcmZaMUhuallMNXAyYU9wZzNDU0lfM2VfOGk4cXhSOFBFZFE?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "PRIO (PRIO3) avança no pré-sal e garante novos blocos próximos a Wahoo e Frade",
-   "data": "2026-10-08T10:42:07-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "PRIO"
-   ],
-   "tickers": [
-    "PRIO3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Guia do Investidor",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0tCbFFBUWNKZGpGWGg3al9QNmc0UHYwM25YNjNYNmJSNUJQTEFQWTZSeDFuekRfVzd0Vkk2bWRIWEh2T3dGVVY2cUpIcUxxNHFCeC1NN2JVd1J4dlk4T29aWHBjOWM0bWNlX1dWbFhidmZwS18xaDdwNTNRU2NxRExSa0JoMXFxVllrRk1TbVM0eDVZVkptclN6TkV3NDhmWkxvdmNZalhiTG5qaFExMGE3TUZkMEZF?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "PetroReconcavo (RECV3) registra queda na produção após falhas operacionais na Bahia",
-   "data": "2026-10-08T10:48:56-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Negativo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Guia do Investidor",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1R5QU16dmdtRGdoV2RGZ3RLcm5lTElHUmhqdWc5RUIyay1NejNOS1UwUmVfRmZRMlZFY1FMa3lfMXZfMzRJaFUtWHU4QTMwSWgzaXo0c0J0b3VJUHJ4SFlNU3JSdlhlWVNtaTZZNGxKZ25EUi1xSVlwUDJ6bG9nQ3lrN2h3X1RtanBIVE9VMXY4Sk5kMVRLbUZwYmE5VXpOQ3hHQnRLbGlGY096a2tZWmozMWdaSi1HWVhDcG9pOA?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Brava Energia (BRAV3), PetroRecôncavo (RECV3), Rumo (RAIL3), Helbor (HBOR3) e mais: Veja os destaques das empresas",
-   "data": "2026-10-08T08:09:58-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Energia",
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Valor Investe",
-     "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOOWVMU01HY3BzbHZPeHNEanRVM3FyeFRmUkhfRFNjYXBEa0FTc19pY2xLUy0zTjFRbk1INkxZYVlDNGFESFRsbmlGLUlWZVJzaWIxZk8wRktncDBEOFpMdU14XzZ2RHFaVjNCOElhZTdUQ3gzNEhfZDBNSUxua05rdWJqUnZYTEpjWS03Ymo5aVpJRkRsZjM4V1lTY3lDS1hmT2F5TmdIeVpIQnBhQTUxM2d4Uzl3MEJWclJTWml1bWtvSFBnYzJnZjNTVXZybkZ1STZmcE9rbThScnhrY1VPTWlCeDl0YWVjUGtobFJLNHQ3VW04QXVkbUFrMktzMkZrWGRUa3BHOU92Ynh1ckFRYkY0WXdKTzJxbUNv0gGqAkFVX3lxTE5YUklGNklEWUx1TWN3SkJWRzBNRnJ5Tmk2TnIxeklBcDVQQjltaGJKRmRqOENad09WdDlPZzlFRjNKbGY2Y21UQTFvSkNkc0FFZFRtTGNmdWQ0LUs3em1BcTJ6bXlGWmpHMm11TWl3SzZzTjZUNExGY3ZCZm13bWtJT3NDeWwwRVA3RXNLc3BkWTBKM2l2T1NtRnFYVXVFS080MV9FVXlvcmtCNmgwMV9IeFNNMWR2WkEwRXE5RXIyd2MwZFBpUXhGNmRaTFp1MkV2Vmt0ZHhqb0l6WF9jSkxNc0hMXzNfNjZpVXBQRzJPZ0RZVVVzOWRLWnc2cGM2dFNDenhMOFZLV29FQmdmMURMWjktUlE3R09kd1ZRdVVNbkdOdGstMWJUQWc?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Mercados nesta quinta, minério cai, petróleo sobe, notícia da SLC, Brava, PetroReconcavo e de outras companhias",
-   "data": "2026-10-08T11:07:04-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Negativo",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Finance News",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNjNMTURRMHlGalhjVGhKSnhZT3ZFdkpwbEw2dThaMG9SQldHbzREYy1mQ1hjS0F0Z3U2VG5mOFgwMVBEX2taU1FYMkxHalNSZnpvZ0pVSGdhM3lqTnN5cUZIZVlPMHozUTZ1RkM4OGZudUtPeVB0cWhJdjRXRlVWdmlDY19USTFMb1lSam5pd2FjVkZXUWxmX1k2UnUycDV4aXQ1bVEtcU5MWHFxMmxJT3RuYlRMN3lrdF85cHJ1SlREZ1ZacTJOTENwMXZ5RHZRSVNUdzRwem5NUQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Momento B3: Americanas, Azul, Petrorecôncavo, SLC Agrícola e os principais destaques desta quinta-feira (08)",
-   "data": "2026-10-08T08:06:22-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "ADVFN",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUTdpSktHR2lmZVlaXzM0R042VUgydHRvTjF1aHR3S2JRQTJaR1ljRUZMOFpyZ0FycXk5cGlZTUQ1V0QyR3RuYjRlaGxWekMwdXZHVEk5aEJkUm9wYXNiMFNuZmV6dTgwSy1tM1BTSU5GdkQwelpWODBQVFZNN2lseGRQaTN2bXVLMkpyMGdZeGZwWV91YUtlTTVPZUR4eHNDbDdqSzB2Y0ZRdTc2ZUhDRUwtUjhvLTJkcnhfQjMzUm55b0dKWFNsSnlrSU1NS0xvMzRZSQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "PetroReconcavo divulga a produção de setembro",
-   "data": "2026-10-07T21:12:47-03:00",
-   "relevancia": "baixa",
-   "score": 2,
-   "setores": [
-    "Petróleo & Gás"
-   ],
-   "categorias": [],
-   "empresas": [
-    "PetroReconcavo"
-   ],
-   "tickers": [
-    "RECV3"
-   ],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Finance News",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOVBSMnVESVU4VVJwWXZDMWpwWHY2NkdyS1FQS1lHUUpCWUJwRmFYcnRDaVAwOW1YY0FXcjF4QmdMZjBiOTN4SWxibHA1V2lYUE1qcGdldlBPZkd6aEgzcUZiTFN0eG5pSUh2RWl2aVFQYmU3bTlPT1RMLUhPT3BjVXlRUm1fbXBf?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Nova Futura atinge 15% da Vibra (VBBR3)",
    "data": "2026-10-08T21:13:00-03:00",
    "relevancia": "baixa",
@@ -6545,33 +4353,6 @@
     {
      "nome": "O GLOBO",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHlFLUdHVnZSbDJEckVjQ0tnQUxwTGo0SEt4aGw4U1NybThYOGJiVDdnSFdzTzJ2Z051ZjA2dTFNSUZnN2k0SDZBVnlKWUhWbHotdnQyZ1MwQXd3QlhKNl83dlBENlhiaV9uQk40U1p2VzVpSlJYV3Z5V2V0ZC05YjM2SXczN3VUdmV2cFZLVlB2cFJlM3hrRVloZEFSQzlENTF3dDRBRWl4dnFVb1dQWW9CWGJsOVZEVW5r0gHKAUFVX3lxTE92M3dzTkd6ZW9ZdHpNbS1TdW40MS1FVTVpX2dHTmVRQ1QyMUkwQ0daelU3RHQyd19Xc1k1MFhaZ2VKS24yTEJQcE1uMmdsNlUwRF9DR19VV0djcTJjSlBGQjEyb1pYT2FEOTNyRzVwci1wVmFOWXNaSFBzaWtObTVtbnlfc3dQcmpjWDNQWERQTVpVbUE5ejRpMVRIMUxpVnlhYWtXNWdycFBRS1d4OVNIM3c1NE5tLWotYVNUQzlib0h4VUozX2lWSGc?oc=5"
-    }
-   ]
-  },
-  {
-   "titulo": "Setores de infraestrutura e energia devem concentrar maior parte das fusões no ano",
-   "data": "2026-10-08T05:00:00-03:00",
-   "relevancia": "baixa",
-   "score": 1,
-   "setores": [
-    "Energia"
-   ],
-   "categorias": [],
-   "empresas": [],
-   "tickers": [],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": true,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSEZfTTR0c0hlTk5WdnBJS3c0dTNkb3l6cHpISkVNdjRjN2FGVl9NZEtreE82bWlqZi10djRYaHQtWWN0aU1wSDNxeUJoeHhRaERwdXpoMmd2a0JWR09xVEw5cnhZVjRrRk5mTmQwTnAxNlQwaGxhQ0dSREQtYThoVkI5YTcxU0NQZ1QwMklkaXVrS2ozT3pDSkRFQ0UzU3Z3d011WjExTDhFV0wydnV2Wk03dGlmaE1TTE54OThnUm93RFFIVmJtTXd5blFCblB2QkxXaHNnVQ?oc=5"
-    },
-    {
-     "nome": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQnJDelFEQWxVaGhZNWpINjF6QldYRXNma1ZRVHhwOFlYVC1RMThtdmJOc1RoaEpsQUJocUpDLVlFdVBTZUVVLXVsNjExNmJ2N1dQSFRHYncxYkJPZC0wZEtYa1pxQ2V1d05iZDhvSlh6MWRCUmYzM01kcGpFOF9PWU0xWmJUVjk1WW5GOElhYUh4cERNeUxFQi1LRkxBejN6ajVYV3N3YW92bUhkeW1BekVfRENEWGF0SlYxUGhuVThaMktyTEdpZHY4VE11Ri1kNlFrZ3N6S1NZZ3RCWDEtcW5pX2VIZ9IB5gFBVV95cUxQQnJDelFEQWxVaGhZNWpINjF6QldYRXNma1ZRVHhwOFlYVC1RMThtdmJOc1RoaEpsQUJocUpDLVlFdVBTZUVVLXVsNjExNmJ2N1dQSFRHYncxYkJPZC0wZEtYa1pxQ2V1d05iZDhvSlh6MWRCUmYzM01kcGpFOF9PWU0xWmJUVjk1WW5GOElhYUh4cERNeUxFQi1LRkxBejN6ajVYV3N3YW92bUhkeW1BekVfRENEWGF0SlYxUGhuVThaMktyTEdpZHY4VE11Ri1kNlFrZ3N6S1NZZ3RCWDEtcW5pX2VIZw?oc=5"
     }
    ]
   },
@@ -6908,6 +4689,29 @@
    ]
   },
   {
+   "titulo": "Raphael Guerra, Autor em Canal Solar - Página 32 de 36",
+   "data": "2026-10-08T19:00:59-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Canal Solar",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UU1F4UjM0VFBGeUpIQ0E5RDFrZmxGRWdGaGg4eEtoUkpQaC1GaDQxaUNRTi1wUnpFR1kzYk9FWGYyelFHRHNvUWNCSjBTVEQyQkZSYTFLT0RjS01MdTlDWlRFemR4RlU?oc=5"
+    }
+   ]
+  },
+  {
    "titulo": "Tag: Usinas à venda",
    "data": "2026-10-08T16:05:22-03:00",
    "relevancia": "baixa",
@@ -7065,6 +4869,29 @@
     {
      "nome": "Portal da Câmara dos Deputados",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnNKamhFaVRWZnRWcnlsYnAxU0U1dHFZU3NaSHJDTVdvRDI1RGRib1JWNUtpUXhJeDVNbEwtNkdUazR1eG9sdXFpbE16RHMtRmRfQVZtdFlUSTRMSk5pN0wyWUhuWFdpNnpKZFZYTDN1N1BWVEZlS3JCVVF2TnVsUHFySnVxUG9oMUwwMWRQZEMzaGlKVDJpaUVB?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "As Transmissões da Câmara dos Deputados",
+   "data": "2026-10-09T06:07:10-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Portal da Câmara dos Deputados",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zZUMwWmdVTlF2TXV4eTUyb0VrOUhNMzNZYUxUVGtIOXdQN0oyeXdyUWpKTHRna0FjQlFfTVJiZklMUnhoWEktdFU1c3JqbGVBakdZQQ?oc=5"
     }
    ]
   },
@@ -7299,6 +5126,29 @@
    ]
   },
   {
+   "titulo": "Setores de infraestrutura e energia devem concentrar maior parte das fusões no ano",
+   "data": "2026-10-08T05:00:00-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Valor Econômico",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSEZfTTR0c0hlTk5WdnBJS3c0dTNkb3l6cHpISkVNdjRjN2FGVl9NZEtreE82bWlqZi10djRYaHQtWWN0aU1wSDNxeUJoeHhRaERwdXpoMmd2a0JWR09xVEw5cnhZVjRrRk5mTmQwTnAxNlQwaGxhQ0dSREQtYThoVkI5YTcxU0NQZ1QwMklkaXVrS2ozT3pDSkRFQ0UzU3Z3d011WjExTDhFV0wydnV2Wk03dGlmaE1TTE54OThnUm93RFFIVmJtTXd5blFCblB2QkxXaHNnVdIB5gFBVV95cUxQQnJDelFEQWxVaGhZNWpINjF6QldYRXNma1ZRVHhwOFlYVC1RMThtdmJOc1RoaEpsQUJocUpDLVlFdVBTZUVVLXVsNjExNmJ2N1dQSFRHYncxYkJPZC0wZEtYa1pxQ2V1d05iZDhvSlh6MWRCUmYzM01kcGpFOF9PWU0xWmJUVjk1WW5GOElhYUh4cERNeUxFQi1LRkxBejN6ajVYV3N3YW92bUhkeW1BekVfRENEWGF0SlYxUGhuVThaMktyTEdpZHY4VE11Ri1kNlFrZ3N6S1NZZ3RCWDEtcW5pX2VIZw?oc=5"
+    }
+   ]
+  },
+  {
    "titulo": "O valor invisível da cogeração",
    "data": "2026-10-09T07:00:00-03:00",
    "relevancia": "baixa",
@@ -7317,7 +5167,7 @@
    "fontes": [
     {
      "nome": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMzQ2RmdVeTVJVkwtQjZYbTNUdGdjN3diYmNzZnFlV2o3MnFvdzZBcTN6OUpHbS1HaHJjQ1ExTUpfQlJqZlpwUkIyX0xIMl81bzIxWDQ5dUx3QUdkMU5MYVZfLU4yRnFkMGI1VHh0Sm5HQm1pYnJQOXhvNkFCblVVcGxFcjM2UWUydndaZTZra9IBjwFBVV95cUxQMzQ2RmdVeTVJVkwtQjZYbTNUdGdjN3diYmNzZnFlV2o3MnFvdzZBcTN6OUpHbS1HaHJjQ1ExTUpfQlJqZlpwUkIyX0xIMl81bzIxWDQ5dUx3QUdkMU5MYVZfLU4yRnFkMGI1VHh0Sm5HQm1pYnJQOXhvNkFCblVVcGxFcjM2UWUydndaZTZraw?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa1lxZnBjVFNEMkxrMER3cnU3WXE4YUJtTXlOY29QRWsyaDM5OUpQY1VsRDFyUjhJVGdSUElJbkJodGpRQkZwVFItUl9ILVR6RWhEVFpVY053eXhvMC1UZlM5UTNjbmNyQ2luN3N1ZHg2cjEzenNFTGRNaGNnLVljWtIBjwFBVV95cUxQMzQ2RmdVeTVJVkwtQjZYbTNUdGdjN3diYmNzZnFlV2o3MnFvdzZBcTN6OUpHbS1HaHJjQ1ExTUpfQlJqZlpwUkIyX0xIMl81bzIxWDQ5dUx3QUdkMU5MYVZfLU4yRnFkMGI1VHh0Sm5HQm1pYnJQOXhvNkFCblVVcGxFcjM2UWUydndaZTZraw?oc=5"
     }
    ]
   },
@@ -7690,29 +5540,6 @@
    ]
   },
   {
-   "titulo": "UBS aponta cinco ações de energia para \"comprar\" com margens de refino saltando 83% em um trimestre",
-   "data": "2026-10-08T09:38:00-03:00",
-   "relevancia": "baixa",
-   "score": 0,
-   "setores": [
-    "Energia"
-   ],
-   "categorias": [],
-   "empresas": [],
-   "tickers": [],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTmptTnZHb1FSc292TG9CcUVjN2w5V0trSXJmSXN6YzI4dFowNlJla2MtcTkzY3RqTWxBcm81UW5HY3hreFhoMkt4Y2ZMNjI4UFk3TFluSlVFV3RwQUZpNFZvZ2o0RVptTHZoTGRJSTJxcXFMWEVvRWM1Y2R6anIyNmt1OF9hTFhfZUhHeUw5VjE2QUJ0S25vajJhem85SkVaUTVPNFdHcWtGM2pURWp3cTVUZU1kcDFHa2lwSG1kZ1Y3b19sTTlVeXNkTDFZYkx6QVFTNG9Iek42LUhTYzhEaXV3?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Ações da Hallador Energy sobem com acordo de energia de US$ 700 milhões",
    "data": "2026-10-08T09:29:00-03:00",
    "relevancia": "baixa",
@@ -8035,29 +5862,6 @@
    ]
   },
   {
-   "titulo": "Nova subestação é inaugurada em São Pedro do Paraná para fortalecer o fornecimento de energia",
-   "data": "2026-10-09T00:35:08-03:00",
-   "relevancia": "baixa",
-   "score": 0,
-   "setores": [
-    "Energia"
-   ],
-   "categorias": [],
-   "empresas": [],
-   "tickers": [],
-   "impacto": "Incerto",
-   "resumo": "Não identificado na fonte (apenas manchete disponível).",
-   "por_que": "Não identificado na fonte.",
-   "paywall": false,
-   "fonte_primaria": null,
-   "fontes": [
-    {
-     "nome": "Folha de Curitiba",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNE9RMjBJLWxhcGFXWERTa01WbHQyZ2M5elpmdC1vdzZXYURCZUQxUzNqS3NvM0lXakIzeHJrMkpBeHVrSExwc3BsSUhENnY0eGVsVDQ3M0dFY19wNTMtNGE5MHZoZjR1T1o4VnN2NzJQbFlhd1drZTRPckVFVzFFa01zTU1sZ1FRNmFLcEZxMWtkdXRZdWwwX3NXRTdOd3I2UVc5ZGhnd3RWVVZ4T2Zvdkw1NVpPcjhrUkNEaFVycXpMb3M?oc=5"
-    }
-   ]
-  },
-  {
    "titulo": "Campo Mourão recebe R$ 90 milhões em investimentos para fortalecer o sistema elétrico",
    "data": "2026-10-08T11:08:52-03:00",
    "relevancia": "baixa",
@@ -8077,6 +5881,29 @@
     {
      "nome": "Gazeta Regional",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU1ETGJvQno1dEFndjUzN1piaFFLcWFZOC1VR2tzSlpOSlJfY0hNQkExTVNpS1ZOR2lmV0hUWXZDeTNYQ0p4cjVVbVhHZC04MTFzakJEWURSakdjUVNwdV9Md01EYTZ6TTJDY2N5TlBGdHNGVUdVT0F5VW9rYi1TdnVySzJCaUl5a094RHlobmZyWUZwSERSUzZUWWp2NDBFUjNVOERaWVZwY3k5cGRYcG1vYWs1VnBMRENCeml3?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Nova subestação é inaugurada em São Pedro do Paraná para fortalecer o fornecimento de energia",
+   "data": "2026-10-09T00:35:08-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Folha de Curitiba",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNE9RMjBJLWxhcGFXWERTa01WbHQyZ2M5elpmdC1vdzZXYURCZUQxUzNqS3NvM0lXakIzeHJrMkpBeHVrSExwc3BsSUhENnY0eGVsVDQ3M0dFY19wNTMtNGE5MHZoZjR1T1o4VnN2NzJQbFlhd1drZTRPckVFVzFFa01zTU1sZ1FRNmFLcEZxMWtkdXRZdWwwX3NXRTdOd3I2UVc5ZGhnd3RWVVZ4T2Zvdkw1NVpPcjhrUkNEaFVycXpMb3M?oc=5"
     }
    ]
   },
@@ -8220,16 +6047,16 @@
   }
  ],
  "o_que_mudou": [
+  0,
   1,
   2,
-  6,
-  14,
-  16,
-  4,
+  7,
   8,
+  4,
+  5,
+  6,
   9,
-  10,
-  12
+  3
  ],
  "coleta": [
   {
@@ -8253,7 +6080,7 @@
   {
    "consulta": "EPE",
    "tipo": "fonte",
-   "itens": 20,
+   "itens": 22,
    "erro": null
   },
   {
@@ -8295,13 +6122,13 @@
   {
    "consulta": "Câmara",
    "tipo": "fonte",
-   "itens": 66,
+   "itens": 61,
    "erro": null
   },
   {
    "consulta": "Senado",
    "tipo": "fonte",
-   "itens": 20,
+   "itens": 21,
    "erro": null
   },
   {
@@ -8355,7 +6182,7 @@
   {
    "consulta": "PV Magazine Brasil",
    "tipo": "fonte",
-   "itens": 11,
+   "itens": 12,
    "erro": null
   },
   {
@@ -8379,7 +6206,7 @@
   {
    "consulta": "Eixos",
    "tipo": "fonte",
-   "itens": 28,
+   "itens": 26,
    "erro": null
   },
   {
@@ -8391,7 +6218,7 @@
   {
    "consulta": "Brasil Energia",
    "tipo": "fonte",
-   "itens": 62,
+   "itens": 61,
    "erro": null
   },
   {
@@ -8415,13 +6242,13 @@
   {
    "consulta": "Canal Solar",
    "tipo": "fonte",
-   "itens": 16,
+   "itens": 17,
    "erro": null
   },
   {
    "consulta": "NovaCana",
    "tipo": "fonte",
-   "itens": 16,
+   "itens": 17,
    "erro": null
   },
   {
@@ -8505,19 +6332,19 @@
   {
    "consulta": "Agência Brasil",
    "tipo": "fonte",
-   "itens": 71,
+   "itens": 70,
    "erro": null
   },
   {
    "consulta": "Eletrobras (Axia)",
    "tipo": "empresa",
-   "itens": 52,
+   "itens": 50,
    "erro": null
   },
   {
    "consulta": "Equatorial",
    "tipo": "empresa",
-   "itens": 45,
+   "itens": 44,
    "erro": null
   },
   {
@@ -8547,13 +6374,13 @@
   {
    "consulta": "Taesa",
    "tipo": "empresa",
-   "itens": 4,
+   "itens": 3,
    "erro": null
   },
   {
    "consulta": "Auren",
    "tipo": "empresa",
-   "itens": 4,
+   "itens": 5,
    "erro": null
   },
   {
@@ -8565,7 +6392,7 @@
   {
    "consulta": "Cemig",
    "tipo": "empresa",
-   "itens": 50,
+   "itens": 51,
    "erro": null
   },
   {
@@ -8619,25 +6446,7 @@
   {
    "consulta": "Aegea",
    "tipo": "empresa",
-   "itens": 6,
-   "erro": null
-  },
-  {
-   "consulta": "Petrobras",
-   "tipo": "empresa",
-   "itens": 100,
-   "erro": null
-  },
-  {
-   "consulta": "PRIO",
-   "tipo": "empresa",
-   "itens": 44,
-   "erro": null
-  },
-  {
-   "consulta": "PetroReconcavo",
-   "tipo": "empresa",
-   "itens": 29,
+   "itens": 7,
    "erro": null
   },
   {
@@ -8729,18 +6538,6 @@
   {
    "nome": "Aegea",
    "ticker": ""
-  },
-  {
-   "nome": "Petrobras",
-   "ticker": "PETR4"
-  },
-  {
-   "nome": "PRIO",
-   "ticker": "PRIO3"
-  },
-  {
-   "nome": "PetroReconcavo",
-   "ticker": "RECV3"
   },
   {
    "nome": "Vibra",
