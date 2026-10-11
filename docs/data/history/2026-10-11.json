@@ -1,0 +1,3145 @@
+{
+ "gerado_em": "2026-10-11T06:05:25.752046-03:00",
+ "eventos": [
+  {
+   "titulo": "Copasa cresce no 3º trimestre, no 1º balanço após a privatização",
+   "data": "2026-10-09T22:44:00-03:00",
+   "relevancia": "alta",
+   "score": 12,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [
+    "M&A",
+    "Resultados"
+   ],
+   "empresas": [
+    "Copasa"
+   ],
+   "tickers": [
+    "CSMG3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Transações podem mudar portfólio, alavancagem, sinergias e a avaliação da empresa. Resultado/guidance move estimativas de EBITDA, lucro e a percepção da tese.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "TV Sim Brasil",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMHAxblR0LVZXSHhoNjhwWDZ2dlZCVWVFZ2JDckI2R0ZaMDMxWnlhN0t0SnZuS1hhTWpuNUxLSXNvcWlqSE9NZThfQ2lMZFRjRFRJekdWcmpDNDQ4dmlsV3h2SGZNV2cyS1ZIQXVUUU5HQVprT1ZtSlpZVlc1WU5oWEl1Q3k2RDBmSnUzUnBOUHByLWY1bjJJRlhwY0FQZU9LR21vOHFFMkdmYy14dGN1cE9kVVZ5a2dVYUdrV21R?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Cleitinho descarta privatizar Cemig e promete diálogo com Lula ou Flávio em novo governo",
+   "data": "2026-10-10T00:08:47-03:00",
+   "relevancia": "alta",
+   "score": 9,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [
+    "M&A"
+   ],
+   "empresas": [
+    "Cemig"
+   ],
+   "tickers": [
+    "CMIG4"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Transações podem mudar portfólio, alavancagem, sinergias e a avaliação da empresa.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Estadão",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc0JMZENGMkpoQTctbFVJeUpIdlhxQ3dPNHhGY0UwbWxqTnpDT2V5MFk0bklzVkVmN2UyVUo5US1Td3ZlNmFhZnNQOXlicW42d2JTTUNIT1RfWXNicG5WQjJiYlhscGxDbEtSQ1pWb0NaTktLYmJvc3d1azBFQ3ktYlZaV19aaDVOYnhEbDNIZHJ4S1htajhfbnpKNWoxd3BKTnFJcnhJdTNOcmxDcnVlVTFxdU5INlNvUXlBVw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "VOCÊ SABIA QUE A COPASA JÁ FOI PRIVATIZADA EM MG? O que muda para Alfenas e o futuro do contrato com o município",
+   "data": "2026-10-10T11:12:58-03:00",
+   "relevancia": "alta",
+   "score": 9,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [
+    "M&A"
+   ],
+   "empresas": [
+    "Copasa"
+   ],
+   "tickers": [
+    "CSMG3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Transações podem mudar portfólio, alavancagem, sinergias e a avaliação da empresa.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Minas Acontece",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZjlGZHBMUXRBSkdxZmJvZU9jYXlORDEzeUVkcG5lQzRnYW05OTR3Q2tPYUU1VEJhXzBMX2NFQnVuclpaMDJkQmdQSmVMTkFrVUNDYW4tT01QeVJvSFc1ZFZlZGU2cmFGWlpGZGhhWFdldG5mb0lpQXRMd0RmdG9LX0RJZzBrVk9kSjRKOUx2MFNaTEJmeF9ialBFaXhod2hEOXhzeFVBd19YRXhLNjBqZGpIc1lZMXpHM0laRkh4MTlqOWdIMnV0dGhlek9OU25uNU1EYVIzZG15dWFiOWNxOG5QRC1FZFpsdVJFd1FzcnFSS2RfUGc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "resolução normativa aneel nº 1.162 - Imprensa Nacional",
+   "data": "2026-10-10T08:37:20-03:00",
+   "relevancia": "media",
+   "score": 7,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [
+    "Regulação"
+   ],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Mudança de regra pode alterar receita permitida, custos regulatórios ou risco setorial.",
+   "paywall": false,
+   "fonte_primaria": {
+    "nome": "in.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjEwOW1rYk85bnJyUmRqYkt3X0dXMXhwWHJQMzR3YktQU3ZGTmxKUjFWTTZicEtTRXRCUmlGS2lWS24zQkVQenpPNG9tS3FwUDhHYlI0RlRNOHpOT3hyX3JaVHJnZExSMlIxVk5VY0ZEaFpjQ1E2UUJsNUZ6S2xQZzdKbnJMWWtMYWJIM0NFMTVWcGxoRHNuOEZHNWNGUQ?oc=5"
+   },
+   "fontes": [
+    {
+     "nome": "in.gov.br",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjEwOW1rYk85bnJyUmRqYkt3X0dXMXhwWHJQMzR3YktQU3ZGTmxKUjFWTTZicEtTRXRCUmlGS2lWS24zQkVQenpPNG9tS3FwUDhHYlI0RlRNOHpOT3hyX3JaVHJnZExSMlIxVk5VY0ZEaFpjQ1E2UUJsNUZ6S2xQZzdKbnJMWWtMYWJIM0NFMTVWcGxoRHNuOEZHNWNGUQ?oc=5"
+    },
+    {
+     "nome": "in.gov.br",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGpUcjFFQjUwcW1odGt3emlJUEstVEVjTmpBUm5BR0RmRF9GTmRYYUVrclRsSlZMLUhpcFFyeDBlNXZpbG1BOG5DYzBJcV85dm0wQUpha0tMdmFTVF9HTlBCUVhvc1pCM0tzdmxKWjUyWklacWxRdVIwVHRNbkNaOFFfalRJMU5lYm05eDJDcFV0bUVrLTBrZVFQY0ZzQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "A corrida das indústrias do Rio para entrar no leilão de gás da União",
+   "data": "2026-10-10T09:00:00-03:00",
+   "relevancia": "media",
+   "score": 6,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [
+    "Leilões"
+   ],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Ao menos sete indústrias esperam avançar com a migração para o mercado livre no Rio, dentre elas CSN e Braskem, que miram o leilão de gás da PPSA O post A corrida das indústrias do Rio para entrar no leilão de gás da União apareceu primeiro em eixos .",
+   "por_que": "Leilões definem novas receitas contratadas, capex e competição entre players.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Eixos",
+     "link": "https://eixos.com.br/newsletters/newsletter-gas-week/a-corrida-das-industrias-do-rio-para-entrar-no-leilao-de-gas-da-uniao/"
+    }
+   ]
+  },
+  {
+   "titulo": "Oposição republicana nos EUA cresce contra plano de execução ao vivo",
+   "data": "2026-10-10T08:56:25-03:00",
+   "relevancia": "media",
+   "score": 5,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [
+    "Regulação",
+    "Governança"
+   ],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Legisladores republicanos dos Estados Unidos uniram-se a líderes religiosos e observadores internacionais na sexta-feira para expressar oposição ao plano do Pentágono de transmitir ao vivo a execução por fuzilamento, enquanto o presidente Donald Trump afirmou que ainda não decidiu se permitirá a transmissão. O vice-presidente JD Vance demonstrou ceticismo quanto à concretização do plano de transmitir online a execução de Nidal Hasan, ex-psiquiatra do Exército americano condenado por matar 13 pessoas em Fort Hood, no Texas, em 2009. \"Não sei se isso realmente vai acontecer\", disse Vance a jornalistas, acrescentando que não assistirá à transmissão caso ela ocorra publicamente. Trump declarou que Hasan merece a pena de morte por fuzilamento, mas admitiu que ainda não tomou uma determinação definitiva sobre a transmissão ao vivo. A iniciativa, defendida pelo secretário de Defesa dos EUA, Pete Hegseth, gerou forte reatividade de diversos setores. Vários parlamentares republicanos argumentaram que a medida desumaniza o processo; o senador John Curtis afirmou que \"uma civilização erode quando cultiva um apetite por execuções como forma de entretenimento\", enquanto outros compararam a prática a métodos de extremistas islâmicos. O plano também foi duramente criticado por autoridades religiosas, incluindo o arcebispo Paul Coakley, presidente da Conferência dos Bispos Católicos dos Estados Unidos, que qualificou a transmissão como uma \"promoção bárbara de uma cultura de morte\", e Walter Kim, líder da Associação Nacional de Evangélicos. No plano internacional, o escritório de direitos humanos da ONU apontou que execuções públicas violam as proibições contra tortura e tratamentos cruéis ou degradantes, enquanto a Anistia Internacional classificou o uso de um fuzilamento como repreensível. Especialistas em saúde mental também alertaram para o risco de trauma infantil. A execução está marcada para 3 de dezembro na mesma base militar onde ocorreu o ataque, em meio a um debate intensificado sobre a pena capital nos Estados Unidos e às vésperas das eleições de meio de mandato em 3 de novembro. Regulamentações militares não possuem a mesma proibição de gravação ou transmissão aplicada ao sistema prisional federal civil, deixando os detalhes logísticos e a decisão final sob a tutela do governo. Departamento do Xerife do Condado de Bell via AP/Foto de arquivo",
+   "por_que": "Mudança de regra pode alterar receita permitida, custos regulatórios ou risco setorial. Mudanças de gestão/controle podem alterar estratégia e percepção de risco.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Valor Econômico",
+     "link": "https://valor.globo.com/mundo/noticia/2026/10/10/oposicao-republicana-nos-eua-cresce-contra-plano-de-execucao-ao-vivo.ghtml"
+    }
+   ]
+  },
+  {
+   "titulo": "EV/EBITDA Axia Energia SA ADR (AXIC.Y)",
+   "data": "2026-10-09T23:22:30-03:00",
+   "relevancia": "media",
+   "score": 5,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [
+    "Resultados"
+   ],
+   "empresas": [
+    "Eletrobras (Axia)"
+   ],
+   "tickers": [
+    "AXIA3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Resultado/guidance move estimativas de EBITDA, lucro e a percepção da tese.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nM0Jub0UzM2p3TzNGclY1SzIwZHg0Z1RZSk01b3B5XzJUN3c2dTBHVXMweGUtX2VZcWx2OWREeXJuT19kZEFzRmk1NExDaC1lRUxpczFCYnFPWm1ESFZUaldqbXlvQmg0Z3FYM1lCUlJuTUhqWnc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Bandeira Azul, Copel, Empregos e mais: as principais notícias do Paraná",
+   "data": "2026-10-10T12:00:00-03:00",
+   "relevancia": "media",
+   "score": 5,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [
+    "Tarifas"
+   ],
+   "empresas": [
+    "Copel"
+   ],
+   "tickers": [
+    "CPLE3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Tarifa e reajuste afetam receita, margem e geração de caixa das concessionárias.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "O Paraná",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45a3pWd251d3R1NEVfcGV0YldMMk50S3ZjdXhBNUhzNE9UdjNScmZYMUJCSl9lYU5aRzduMnY3WFVFLS13LUZlMUtNaU9uWFpia0lOMkJEV25ZTms?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Sanepar reduz tarifa mínima em 25% e moderniza conta de água no Paraná",
+   "data": "2026-10-09T22:12:09-03:00",
+   "relevancia": "media",
+   "score": 5,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [
+    "Tarifas"
+   ],
+   "empresas": [
+    "Sanepar"
+   ],
+   "tickers": [
+    "SAPR11"
+   ],
+   "impacto": "Negativo",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Tarifa e reajuste afetam receita, margem e geração de caixa das concessionárias.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Rádio Colmeia",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1E4Ri1sOWJfbVZfcDFNc0pHNElycE1DdWM0QkR5b0VQOW55WW1YWXdWU2lCSGFnbmNjT2JqS0JDNm5LVjJpZkoyVlJrVy0yanJVaXZQc1ZWSzI3by1XeExUZzA4eVIzZ1B3Wm9VYWI0SW52X25vaUhkUVNYVEROVTlrOGUxeWxVZElkUUN0UjJxMjJVSmI0?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Isa Energia & Taesa Strengthen Wildfire Prevention In Piauí State",
+   "data": "2026-10-09T19:07:58-03:00",
+   "relevancia": "baixa",
+   "score": 4,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "ISA Energia",
+    "Taesa"
+   ],
+   "tickers": [
+    "ISAE4",
+    "TAEE11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Editora Brasil Energia",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVlfWWVIdndLVWRBdUNfTVVvQ292MVBOZjJpSmNrVDVCQnFlX2hRQ2Z3SU9LVUU4TF91aDJDNHAzVVNzZDVBM3lqcUd2UHR5ODZJQnFrUXl2Q2pabmFvVTB3TDZWVHBMVHFnVWg0WnJlX3JmeUkwZkN2eDRPU2JqWVNFcHRMR1l0eUdHQ0ZUazNZcF9jVzU0OHB2U2taZTgxT19WWkxtUUxiRVB5VmN2eA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "'Não faremos ajuste nos programas sociais, mas nas regalias em Brasília', diz Daniella Marques",
+   "data": "2026-10-10T12:13:48-03:00",
+   "relevancia": "baixa",
+   "score": 4,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [
+    "Governança",
+    "Dívida/Rating"
+   ],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "A ex-presidente da Caixa Econômica Federal e coordenadora econômica da campanha de Flávio Bolsonaro (PL), Daniella Marques, afirmou neste sábado que um eventual governo do candidato não promoverá cortes em programas sociais, mas reduzirá gastos que classificou como \"regalias em Brasília\". A declaração foi feita durante um encontro com mulheres apoiadoras da candidatura, no Rio de Janeiro. Leia também: Lula aposta em atos de rua, e Flávio amplia alianças na disputa pelo segundo turno Mobilização online pró-Lula liga alerta na campanha de Flávio Bolsonaro, que contra-ataca Ajuste fica mais distante com declarações de senador \"Não faremos ajuste nos programas sociais, mas nas regalias em Brasília\", disse Daniella. Segundo ela, os cortes atingiriam \"assessores, estruturas, uso de carros e voos\", e não aposentados, trabalhadores ou beneficiários do Bolsa Família. Ela também acusou adversários de disseminarem \"fake news\" ao afirmar que haveria redução de direitos sociais. O evento reuniu lideranças femininas ligadas à campanha, entre elas a vice-prefeita do Rio, Fernanda Louback, e Mariana Ruas, esposa do candidato ao governo do Estado, Douglas Ruas (PL). Daniella abriu o discurso defendendo uma agenda voltada à autonomia financeira das mulheres, combate à violência e crescimento econômico. Ao longo da fala, ela afirmou que o governo Lula promoveu uma expansão da dívida pública e da carga tributária, atribuindo a esse cenário o aumento do endividamento de famílias e empresas. Também defendeu que a economia deve ser conduzida por critérios técnicos e voltou a afirmar que pretende priorizar políticas de incentivo ao empreendedorismo e à geração de renda. Daniella disse ainda que pretende ampliar programas de capacitação e acesso ao crédito para mulheres empreendedoras e defendeu uma política de segurança pública com endurecimento das penas para crimes contra mulheres e crianças. Segundo ela, o plano \"Brasil por Elas\", apresentado pela campanha, está estruturado em três eixos: enfrentamento à violência, autonomia financeira feminina e reconhecimento da chamada economia do cuidado. Luciana Whitaker/Valor",
+   "por_que": "Mudanças de gestão/controle podem alterar estratégia e percepção de risco. Custo/perfil da dívida e rating afetam despesa financeira e capacidade de investir.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Valor Econômico",
+     "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/no-faremos-ajuste-nos-programas-sociais-mas-nas-regalias-em-braslia-diz-daniella-marques.ghtml"
+    }
+   ]
+  },
+  {
+   "titulo": "Mobilização online pró-Lula liga alerta na campanha de Flávio Bolsonaro, que contra-ataca",
+   "data": "2026-10-10T02:15:15-03:00",
+   "relevancia": "baixa",
+   "score": 4,
+   "setores": [
+    "Energia",
+    "Saneamento"
+   ],
+   "categorias": [
+    "Resultados",
+    "Macro"
+   ],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Positivo",
+   "resumo": "A mobilização na internet pela reeleição do presidente Lula (PT) ligou o alerta na campanha do adversário, Flávio Bolsonaro (PL), e levou aliados a lançarem contraofensivas no WhatsApp. Uma das principais preocupações no entorno de Flávio é com um possível efeito silencioso na distribuição de conteúdos pelo mensageiro. Desde o resultado do primeiro turno, em que Flávio saiu na dianteira, eleitores de Lula reforçam a estratégia digital para expor o rival, incentivar as pessoas a votarem no segundo turno e convencer o eleitorado que está indeciso ou votou nos candidatos derrotados. O deputado federal André Janones (Rede-MG) criou, por exemplo, um canal no aplicativo de mensagens chamado \"Exército do Lula\" para mobilizar a militância e distribuir conteúdos a favor do petista. O canal saltou de 50 mil seguidores para 3 milhões desde o primeiro turno. Dois integrantes da campanha de Flávio admitem sob reserva que a preocupação com o WhatsApp é maior do que com outras redes sociais porque é mais difícil descobrir o que e em que volume conteúdos são veiculados. Enquanto no Instagram e no X (ex-Twitter) é possível identificar e rebater praticamente em tempo real as narrativas (sejam falsas ou verdadeiras), o ambiente no WhatsApp é quase incontrolável. Segundo um deles, o canal de Janones é só a \"ponta do iceberg\". O espalhamento de conteúdos por mensagens também faz parte da estratégia da direita. Flávio passou boa parte da transmissão ao vivo pelas redes sociais desta quinta-feira (8) dizendo estar sendo vítima de montagens e informações falsas. O candidato também convocou a militância a entrar no grupo dele de WhatsApp, o \"Tropa do Flávio\". Na quinta, o deputado federal e senador eleito Gustavo Gayer (PL-GO), um dos nomes mais estridentes da direita, chamou a iniciativa de Janones de \"milícia digital\", acusou o PT de propagar fake news e cobrou uma reação do bolsonarismo. A mudança no tom do lado petista foi um dos principais assuntos no encontro organizado pelo PL na quarta-feira (7) com governadores e parlamentares eleitos. Tanto o marqueteiro, Duda Lima, como o coordenador político da campanha de Flávio, Rogério Marinho (PL-RN), afirmaram haver uma \"fábrica de fake news\". \"Vocês sabem por que eles estão fazendo isso, gente? É uma estratégia que se usa para implementar medo. 'Ah, mas se o Flávio for eleito vai tirar o Bolsa Família.' Que bobagem, é lógico que não vai tirar\", disse Duda. Como a Folha de S. Paulo mostrou, a equipe responsável pelo programa econômico de Flávio estuda um pacote de medidas fiscais para um corte de 2% do PIB, o equivalente a cerca de R$ 250 bilhões. A campanha do PL também decidiu colocar no ar um site com propostas de Flávio sobre alguns dos principais temas que circulam na Internet, como o fim dos programas Farmácia Popular, Pé-de-Meia e do próprio Bolsa Família. Em outra frente, a equipe jurídica do candidato acionou o Tribunal Superior Eleitoral (TSE) dizendo que o senador é vítima de 16 grupos organizados \"para espalhar conteúdo falso e descontextualizado\". Os advogados afirmam haver um \"desespero pós-primeiro turno\", \"derrame de desinformação nas redes\" e \"necessidade de punição exemplar e de contenção da máquina de ódio\". Ainda nesta quinta, o ministro André Mendonça determinou a remoção de postagens de Janones e do deputado federal Lindbergh Farias (PT-RJ) em que diziam que Flávio prepara três bombas: aumentar a idade mínima para aposentadoria, aumentar a jornada de trabalho e implementar a escala \"7x0\". Mendonça e o ministro Kassio Nunes Marques também ordenaram a remoção de publicações do próprio Lula e da primeira-dama Rosângela da Silva, a Janja, em uma série de decisões. Parte da mobilização em defesa de Lula se dá em torno de planos do adversário que ainda não foram explicados. Ao mesmo tempo em que promete um \"tesouraço\" de até R$ 250 bilhões, Flávio diz que não fará \"economia em cima dos mais pobres e dos aposentados\". Integrantes do governo e da campanha de Lula, como mostrou a Folha, tentam fazer um enfrentamento mais duro nas redes sociais para expor o que consideram inconsistências nas sinalizações de Flávio sobre a questão fiscal. \"Anunciar o tamanho da tesoura é fácil. O que precisa ser explicado é onde a tesoura vai passar e o que vai mudar na vida das brasileiras e dos brasileiros, na vida de quem depende de serviços públicos. Cadê a lista da tesoura?\", disse a ministra da Gestão e Inovação, Esther Dweck. A campanha petista também denuncia ser vítima dos bolsonaristas nas redes. A deputada federal eleita Ana Elisa (PT-MG) publicou um vídeo em que diz que vai acionar a Justiça contra o deputado federal reeleito Nikolas Ferreira (PT-MG) por espalhar uma fake news contra ela sobre o fechamento de igrejas. \"E o garotão de Brasília já começou a se incomodar com o fato do crescimento da campanha do presidente Lula. Já pensou se nós não estivéssemos trabalhando?\", afirmou Ana Elisa.",
+   "por_que": "Resultado/guidance move estimativas de EBITDA, lucro e a percepção da tese. Juros, inflação e câmbio afetam custo de capital, indexação de receita e dívida.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Valor Econômico",
+     "link": "https://valor.globo.com/politica/noticia/2026/10/10/mobilizao-online-pr-lula-liga-alerta-na-campanha-de-flvio-bolsonaro-que-contra-ataca.ghtml"
+    }
+   ]
+  },
+  {
+   "titulo": "1. OBJETIVO 2. SUMÁRIO EXECUTIVO O Consumo/Geração atingiu 73.349 MW médios Queda de -18,3% na geração das usinas termelé",
+   "data": "2026-10-09T18:30:41-03:00",
+   "relevancia": "baixa",
+   "score": 3,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Negativo",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": {
+    "nome": "CCEE",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLU5pWFpWMEJ4TDJlS2kwMWVtcG9lTGVqMlVMWWFKUnZ4bHJXX29pOWJPWWlfOVdFYmNtTU5pckNYUVJwVTdrN3FXTE92MWh5Q0tNQkFGTFQ0aVlodkpJd0hyNlVadUJPNjdTdVo3eUI3ZDF6aGs2REFIdm5QTzVoZ2xuMmtjbkc0TjN1d1JDWUxZNGZHc3lCazJZYkQ0QncyaWFFbFQ4VmhtMURQeDNHTzBXZ0FpTU9aZDBj?oc=5"
+   },
+   "fontes": [
+    {
+     "nome": "CCEE",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLU5pWFpWMEJ4TDJlS2kwMWVtcG9lTGVqMlVMWWFKUnZ4bHJXX29pOWJPWWlfOVdFYmNtTU5pckNYUVJwVTdrN3FXTE92MWh5Q0tNQkFGTFQ0aVlodkpJd0hyNlVadUJPNjdTdVo3eUI3ZDF6aGs2REFIdm5QTzVoZ2xuMmtjbkc0TjN1d1JDWUxZNGZHc3lCazJZYkQ0QncyaWFFbFQ4VmhtMURQeDNHTzBXZ0FpTU9aZDBj?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "As transmissões das sessões colegiadas encontram-se disponíveis por meio dos links disponibilizados no portal do Tribunal, no",
+   "data": "2026-10-10T22:00:01-03:00",
+   "relevancia": "baixa",
+   "score": 3,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": {
+    "nome": "Portal TCU",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1VmWGpPdmRHNEQtZjVUMjhfbllCYTdVaTE5TVdJZ2hkMGNtbl9zUTNDN3VNdTVfYzQwTGNtZm9vYXRVd2lnN1M3TDZVUFNON2V1M1lEYjh1ZjZHR2RJQjZlWUtUNjJKTUdHdUN1NjZKNWhZcFg3a3ZzbkRxb3hHeg?oc=5"
+   },
+   "fontes": [
+    {
+     "nome": "Portal TCU",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1VmWGpPdmRHNEQtZjVUMjhfbllCYTdVaTE5TVdJZ2hkMGNtbl9zUTNDN3VNdTVfYzQwTGNtZm9vYXRVd2lnN1M3TDZVUFNON2V1M1lEYjh1ZjZHR2RJQjZlWUtUNjJKTUdHdUN1NjZKNWhZcFg3a3ZzbkRxb3hHeg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "As Transmissões da Câmara dos Deputados",
+   "data": "2026-10-10T02:34:47-03:00",
+   "relevancia": "baixa",
+   "score": 3,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": {
+    "nome": "Portal da Câmara dos Deputados",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcU05Z3ZoVVJBLVdDMENOTFdyQ1FlcEZxUENqNGFjd1BFVUgxV21fV2RicVZsV3AzNDB4QzI3MGVadjhnSHluM3VpV2tVZnVCQW9YSFJUNFRWY1MxcF9nM1VGR1Roc0pWOTI2OGQzejh6XzFvdjloVzV0Y2Eyd05nY2o1QnhBQmphZTNHLUp3VFkxVDVyOS1kRFRVNnV0bWl6S2ZmR0w0emlMbkdmVlhYaEpkMVRJRDd0ODBoWVlyNF9vbmlhcWJYZDhXNmhneG53SDJ6MWhGTUhZUldfRUhsdTA5TlVvdUxiRFNjb1QtZWR4V3hKSjJqYmJ6WGVIbGZCSk4w?oc=5"
+   },
+   "fontes": [
+    {
+     "nome": "Portal da Câmara dos Deputados",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcU05Z3ZoVVJBLVdDMENOTFdyQ1FlcEZxUENqNGFjd1BFVUgxV21fV2RicVZsV3AzNDB4QzI3MGVadjhnSHluM3VpV2tVZnVCQW9YSFJUNFRWY1MxcF9nM1VGR1Roc0pWOTI2OGQzejh6XzFvdjloVzV0Y2Eyd05nY2o1QnhBQmphZTNHLUp3VFkxVDVyOS1kRFRVNnV0bWl6S2ZmR0w0emlMbkdmVlhYaEpkMVRJRDd0ODBoWVlyNF9vbmlhcWJYZDhXNmhneG53SDJ6MWhGTUhZUldfRUhsdTA5TlVvdUxiRFNjb1QtZWR4V3hKSjJqYmJ6WGVIbGZCSk4w?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Furacão Isaias perde força, mas pode causar inundações e trazer risco de tornados nos EUA",
+   "data": "2026-10-10T09:37:46-03:00",
+   "relevancia": "baixa",
+   "score": 3,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "O furacão Isaias deve provocar marés de tempestade, inundações repentinas, ventos destrutivos e risco de tornados em partes do sudeste dos Estados Unidos neste sábado, mesmo com o enfraquecimento da tempestade após tocar o solo na Flórida, informou o Centro Nacional de Furacões (NHC). O centro alertou para impactos consideráveis ​​em grande parte do sul do Alabama e na região do Panhandle da Flórida, estendendo-se até o sudoeste da Geórgia. A ameaça de tornados permanecerá neste sábado em partes do Panhandle da Flórida, da Geórgia e das Carolinas, segundo o NHC. Isaias enfraqueceu-se, tornando-se um ciclone pós-tropical neste sábado, após perder velocidade de vento rapidamente depois de atingir a costa da Flórida como um furacão de categoria 2 — o primeiro da temporada de furacões do Atlântico de 2026 —, informou o NHC em seu boletim mais recente. Espera-se que Isaias continue perdendo força, mas que ainda produza rajadas de vento em áreas mais afastadas do litoral antes de reduzir sua intensidade ainda neste sábado, afirmou o NHC. A agência de gestão de emergências do Alabama informou que o furacão derrubou árvores e linhas de energia, tornando o tráfego perigoso no condado de Houston, que está sob alerta de inundação repentina. \"Devido aos impactos do furacão Isaias, todas as estradas do Condado de Houston estão fechadas até segunda ordem\", publicou a agência na rede social X. \"Esses bloqueios de estradas permanecerão em vigor até que as condições sejam consideradas seguras para o tráfego.\" Questionado sobre os preparativos para o furacão, o presidente dos EUA, Donald Trump, disse a repórteres em frente à Casa Branca, que está acompanhando a situação de perto, acrescentando que estava \"sob controle\". Mais de 430 mil clientes na Flórida e quase 297 mil no Alabama ficaram sem energia elétrica quando a tempestade atingiu a costa, segundo a PowerOutage.us, empresa que monitora interrupções no fornecimento de energia. \"Declarações de emergência foram aprovadas na Flórida e no Alabama para garantir a disponibilidade de recursos federais para responder ao Isaias\", afirmou o secretário de Segurança Interna, Markwayne Mullin, na rede social X. Os serviços de emergência da Flórida orientaram os moradores a ficarem em casa e a ficarem atentos às condições meteorológicas associadas ao furacão em toda a região norte do Estado. Octavio Jones/AP",
+   "por_que": "Não identificado na fonte.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Valor Econômico",
+     "link": "https://valor.globo.com/mundo/noticia/2026/10/10/furaco-isaias-perde-fora-mas-pode-causar-inundaes-e-trazer-risco-de-tornados-nos-eua.ghtml"
+    }
+   ]
+  },
+  {
+   "titulo": "Copasa tem crescimento nos volumes de água e esgoto durante o 3º trimestre",
+   "data": "2026-10-09T21:36:31-03:00",
+   "relevancia": "baixa",
+   "score": 3,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Copasa"
+   ],
+   "tickers": [
+    "CSMG3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "A Companhia de Saneamento de Minas Gerais (Copasa) registrou crescimento nos volumes de água e esgoto durante o terceiro trimestre. De acordo com prévia operacional divulgada nesta sexta-feira (9), a empresa movimentou 174,5 milhões de metros cúbicos de água entre julho e setembro, alta de 1,1% na comparação anual. Já os volumes de esgoto aumentaram 3,6% no mesmo período, afirma a companhia, chegando a 123,8 milhões de metros cúbicos. No trimestre, a Copasa manteve a trajetória de crescimento da base de clientes, com aumento de 1,5% nas economias de água e 2,5% nas economias de esgoto em relação ao terceiro trimestre de 2025, considerando os dados de forma consolidada. Divulgação/Copasa",
+   "por_que": "Não identificado na fonte.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Valor Econômico",
+     "link": "https://valor.globo.com/empresas/noticia/2026/10/09/copasa-tem-crescimento-nos-volumes-de-agua-e-esgoto-durante-o-3o-trimestre.ghtml"
+    },
+    {
+     "nome": "Valor Econômico",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORm1maEUyandjelR1UnJraHJlT2xGODd1ZVA4WS1ITVhKWkpCUnhWTWQtWFE3VEkxVGdVc3FocUJRSGQwYVVRcnlta0ZhdS1YOUtLeFYxNEdXN1QzdkZvVmJkMWxMdnRPV05yelpUZEtMZ1RHZFhqQjJjOFZINmVRMVFwaHVPZkZMTW1WY1F6cVVFMWlXU0VSRnRObi13NG5SbklJOFd3Y2N4X1l3VF9pOVhCQ1ZmVGNnWV82TlFKU2xLU2pYMTNMa2JMQ3DSAdsBQVVfeXFMUEszVVNkVUE3b3pWUGtjNTl1ZXJmQUVvUG5YUW9tVnhvOTlrLXVoVlNWblJmbWZmR1dyUHFQS0l3SVo5Nk5WdjRjWWtPaUZURUhsYlIzWlRjcEJ2eU9lTmRMcmJLSGxwcFpxLTZ6OGZDMEFkN0xZcW1BbzBPbVZNb0tSb0VBZ0FBUzVJX0VfY1VlbmlXcXZUVXVZa2lPaHl6RjI1N1dXN1NoQU50dDk4TFgwRVF0TTBGeFNxMU93S2dVTlN3TkhwUVEzRzZXYmVKaXJWTmFyZkZfaUNZ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Fato Relevante - EMAE - Empresa Metropolitana Águas Energias S/A",
+   "data": "2026-10-10T00:08:55-03:00",
+   "relevancia": "baixa",
+   "score": 3,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Positivo",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Publicidade Legal | Folha",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zNkpmLUctUHh2dHQ3Q3l1T21WNlpfbjhIdmdkYzBVanhHWWk1YmhKWjdqSzRoRlJtNkhJcFpBc3o5SGkza2JDNzZRal9SZzdYaUJhVFlBRmJPUENoMjBiMHM4c3FlTE5W?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Falta de energia mata 450 mil peixes no Paraná; Copel cita temporais",
+   "data": "2026-10-10T16:30:30-03:00",
+   "relevancia": "baixa",
+   "score": 3,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Copel"
+   ],
+   "tickers": [
+    "CPLE3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "CNN Brasil",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTdJUHdPMWptb25MUnk1Z3ZoNmdmSnItYlpXMHNDWlg2UVQ5UnhTZTJicGNvdGJqUlhXbXVTQnhlR2N2Y1V3dUIwNUZ3SklTYUVIQ29sSWQyNU1Wb1NlNWU4Mkg0ZXBKdTZ0X1V3YzZaQzlqY1JZam5lUDRleWc2cUpKQWtjeWVIMnFmYzRFeGp5a2NVWHNydFFyRzlnN1ZfcEhodA?oc=5"
+    },
+    {
+     "nome": "PPNews",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMzloeHlhRHFpNUt4YlU3djMwUldUc29BeU1ZV05waHlQQjl4VW9QUWw3aVVZaThmd3Q4WVJVSFFiMFAwbl9mSzFHUV9mZVVZNG12QkZsVHZkLXFma2g5V0NWNlBPUGhZWHhqNDVDUXlQR2hOU0VOM1h5SGI2Yl9tZE56UWlaSjIxcWwxM1d1eC1HNzFDVzRnUFBJVjFId3pHaVBVUTNRVzdVT1ZtbzVhZGNBUHBpMk5lUzFBVDhQMUVrZw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Dia das Crianças: Energisa alerta para riscos de acidentes com crianças no manuseio de pipas, celulares e tomadas",
+   "data": "2026-10-10T14:51:31-03:00",
+   "relevancia": "baixa",
+   "score": 3,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Energisa"
+   ],
+   "tickers": [
+    "ENGI11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "G+ Notícias",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTGtvVzJVR01YNnlHc1R3cUxDVTc4V2ZoaFRhZEhyeUYyY0k1VGdtZWlnTjdjM3ZlZ2tYT2Ria3ctOVJmRTZ6OWpWMU1uQ1hQaTBCYkgzUERvcFUwU3dzWVpjYlVINEtpUWVkNkpzdkpaNk5QaF9YNVBlcF9oMTNrMFJWSm04TVJwT0pabEd5VzZRNlppbGw3Z3FGcE5qZWhVQ1JKRXd4OUVLQ2ZOQVZBMkN0SGFTQnJtbzFaQ1pUY2N0TDZ6Ull2aW0ybnltX2VXQXY0?oc=5"
+    },
+    {
+     "nome": "Diário de Prudente",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeFpnTUdqZURrRHZWTFhqajk2dk1ZVU95cmZ6RnpNS3hwYzhMNGxUSjlna0hGaEltOVFiMU1naXBsTTJxc3o0MTg3dFJRY0pHaXF3N2xCT2puOEd1bUN2R1NIX2g3MkpsTFJibV9fTUdNYUU1dGZNYUZIc21pclNQNkhpZGJVSlZtT1E2OTN1Si1JdUlWRDVvbndGYWwtZw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Câmara Municipal de Feira de Santana aprova pedidos para melhoria da rede elétrica e relocação de poste",
+   "data": "2026-10-10T05:00:17-03:00",
+   "relevancia": "baixa",
+   "score": 3,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Positivo",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Jornal Grande Bahia",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbWwxZHVrRFpBNGZaQ3FHMF9QUk9LRVFIREFMbFdiaE8tV29jenZEaFpFQVJTWVJYLWg4RmlGZHNxUndYNDVUNl9jcGZ1aDlvcVBzWk50eEhia3RZQWZ3Z3hyYkNwdEFudGlWQXJyTGJ1dGc0dEI2c1pfYVNUN1p5clVrTmhXNmh4Y0k4OTF2NS13ZHlrLWVhNnNjVzVjbFBPUDFMNmR3WkZIRlJ3MldsdEJXTVFZUzg4N3hCQVI5dkx5UDItMmhNdnhLbnFZMUtIOGJfMXQ1d3V2RnhZVnc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Após casos de gastroenterite, Sabesp diz que água de Itapeva está nos padrões",
+   "data": "2026-10-09T21:54:00-03:00",
+   "relevancia": "baixa",
+   "score": 3,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Sabesp"
+   ],
+   "tickers": [
+    "SBSP3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "UOL Notícias",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdFphYzExVlZBdGdVYTBGbzh3Ymt4LVgxZlBrcHRpYXhHN096WXdhc2xKVUVEQlc5cF9jejJCTURoVmY1dEJZQzdQTlViOXBqa0ZTTW1hcEVFaGFvcXZub1FSN1FjVTMxajRTdnFHWTJqdFhpWDZyMmhMSVVDSWZzc0s2TkY5TTVyb29aSktqd2RVYWpib3dIeEltYlozeVBmblVyb2dndHBaUmxXenRGd0FrTnRQai1XNzVPa2Nfb1NmUDd2Z1BYbUYtTy1rT0Z0VnhhUkFmWi1QdUY0NmtodVhTcTVYVWlBWDNueUFzLUhDWmc?oc=5"
+    },
+    {
+     "nome": "Estadão",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGJVVGFhN1duOWQxZ1lnVDFvTGotNW9zd1dIRXNGRjJ6WmxxNEk5YlhrTVdFLWJldzdCSy02NDZraVAwa3hWdzdOVi1wRG1Ia1Bsem9jZ2lQZFdUdFhCMjlrck4tZ0NIMnhqXy1OMWFuSzh5aU41YmF6a1F6LUxFTlpuS2dvRlFyNVZYNV9DX3g4YnNEc2RfNW1TSWtxRnJMS3hadGV0S19nNFJadjJsWFlMc3V1UlJu?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Por que a Lubrax retomou a parceria com o Flamengo após 17 anos",
+   "data": null,
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Petróleo & Gás"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Vibra"
+   ],
+   "tickers": [
+    "VBBR3"
+   ],
+   "impacto": "Positivo",
+   "resumo": "Acordo de três anos com o clube faz parte da estratégia da Vibra para ampliar o alcance da marca, impulsionar vendas e sustentar a expansão internacional",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Exame",
+     "link": "https://exame.com/marketing/por-que-a-lubrax-retomou-a-parceria-com-o-flamengo-apos-17-anos/"
+    }
+   ]
+  },
+  {
+   "titulo": "Terra atualiza carteira que bateu avanço de 10% do Ibovespa (IBOV) na semana; veja as ações para o curto prazo",
+   "data": "2026-10-10T11:50:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Cemig"
+   ],
+   "tickers": [
+    "CMIG4"
+   ],
+   "impacto": "Incerto",
+   "resumo": "A Terra Investimentos realizou algumas alterações na carteira recomendada semanal de ações, para o período de 9 a 16 de outubro. Deixam a seleção das ações Localiza (RENT3), Rede D’or (RDOR3) e Iguatemi (IGTI11), abrindo espaço para a entrada de Marcopolo (POMO4), Cemig (CMIG4) e Telefônica Brasil (VIVT3). Seguem no portfólio os papéis da MBRF […]",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Money Times",
+     "link": "https://www.moneytimes.com.br/terra-atualiza-carteira-que-bateu-avanco-de-10-do-ibovespa-ibov-na-semana-veja-as-acoes-para-o-curto-prazo-lmrs/"
+    }
+   ]
+  },
+  {
+   "titulo": "Raízen (RAIZ4) quer listar subsidiária na B3 em meio a plano bilionário de reorganização",
+   "data": "2026-10-10T09:08:46-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [
+    "Governança"
+   ],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Raízen Energia avança para o Nível 2 da B3, com tag along de 100% e possível distribuição de papéis aos acionistas da RAIZ4 The post Raízen (RAIZ4) quer listar subsidiária na B3 em meio a plano bilionário de reorganização appeared first on Seu Dinheiro .",
+   "por_que": "Mudanças de gestão/controle podem alterar estratégia e percepção de risco.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Seu Dinheiro",
+     "link": "https://www.seudinheiro.com/2026/empresas/raizen-raiz4-subsidiaria-aprova-pedido-de-listagem-na-b3-entenda-o-que-esta-em-jogo-cbcb/"
+    }
+   ]
+  },
+  {
+   "titulo": "Retorno de preço 1 ano Axia Energia SA DRC (AXIA.Y)",
+   "data": "2026-10-09T19:09:34-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Eletrobras (Axia)"
+   ],
+   "tickers": [
+    "AXIA3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ta2RIcDBfQTFFMVlGRWRBcGc5NlE2RXRVZlF4R2k1NFNzNWZmZ3p0SFdWOGNSNEZJd1JUaG9Edk9DY3VLbk40bGc2dnZaVDFSVUFiWHNwU2ZzQjZzelpDaHhXcnhRZ0ZUUS1QMUgweFlWY1lBOFZhY0huSlg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "AXIA ENERGIA TESTA SOLUÇÃO PARA REDUZIR INTERFERÊNCIAS DE AVES EM LINHAS DE TRANSMISSÃO",
+   "data": "2026-10-10T08:37:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Eletrobras (Axia)"
+   ],
+   "tickers": [
+    "AXIA3"
+   ],
+   "impacto": "Negativo",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "- Bahia Economica",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZDJfYTR4RU5FcnBsdmpfVlFfLUkxRWdHV3liVlNoWDdLUXpiOHp0VUVhMDRjNm41MDlrZUtHZUp1em84dzRxNzhncjdab0k5ZVJva2pLa3ZWbERQUlp3TVRtbDIwQ2JSRUVIN0s1YmRVMWllakRzZHJhcWNLSEhYeXVRSEtZeVVhQk1SQzBoNA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Feriado de Nossa Senhora Aparecida: confira como acessar os serviços da Equatorial Alagoas",
+   "data": "2026-10-10T10:45:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Equatorial"
+   ],
+   "tickers": [
+    "EQTL3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Cadaminuto",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY25nU3NXUTlZTFBrSEhpMGh0V19aemFoTC1jZmktUjRRY0czMkp2MHp0TUF6aUNpajU3YlVFdjEtamxCYmNHSlJ6WjVoeGtqNE9nQm5sMHI3eDdKVDdmMUZVVDdfMkM3eG9TbjhiOEU0R0ZLLVVUaTFiZXlxeUpTOHctUDFlX3FxYVgxUFRuYVBDcjkwMmd4WGJ3cUVTVDZQWnlxajBWWWpWcHJRTjM0SGFNaWRLNVp3MnE1R0FiRndkVUpsaHdhYWVBOE9td2RTeE1EaQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Grupo Equatorial informa funcionamento das agências no feriado de Nossa Senhora Aparecida",
+   "data": "2026-10-10T09:12:56-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Equatorial"
+   ],
+   "tickers": [
+    "EQTL3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Diário do Amapá",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUpxR3JvUGZIcTFDWVloVGxPdlB1NjByeDhZZjI4Ym5aMmJuZkRzbDZsbFdPMzZ3UEtqOWZKVmFCdGExQlhDdzV5TlNqSklCNHo4OGRaX1hMbGduTEd4Z3VCSm5fbk5hZW56Z01pZDh1YlJqMmNZYjdfQnQyNmp5cmxhU1FiMXU0WHYzNFpiU1pPT2t3amVPWmcwTk15Um9QTEhfcncxWU9wNkNSRmNscVJtZzVCSk1lMFRSTnFxTE5KTkx3bXNUOWVvQ1ltMGZKRTEzZHVaWQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Equatorial alerta para golpes com sites falsos e orienta pagamento seguro",
+   "data": "2026-10-10T10:49:52-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Equatorial"
+   ],
+   "tickers": [
+    "EQTL3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Portal Contexto",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa3BOdWtvU3NXZHh3Qm5CQzBkOExWTHF5V2xmdkRSYVVCbG9SLVJYNVRzQ2t4SFdVUkx6bmJCRERGU0NpbTFxOFNOOXBRN1I3dEZDRnl2V0R4dXhZZXNGZTZQLWpRX0R0Z1hMRHRBUjFnS3J6clBQUVRtajhJSG9GTUtTcG50Mmo1emFwcV9jY2hjZ1otVlBpbVRfVXIycGFQM05j?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Equatorial Goiás alerta para golpes com contas de luz falsas e links fraudulentos",
+   "data": "2026-10-10T08:52:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Equatorial"
+   ],
+   "tickers": [
+    "EQTL3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Portal PaNoRaMa",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWNHIxMTBKVDZlanZ6aGVUZVl4Zzd5MXFOejV6WXBoSjRaMW5zYjhjMll5LTNkUV9Cb093TVZhWVNJWHFvS010UExHRmpCeGxjQW5GRXhzYlpjYmtoRWhDaHlJRjJiOTV1cVE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "FMA cria Instituto Nacional de Altos Estudos da Margem Equatorial para fortalecer pesquisa e inovação no Maranhão",
+   "data": "2026-10-11T00:39:04-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Equatorial"
+   ],
+   "tickers": [
+    "EQTL3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "O Maranhense",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVVY4LXVYOWE3aGVRcnhmWnlueTJ0SjN5V3UyRnlTYkprUTZXblRWU2pSQzlsUFV2V1FDNjNhY1dlZFhoek1YRTNvYnRpVWZlb2hTTGc5Yzh4bFU4YkRtTTNPb3FLZmZmS0Qzc0c0SVRMX1ZGRTd3bUJxN280M0xFS01WaHZWQ1pCb1hHb1FYc0dWZHBDWUNQZUhZaU8wVS1EakZwUXBKQUVKSHZ2bm02QllTZlBjY0dudFBGdmZGcHJBbE1fX21ZbmVvSjVvakgyaWRBaw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "A história da Energisa em MS acompanha a trajetória de um Estado que não para de crescer",
+   "data": "2026-10-10T08:24:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Energisa"
+   ],
+   "tickers": [
+    "ENGI11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "diariodigital.com.br",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZkdlVjJCdGhmYzN0SUNZanV6SU9jTGdBNWxCWF9wVTFPTGtpdEZOb0hrMWFYc2c5RzAwb3RFUmhoSHA5WmhCU2oyMFRZODRHdERtMmM4T2NseTNYekZrWUlmY3h2R24tZERWbVYzcFRPRk52QkRVUHlJMUp6ektwWFltMWhFZjNLSGlUTU41UmpQTW1rUDhmX0pNTGdsN1EtTXhDRmVJNktLV3JtNHp5dlVjMmFqZnV5b2xvbGxIUzlObnpTMG54UkxUNDg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Energisa leva Espaço Energia Itinerante para a Vila da Criança, em Aracaju",
+   "data": "2026-10-10T10:11:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Energisa"
+   ],
+   "tickers": [
+    "ENGI11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "FaxAju",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1hOWWdoc0ZsZVZkOUw4NjllMHRfazZLY3IteWNLcmFNRTl2eDlCX3JPN2YxY2pnRk4yMndYdkhYajlEeWhqLVdtVF9RQ0pkeVZEaHlIY25nc0F6Z1JHSGNZZ1RRRFpBMGstdldCOFg0My10bVM0OXNGaC1lVWlhM3NhQ0pMN2JwNTNkcTQxRDJWOXhEcGlXbkxzN2ZOSGtacVE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Fio solto no Centro de Campo Grande preocupa e Energisa age",
+   "data": "2026-10-10T14:01:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Energisa"
+   ],
+   "tickers": [
+    "ENGI11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Campo Grande News",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUR3NzVqOXpTWkNINm5paGpaLTJtU2VfRW5FYUNDSU9YUWVtZ0Zja1ZSQkRTcVJaZDZVRTFsR0NxaUpUU0dsT2N4VTk4MjU2bDFEYm5xTHR4eFpYSnZVNV9WR2hVdzM3N1V1R040NzhCbE02OGFJbENLYXhlMDRMdVR3UUx5Q1dpaVZra2ZpUDRJdEU5cjRpN1NWcG5GOTNQZHZjaDBzR1VLY2Y5RHFRejVLOWZhaDRvNTYwMFRuNlhTaWM30gHEAUFVX3lxTE9VRHc3NWo5elNaQ0g2bmloalotMm1TZV9FbkVhQ0NJT1hRZW1nRmNrVlJCRFNxUlpkNlVFMWxHQ3FpSlRTR2xPY3hVOTgyNTZsMURibnFMdHh4WlhKdlU1X1ZHaFV3Mzc3VXVHTjQ3OEJsTTY4YUlsQ0theGUwNEx1VHdRTHlDV2lpVmtrZmlQNEl0RTlyNGk3U1ZwbkY5M1BkdmNoMHNHVUtjZjlEcVF6NUs5ZmFoNG81NjAwVG42WFNpYzc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Justiça dá 30 dias para Energisa fornecer luz em MT",
+   "data": "2026-10-09T18:44:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Energisa"
+   ],
+   "tickers": [
+    "ENGI11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "FOLHAMAX",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLW1wZ2RSWTVnZXE1MWlVVm1hQW1pemNuOGxleFBkVWliNld1bjdKRnlpV3F6ams2enpMbGpzN1FFbzBmeEgxTGZNMDVuMTNqZ3hTX20zRzZtdGZYS3RFWDlzd2d5aUJ5WVVWS0F3bDUtOUpwcUtTaHVsVS12MkxoSW9MNmRtN1pyR2RBRXdkYWRxQkp5Y2c?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Quatro dias sem luz: Defensoria investiga demora da Energisa após temporal",
+   "data": "2026-10-10T10:11:32-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Energisa"
+   ],
+   "tickers": [
+    "ENGI11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Blog do Nélio",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHJQUDVNQnFkMFluaVgydHNzVVd5YnRTUjNqSzl0R3FidzRwM2gxdldnUHBXbFNFSWg2N0swc2dIU284b3BYY3NNNEdDNlM4SlllY0xFU05pOWRNbkNfQlhRMTI1ZHpiWEF2NlQ5ZlpxcDdnZzAyUHh6SmJYRV9qTHZWcldUOFNTeGg5TnA5NUd4S1dQbVlUQVU2WnRuY3hRQmt3?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Segurança em casa: Energisa alerta para cuidados com crianças no Dia das Crianças",
+   "data": "2026-10-10T20:02:07-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Energisa"
+   ],
+   "tickers": [
+    "ENGI11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Na Hora da Notícia",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEpzaWxsTV9XRzJBeFlnSy1kSTlCYkEyaXcxd1hmZ2RoSHg2ZFg0bEtxblFmYlpUWk55NEsybEk0UFEtamV2ck95TVBZNWxPd0V3NnFqOWRDZ3pMdU1tT0FnQ2FmVVpuMy05dnZkb2xwZDRva3FHeXNnLXQzZ3FRREQzNDFPYW9UbWpyXzlEdnZPWlNFdy02MFQ5OWpHbTh5TGllX3BUZFR1dk1xM21ZeGNDb3lXNWlBckE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Apagão após temporal em Campo Grande coloca Energisa na mira da Defensoria",
+   "data": "2026-10-09T19:01:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Energisa"
+   ],
+   "tickers": [
+    "ENGI11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Correio do Estado",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeDJwSEppU0c1R0VFYXZ1VzZRUDJDN04tdzZIemRaUXI5dWZSWUdpdDZOR0ZnRDU4aXBZU2JVRjZKN3pDOUhiQk9NSEdudUswTXd3cURsTjFaZEtDakNqNThRN1pPQjlVblRtUHZhM0F1NVFmeVR3eDZTTU1saFM5empQZWtPclQ0V3NULW5UQkVqSnZmdkU0UWRaZ1pZUHV5NUJvTGpxQWJPcmFxU3ZV?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Sorriso sanciona lei que limita tempo de espera em filas da Energisa, Águas, bancos e Correios",
+   "data": "2026-10-09T18:15:52-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Energisa"
+   ],
+   "tickers": [
+    "ENGI11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Cenário MT",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVNpVnFZMzZnS2JmUTFDajlhUHBIcFBDeHNMVlJEbTRnTWRwSDRfWjd4R0t4UHJFdUxCNzBHZnNSZl9UVTZGVTVYTE1tNVM1aEh2dHgyUkJnR3NnTEg0WDRSQTJ3U256MjQ3MnRWTXhqbDh5WkdKUEZuTU55RmJsRmd6Y0FBUTVuTWRqNlhVc3RSTTZJMW0tQnpmclU2Nzh2TThGTTJYZUpRajF4bUFpWWxvZzBwdmpjdnkwMlBjMElEVlQ2eUlVMVhR?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "CPFL Energia recebe reconhecimento internacional por programa que leva eficiência energética a hospitais e famílias com UTI domiciliar – Portal e TV Fator Brasil",
+   "data": "2026-10-10T07:51:42-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "CPFL"
+   ],
+   "tickers": [
+    "CPFE3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Fator Brasil",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtQUloUDMwV1ZydWNNX1lKQmk0ZVduejhTOU1aWVlxcWNOdHVPdkFGRHdGNXdldnI1WFBYb1JuaEJFZDFiQ2R1UkE3Wkp0Q3JOVk1CNmVaOVpuTnl1dTFmWUdPTHM4U0k?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Neoenergia Coelba realiza mais de 28 mil ações contra furto de energia na Bahia e recupera volume equivalente ao consumo de Feira de Santana por 45 dias",
+   "data": "2026-10-10T13:30:47-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Neoenergia"
+   ],
+   "tickers": [
+    "NEOE3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Jornal Grande Bahia",
+     "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPY1cxaG5neDNQUEZEbFhST2VlaXlMeTJXeGg5UDgzMTF0Mlk1N0ZqbDdrczFMZTM0RmFDODNjaVZiWWdqUGZwV2JLOF80Ni1vYXhxWXBFa01JU3dOZjZVM09PUXp5c0JzVU96bEVRdkQ5WVZVVUYyMjd1cDFfVUk2NEJ5aVluSzZsdUx6Z3VGN1ZPSnhxV0VVSUs4V1ZKdnNobzJBRWR2V0plNUZLN1RnN1FkNTdnQm0zT3JlS1piaGdqVTNMYkNrTVpGRkh4YUxEeVdPS1pvUmFlZmtpM0FEY3ZEaXJUSVJmTWpLUm9JOWNmakZNS1Fic0dPVmhMRkE0dUVBMXNwcnRHaTZEOXpRUVRLS182SXgzcG93ZzZJRQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Neoenergia aplica R$ 868 milhões em 45 obras para reforçar a rede elétrica em seis regiões",
+   "data": "2026-10-09T19:53:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Neoenergia"
+   ],
+   "tickers": [
+    "NEOE3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Brasil 247",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWWFQSnlDdldLcFJwdGdQVG1ORGNlVVJGbk53Mm41TEllaDVfRnRsTk9GUWxoakpublFIdEprNF9HN0p2R2ExbDI5cnVpTW5FNUE3czdERW5sclhpSXduRW1vNi1TVzNnQjlKM3dKY21HMS1SLUNWUkVCV3pJS1VYUWhNRTdQMlVKQnFYRDkzN1BOSFBTSEQ4OF95MF84dy1rQlhBSjRBZVd2U1RjeEVWbHB1czRCRFNaNXdNaUtneUxZRHc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Cadê a COPEL? Famílias há 10 dias sem luz...!",
+   "data": "2026-10-10T14:03:22-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Copel"
+   ],
+   "tickers": [
+    "CPLE3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Jornal O Farol",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jeV9fX01jVktSNTFYbktVdV8wMUszUkFZTmpaUE9pYjhkQ21IQ0FjRl8zU2pudGNNTVlGcmxsbDBYMkZWd0VTckFTVjdZS18wcTlJcS1aSDA3VzN1YzU0ZjNwTWU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Copel inaugura subestação em São Pedro do Paraná e reforça sistema elétrico no Noroeste",
+   "data": "2026-10-10T08:10:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Copel"
+   ],
+   "tickers": [
+    "CPLE3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "BOMBA BOMBA",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaU5mSmtoZm52YVJrSnRDdm9LOGhQcTJDZjZNc0lNZFNrbFFvdlpXVWlDSlVMVC05WERmT1lYb0V3eEZKZl82ZWtzTkZRNzgxdkdmTWtpVExZb2tkdEQyYTQxbFplMzAtbGVPLTZHUkQwWkJLM0pMWWlpYzBRUW1nYmlKT3VsZnhjejQ4YnAwclVfdFYyc0JWSXd5a3g4ZzBqLVVvUXcwOXcyMkZaTi1QNkJSaW8?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Copel conclui obras para modernizar sistema elétrico no Litoral e na RMC",
+   "data": "2026-10-09T19:58:42-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Copel"
+   ],
+   "tickers": [
+    "CPLE3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Correio do Litoral",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHJQM0JpRnducVlULUxzVkFPdFZzemRUMmlkX0E2NFhRSDl5T01IVFg5aUxVZHdIMkk0dHpzU0F4cFdNQjFSZ3dhQkVZSUd6YlkzU0RGX0RkU2hmYjhnRzg4bno3X2ZtaDJMS3p0ZV9mSjh2ZXFjM2pPdlotWm93WGlQV3JWcTZUVnp2Unpic0JRN3dydlZzRDlkZmNlczRETGtQVjkzNmVTc01oM3ZuQzh3?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Cemig busca startups para solucionar 13 desafios reais do setor elétrico",
+   "data": "2026-10-09T18:33:40-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Cemig"
+   ],
+   "tickers": [
+    "CMIG4"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Agência Minas",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzlWdHRmMlRvTHJLUHcxQU0wakNzbHBNbkJKUUh3MUFGUlo2XzZMcDUybmkzSmtZQTlEeFZDQ0lTbER4NDZubjZoY1Z2SWN2STZjUVZxVDJFeUljTGhRRWY1N0hPUWczX3NNN2lsM2tJSWtxVzI1ZnRyaTByTXdlZWNWWGlTbjRNWnhkSzZNcUJqVWZfS3dsNWJLaFZpdHJhSnJWM1Z4RUNZWVFxWFlOeHoyTkFqZw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "cemig",
+   "data": "2026-10-09T21:20:12-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Cemig"
+   ],
+   "tickers": [
+    "CMIG4"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "RCWTV",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oSE5xV2ZJQlJBMVdhZkFjTndEbG5La1ZOb2FpejM4Q2xkRkpWSXphaWRlV2dmeUJfSDJZZEFFeWlEbjJPcTNJUVM3aUxSV0o5VkxPeTRabmZpTlpoNUE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Empresas do Governo de Minas, Cemig e Codemig firmam acordo com clubes de futebol de BH para patrocínio de R$ 32 milhões",
+   "data": "2026-10-10T08:38:33-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Cemig"
+   ],
+   "tickers": [
+    "CMIG4"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "MAUÁ AGORA!",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZ3dpM3Y4UVNKbnFFQV82MUprVDFKR1R4M0FZeS1rSU5hdDZfYzNSNV9OaUxLX3MxeHhzOGFlS2NUMll5SWJYbWkxdEY3WEwxS3ZzN2NwTE5TTXFiekRkRWVmYUhfX3NUUXdxbWx0dE5NdlAwRmt4ajNuTlprenRDTG9aVC1jTFRYbGVxekpwZjZFVkQtSmpIajR5Z2hfRDRiM1ZPbzRJajUtZnA2UUEyQXRaTjRpdHR2V29KcTN1MkhmZ2hlbWlFQXlzUDFmY1JmX2Y3MVpVWGRhSUd6bFd4WVA3dkl3OVhEZnplekp1dUhiRG_SAfMBQVVfeXFMT2d3aTN2OFFTSm5xRUFfNjFKa1QxSkdUeDNBWXkta0lOYXQ2X2MzUjVfTmlMS19zMXh4czhhZUtjVDJZeUliWG1pMXRGN1hMMUt2czdjcExOU01xYnpEZEVlZmFIX19zVFF3cW1sdHROTXZQMEZreGozbk5aa3p0Q0xvWlQtY0xUWGxlcXpKcGY2RVZELUpqSGo0eWdoX0Q0YjNWT280SWo1LWZwNlFBMkF0Wk40aXR0dldvSnEzdTJIZmdoZW1pRUF5c1AxZmNSZl9mNzFaVVhkYUlHemxXeFlQN3ZJdzlYRGZ6ZXpKdXVIYkRv?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Homem cai em buraco de obra da Sabesp e sofre corte na cabeça no litoral de SP",
+   "data": "2026-10-10T17:00:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Sabesp"
+   ],
+   "tickers": [
+    "SBSP3"
+   ],
+   "impacto": "Negativo",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "G1",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ3I5ZThMa0tDWUdOTE1FSnRKMTF4UzVzQUVjQ1dMVTdPSDhkZWpBaktET2dMUEtLWERLN0xkeWFjX1A4RHZfRE5meGItaVJkeHNWUWxsc3VMVFB3X1c0aElMTkpvUHpTdmZzMW9MMnlFVnBfMmtUVzJIWmZvZU9XZ0VKUlR4VFZsZHFRbHdVeHFYWlFJekVfd1dzMm8tblBm0gGvAUFVX3lxTE5LTERrUE9KMlFVeThoeHVHbXRPeWRQZVVyd2VNT0c5ZVdLaHp3MjVQajFCUDRFVUhZUTNQZHdNRF82ZWEyR2JUZHFhQnRQM0xaWVBNdHhGM1hRQVlLTU8yMHl3YkJGYWFJU2xUWGpoVHN4dE5ZWlZsdDNVc1hULUJuMmNUYTh3bnBvdFkxd2hVRzBFTGFia1FHa25BNWQtNXhfOG00ODNhYzlZbWcwdk0?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Sabesp terá atendimento alterado durante o feriado na Baixada Santista; saiba tudo",
+   "data": "2026-10-10T07:33:49-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Sabesp"
+   ],
+   "tickers": [
+    "SBSP3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Jornal da Orla",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUVpYVlBfS0pmZFdaVDJOMkNDdnVxb0ZFMFpMaVVEcUhQZ0pUMDFPUDFwdDFtQ09ubFF0WWVxRkdoZXpPQXhyX3pDY3RQZTdxb2MzUjN5WW53Vm1zSkEtZWFPUHE5TEJNTHBNV2RGRlFQaUR1dmF1NkRfZG1RSU1TR1BvWmFHd25iSHExRjF0ZTJRUFBGNzJkTnp5N3ZOQ2o5UmpTU1ZJQjg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Novo ‘manto’ na cor azul da Sabesp Praia Grande Vôlei encanta a torcida",
+   "data": "2026-10-10T12:33:37-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Sabesp"
+   ],
+   "tickers": [
+    "SBSP3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "BS9",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVkhGdWZZZXk0MUU5UzMtdWYtaTVGbnpBcWlCVVg3TzRnMGZDMC1Uem5YLVJ1d1liRDBObGQ1TmEwd2FDNlNVM2d2X3VJZmJiUk8ySGdzQ2VLdlZTbUdjQS0xQmNONDB0QllmbmZNcHVZN1V6a2s4Nldidlc2Y0o3eDBfcWFuenZJc3A4YUZSZzRTV3VWS1FreGFYbjZORVc5UjFqNlJZa3RnbVdLTzJCRUR1LWFGQkR6UjJCTEhEeHBBUQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Sabesp apresenta plano de R$ 1 bilhão em obras de saneamento para Cotia",
+   "data": "2026-10-10T00:03:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Sabesp"
+   ],
+   "tickers": [
+    "SBSP3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Correio Paulista",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ1Q5NHFDX2VUbDNvYnFqSlZBNWhuUllIUnZYamM5VmxqLWFTanlfVjVrc21pWFJXSU1xU1pDaVFQYVNDOVlHR1F3ZlJ4Y1A5ejhtN0V5ZUl6LTR3VE5TMF8zdVBPYWt3SVh0dE80OFEzQ0hSWG1VUWZIaHFaaEEtUWF6Qnoyelk5eXp4N0pma0JsekpkdlNHY2NWRlUzQ2pt?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Sabesp altera atendimento presencial no Vale do Paraíba e Litoral Norte durante o feriado de Aparecida",
+   "data": "2026-10-09T20:10:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Sabesp"
+   ],
+   "tickers": [
+    "SBSP3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "MEON",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUU0wUXRSTng0YXI3cVlpVDYxZ0w0czBDNXJYU0NhTDdHci1vMlIxQ2oyZERyMTF4VUVOWDhRSmRvSGVLNzJkZTBYSThFa2MtSklPYjFhMlJtWFR5bkpQekxaMFhzYVV0eHNrRHVPTUFxMlN5QjU4TkdCTFpqQ0lvWWViS2Z6bWh4dDM3Z0w1YkFLc0ZCbFBGUVlmODV5S19Yamd2MG00cVFYaTRqNC00RFVJTThObUNFeUpCY1Jxb2hhQ3lmTlVjZUduYWd5VDk2RVFPdEVva3NUVzZMR1pCdG5NcjVtSHF0X2hWeWNkbw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Sabesp apresenta em audiência virtual o andamento da transposição entre Billings e Taiaçupeba",
+   "data": "2026-10-09T18:34:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Sabesp"
+   ],
+   "tickers": [
+    "SBSP3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Diário do Estado de S. Paulo",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSEJkS1JkMm40cEtyekpqaFN4YmNjWnhmR1pVNlZhVFZXRmtiX3g4S1FyNERCUzU1TGMxMTVMTGw2VVVFZXhUc1RyclBPXzFNejhrbXo4YkE4Ym9DSHVSck1UZG9pWjRGUG5kN3RielZ2bHBtbm52OEtpSzlUSXZHeWExV3JtS3ZWc2tXY2tqajZvam5ZOUwtSU05U0VFMm1Vb0ZKeGlBeTV4QXY0Yk1QZlVaV2oxUEJxQUR0YlM4dmdLZGtqU3M2RUw2ZHotQmZ1cE9CUklyb2c?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Sabesp oferece mais de 60 vagas de estágio com bolsa de R$ 2.200; inscrições terminam terça-feira, 13",
+   "data": "2026-10-09T21:37:32-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Sabesp"
+   ],
+   "tickers": [
+    "SBSP3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "RNews",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40dG1vajRUY0hWeXJucWl1UU9oVzFqNkN2VndrMGJObFMwMnFvc0w3RWxTZnNqMHhzSmI1SUNJSDhfblpiZ3BhVnFLbC10S1pSbmRfRm5heFdjdy1QcThmNmVIbUJBcVV4TUppbFVMWWpsQUktZC00VzFrZFE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Conheça a nova diretoria da Copasa",
+   "data": "2026-10-10T12:48:21-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Copasa"
+   ],
+   "tickers": [
+    "CSMG3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Revista Tempo",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYW95SHVZY0doRlZFdzFJSXJHX01vR2lxSGtyRDlUUlRIMVExRzlOdXoyYUlIdndxUHJoSE1fWjlNR3JISkNLamYzTHlFNm8ydXdFVW93aEVWTmg5V1c0TmRhWWp6eWRfNUtEZHE3UEwxTWlWeTh3TzQxbE1YUjg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "APPA | ARTE NAS ÁGUAS DE MINAS: CONHEÇA A 3ª ETAPA DO PROJETO QUE TRANSFORMA RESERVATÓRIOS DA COPASA EM GALERIAS A CÉU ABERTO",
+   "data": "2026-10-09T18:47:36-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Copasa"
+   ],
+   "tickers": [
+    "CSMG3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "APPA | Arte e Cultura",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMFItVVNKTnRhelhXMTQ5STFjMHExYlhyZjJ5MkpCdEpvNnBNS2dNdXB1d3dtcFY4dU90S19xM2hpVVJmcTVvckpQMVdkTjRFUDNLUUgxNHRpa1R3Zk1ZVjFDNVA4M25acDc2T3JZcU9aU2JrUndJd2xxN19GWENuS1ViRTdOQnhDVzNCd0h2bkxvQ01MSmlmSE1CYjAyYWozVHZqMFEtbFllWTZKNkdEN3JwNllYN2c0N1RLc09ZbHgzbGxjM0tnVlBqWFZERzJCdkxpVA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Copasa informou nesta sexta-feira, 9 de outubro, que o abastecimento de água em Itamarandiba (MG) poderá apresentar intermitência neste domingo, 11 de outubro, véspera do feriado de Nossa Senhora Aparecida",
+   "data": "2026-10-10T08:02:55-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Copasa"
+   ],
+   "tickers": [
+    "CSMG3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "csastudiowebradio.com.br",
+     "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQSzlYd3FlVC1CZmQwNjVPX0dQdS1HSjhaOWhjdTNucDg3TTdIYW9PSzNWejhxTHMxSmNDWUZmU1J4ekdrcUt5eUFNZTM4Vnc3cHhReWs1VlhmMmh6NGNfdFlYY1NKYWZaNXR5ZkZPTFJhcHRXaG12LXhCSGkyelNzamxieDZoNlhJb3lnYkcycFFkSDc5U0pjZFdJVk04bmtIU0xmLWU1ZUpRRGZvcTRSQXdJNDlaLXk3REhvNHBzaDFCaEVVVFJISmNob09WLTBhRHBnYWFlQ2RfdXZrQ0NHbklEaXRJekVkeTdzdEI2VnFwb1dYdkMyV2JFc18tbVM4V1hQdGxwWl80a2JQTjd4bVZvNmJFdTBEdXNYRnhGN2ZqWnJUemQ2dkRpa1FOcUJzMUFHd19YdlJJdndBV1hpRXU0VEhaUy1wQVpSa1hxc0FOWlJsMHJYWVQyWHJvMnBEREtoNE9vOVp2QQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Copasa é notificada para apurar possível esgoto a céu aberto em Divinópolis",
+   "data": "2026-10-10T09:29:14-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Copasa"
+   ],
+   "tickers": [
+    "CSMG3"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Sucesso FM",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamN0STg5MXhRa3dBWlQ3NjFYYjFuUDY2cENxem1YaHVIcFBXTjBjelZ0d0U5WkV1Z1EybS1PWWNDM2p0czBaSjdWYl9uMWZISU96U01lWEhyQXlWeHhDUDJraW5lTlBHUzNkQUl5M1d5Y3otZTVzQlhzdGJpa09hSTRLUGRITXBDWnR5SkVkWm9xWm9EanlpSlREcGJmMGZxU1JpTFJYMUZ1aFdEaHV1TllFcw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Atleta patrocinado pela Sanepar conquista ouro inédito no Mundial de Kickboxing",
+   "data": "2026-10-10T11:17:00-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Sanepar"
+   ],
+   "tickers": [
+    "SAPR11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Coluna do Meio",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYUZKT094OE1kdW5UZkZyNm1ILVJWUmlqRFFIY01DWE5icTNNYXJZSjJsUXlUcGV1d1dBeEM1NDBGWFF6MmdJM0xOTjVYOXpXYWNXb0FUaHZSRHZxbmdiRUEtcF9VQmxpQlhUTExmNUNCVWFBSWdsdnV3ckczVjRhb0JveHU5dTVDV25CTlFpcnFRak8xRzcxZFBfOWlnMFZtVWViMzE0eUZtOHg1OU9VOFNZREt1cXM0X19n?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Goioerê está sem água após temporais e Sanepar alerta para situação crítica",
+   "data": "2026-10-10T00:01:50-03:00",
+   "relevancia": "baixa",
+   "score": 2,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [
+    "Sanepar"
+   ],
+   "tickers": [
+    "SAPR11"
+   ],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Goionews",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakJkLTI0Mm1tVXB3cTYwRmFBWGVCbDFibnFqbjh6cHdybTkyUnlFdmtEbXFiWXVFZU51ellRYjllbXBVT3NMcU15aWdabmdWOG9wYk9JdUhRZ3hmUEhyTF9SVVBSOFRKcGktamR3ME16aXh0UVFGTjJlNXhQd2pBbDB3ODZ3NmdsVEhVS3pNTlZZTU1jbm9SVWR5S2VIaUVSdE9lZXVHbmNlVWVzQmFxUVBSOA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Furacão Isaias deixa 2 mortos e milhares sem energia elétrica nos EUA",
+   "data": "2026-10-10T13:35:06-03:00",
+   "relevancia": "baixa",
+   "score": 1,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Negativo",
+   "resumo": "Duas pessoas morreram e cerca de 800 mil moradores da Flórida, do Alabama e da Geórgia ficaram sem energia elétrica depois que o furacão Isaias atingiu o continente na madrugada deste sábado, enfraquecendo-se e se transformando em um ciclone pós-tropical, segundo autoridades locais e serviços de monitoramento de energia elétrica. As autoridades da Flórida não receberam nenhum pedido de busca e resgate logo após a chegada do furacão, o que indica um impacto limitado, afirmou o governador Ron DeSantis. No entanto, as condições de risco persistiam e eram esperadas ondas de tempestade, enchentes repentinas, ventos destrutivos e risco de tornados em partes do sudeste dos EUA, informou o Centro Nacional de Furacões (NHC). A ameaça de tornados deve continuar no sábado em partes do Panhandle da Flórida, na Geórgia e nas Carolinas, informou o NHC. Na Flórida, o restabelecimento da energia elétrica foi definido como prioridade, segundo as autoridades, enquanto rodovias, pontes e aeroportos estavam sendo reabertos e equipes avaliavam os danos. “Eles farão avaliações nesta manhã, e acho que isso nos dará uma boa noção sobre a rapidez com que a energia será restaurada”, disse DeSantis em uma coletiva de imprensa em Tallahassee. Cerca de 16 mil técnicos de energia elétrica se prepararam para responder à tempestade, afirmou ele. Mais de 430 mil consumidores na Flórida, mais de 280 mil no Alabama e cerca de 100 mil na Geórgia ficaram sem energia elétrica quando a tempestade atingiu a costa, de acordo com a empresa de monitoramento PowerOutage.us. No Alabama e na Flórida, duas pessoas morreram devido à queda de árvores, segundo a mídia local e as autoridades. A agência de gestão de emergências do Alabama informou que as árvores e linhas de energia caídas tornaram o tráfego perigoso no condado de Houston, que está sob alerta de enchentes repentinas. “Devido aos impactos do furacão Isaias, todas as estradas do condado de Houston estão fechadas até novo aviso”, informou a agência no X. Isaias perdeu rapidamente a velocidade do vento após atingir a costa da Flórida como um furacão de categoria 2, o primeiro da temporada atlântica de 2026.",
+   "por_que": "Não identificado na fonte.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Valor Econômico",
+     "link": "https://valor.globo.com/mundo/noticia/2026/10/10/furaco-isaias-deixa-2-mortos-e-milhares-sem-energia-eltrica-nos-eua.ghtml"
+    },
+    {
+     "nome": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2l1UENWRXVsLUNoRmt0Qm9QUzZ5eEtmd1JYd3RDZzd0NjhXNXB1N2ZxQ25fSW9IUVNkQWExSHZOcGRJTUMzUmFuanRQeEFubkIwaGxOdHdGcE5rdW5uUXZJekg5MjJ6VEg0d0xoMF9majJZWDBxT0gydHZSSFVOWEY5SzVEZUl0SlNQbE1ZS1RvSGRUbDFPWEs5UXNfT1plZFFCSDVsM09sdUVYTnZpUTh2dUVxQjdoSjRyczJlZGM3dw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Inflação da energia dispara e encarece de pãozinho a grandes obras de infraestrutura",
+   "data": "2026-10-10T12:30:00-03:00",
+   "relevancia": "baixa",
+   "score": 1,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [
+    "Macro"
+   ],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Juros, inflação e câmbio afetam custo de capital, indexação de receita e dívida.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Folha de S.Paulo",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd3JaMmVxc2FWbHMwWU9COUlLaklIcDVWTVpYakQxRU84NmdackxZdkpVQUljazJjZDIwbm1pS1cyTmdnNTlLYXVGVFhWMWM3WHkxQVowWkstQzlwMkJxRGNmV3I5V0V5SVBjTUtnZ2U4ajF5VE5tZnJWY2t0MmN4OHBFM2VRdVVRdmNVZEVIYS11WUc2WlJUUjQyWUxmV19mYTZ1dXc5ellGQkpzQnQ5RDIyVG5BczhiUnhmT0xaSmVTeUc0d1hoVGg3eFVaNnJYOVE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Tentativa de furto de cabos deixa 114 imóveis sem energia no Alecrim, em Natal",
+   "data": "2026-10-10T11:37:48-03:00",
+   "relevancia": "baixa",
+   "score": 1,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "BNews RN",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTRPdUZwM2NIQ1dsUEUtTzRLWlkwSXVIZ29VNmliZlZQWHBVOTdXMXlSUVFwY18xVHhDR0VZUXh5T0FvZDNrVUpxTGMwV18yR05nZERNZGVySlh1YmxtSUcwQldQc0EwSTZFRWJjT1NFVEdwQm1Ka2t2cURSaWFTTkdMbFhvaldETkoyczZCODc4ZF9nc3JyRnE5RXRDbGJKdkw2VUQyTl9KM3kxY2RWRjd0ZnZ6dHhTZERQZm1oT0hZYjNHaGtBOVN30gHKAUFVX3lxTE55NE91RnAzY0hDV2xQRS1PNEtaWTBJdUhnb1U2aWJmVlBYcFU5N1cxeVJRUXBjXzFUeENHRVlReHlPQW9kM2tVSnFMYzBXXzJHTmdkRE1kZXJKWHVibG1JRzBCV1BzQTBJNkVFYmNPU0VUR3BCbUpra3ZxRFJpYVNOR0xsWG9qV0ROSjJzNkI4NzhkX2dzcnJGcTlFdENsYkp2TDZVRDJOX0ozeTFjZFZGN3Rmdnp0eFNkRFBmbWhPSFliM0doa0E5U3c?oc=5"
+    },
+    {
+     "nome": "Portal 98 FM Natal",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkM1bm5idXFjOXBnN0hRQjdtNVQxam5hYmdKVE9ic1g0UWhyLThNMlVzV1AxLURTeXRFSFA5WVBSY1VIV0JNWTV1V29vc01iZkZzNlBGYUdhSm15RmxfcUdQYzZBdWUwUEhuUF8zTlNSVm81UmJaLThFal81bDZVQWRRbG1GZHNFdlJIejc5azA2U2JmNWU0RkRvd0c2czVaclVVTEloaVRUNmc?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "A curva do biometano até 2030, fraudes no biodiesel e disputa pela conta das baterias",
+   "data": "2026-10-09T20:02:26-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Semana teve proposta de metas para o biometano, manutenção da proibição de venda de biodiesel entre distribuidoras e abertura de consulta sobre o custeio das baterias O post A curva do biometano até 2030, fraudes no biodiesel e disputa pela conta das baterias apareceu primeiro em eixos .",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Eixos",
+     "link": "https://eixos.com.br/newsletters/dialogos-da-transicao/a-curva-do-biometano-ate-2030-fraudes-no-biodiesel-e-disputa-pela-conta-das-baterias/"
+    }
+   ]
+  },
+  {
+   "titulo": "Setor de armazenamento foca no pós-LRCAP para consolidar presença no país",
+   "data": "2026-10-09T18:42:59-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "CanalEnergia",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOERhUWF3Qmt4d21yb0RsMVVtaVZKUnhwbWdrS28wVGExSlowSTdneVhBdFY1Q29xenpzUm5yOU1tNWM0SGl1dS0xVmVIc1NlM1B2UkNvN2QyRHlBZVRnY2dPb0trbHdzM2FTeWt0R0RSVXNkczlwR00zS1c1MEg3WDVuZUVCbTRkMFZyelEzRENVQkhWLWxVUWIxTFpONEM2VnUwOVpobEwxRFF3ZkR2LURRWGJxRzBhVUNNX0VyZ0dtQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "ONS projeta avanço de energia armazenada em três subsistemas",
+   "data": "2026-10-09T18:35:32-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Editora Brasil Energia",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeGRkXzJfYlBIeEZaY1BWTTI5Qy0wcFl2Mi1kcUxNRFpNSWowaWhUVTFNVFhlQm83cHBBYzRpVzBFV3RjemdlbUR4VzlTck9iZ3RmV1cxa0ZteEVYR2pXbm9oeXUtel9MckdBbzlHQWdwV25VNHpzLVNZdWRvSkszMXQ1MkxHSnJRTDh6UThCRFBkX0dyNUFDVnR1UTdUTzN6MHE4dUUyY0I0dw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Negociações de energia ganham força em meio à queda dos preços futuros",
+   "data": "2026-10-10T13:00:04-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Canal Solar",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nSmxmdklyUDVIZDdqTUxDcEptb1RIWFBMeGZ2M0M4UFBOYWJpOVlvVW1feWpEaWNnMW8wYVMwdnRLQm9zZWFjbEhxY0FfejBLWGhJdFppZE9nVWpUSGtQXzdRWlY1V0Y2RGRRRGd1Y1lSeUlWaUE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Explosão em aeroporto de Riad deixa vários feridos, dizem testemunhas",
+   "data": "2026-10-10T12:49:45-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Negativo",
+   "resumo": "Uma explosão no aeroporto internacional de Riad neste sábado deixou vários feridos, segundo duas testemunhas e duas fontes, e viajantes foram evacuados de partes das instalações. Uma das testemunhas relatou ter visto uma explosão e, em seguida, várias pessoas caídas e feridas no chão, dentro do aeroporto. Mais de uma dezena de ambulâncias foram vistas dirigindo-se rapidamente ao local. A assessoria de imprensa do governo saudita e a autoridade de aviação civil da Arábia Saudita não responderam de imediato aos pedidos de comentários sobre o incidente. O incidente deste sábado ocorre em meio a uma escalada de ataques com mísseis contra o reino por parte dos houthis do Iêmen, grupo alinhado ao Irã. O aeroporto já havia sido atacado duas vezes nesta semana, deixando quatro mortos e outros feridos, além de causar danos graves a uma aeronave. O site de rastreamento de voos Flightradar24 indicou que todos os voos para Riad foram desviados ou cancelados, restando apenas um helicóptero sobrevoando o aeroporto em determinado momento. O aeroporto orientou os passageiros a entrarem em contato diretamente com suas companhias aéreas e a verificarem o status dos voos antes de se dirigirem ao local. A Kuwait Airways informou o cancelamento de voos de e para a capital saudita devido ao que descreveu como o fechamento do aeroporto de Riad em razão da \"situação de segurança\" no local. A Etihad Airways e a Qatar Airways já haviam cancelado anteriormente vários voos entre suas respectivas bases de operações e Riad, com alguns cancelamentos estendendo-se até a segunda-feira. Ataques dos houthis na quinta-feira e no início da semana já haviam levado diversas companhias aéreas a suspender ou cancelar serviços para a capital saudita, pouco antes de Riad sediar importantes conferências sobre energia e investimentos. AP",
+   "por_que": "Não identificado na fonte.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Valor Econômico",
+     "link": "https://valor.globo.com/mundo/noticia/2026/10/10/exploso-em-aeroporto-de-riad-deixa-vrios-feridos-dizem-testemunhas.ghtml"
+    }
+   ]
+  },
+  {
+   "titulo": "Sigilo da Rússia sobre suspeita de caso de peste segue padrão da era soviética",
+   "data": "2026-10-10T08:00:01-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Negativo",
+   "resumo": "O Kremlin mantém há muito tempo uma cultura de sigilo no controle de informações divulgadas ao público, especialmente quando se trata de acidentes, indo desde desastres industriais a emergências de saúde pública. A morte suspeita de uma funcionária de um laboratório de pesquisa na Sibéria, na semana passada, que provocou uma preocupação internacional diante de que o caso seja de uma peste pneumônica, é apenas o exemplo mais recente de como os líderes em Moscou controlam a narrativa oficial, muitas vezes ocultando a verdade durante anos. A agência russa de vigilância sanitária, a Rospotrebnadzor, informou à Organização Mundial da Saúde (OMS) que nenhum caso de peste foi registrado na região de Irkutsk, no sudeste da Sibéria. Em comunicados sucintos, o órgão afirmou que a funcionária do laboratório contraiu uma pneumonia de origem \"desconhecida\" e que os exames não encontraram evidências de que sua doença tenha sido causada por algum dos agentes patogênicos com os quais trabalhava no Instituto de Pesquisa Antipeste de Irkutsk, da Sibéria e do Extremo Oriente. A OMS pediu à Rússia que compartilhasse mais informações para esclarecer a causa da pneumonia grave, qual agente patogênico motivou a adoção de medidas de saúde pública e as notícias de que uma segunda funcionária teria contraído pneumonia de causa indeterminada. A escassez de informações oficiais sobre a morte da funcionária, atribuída à peste pneumônica por relatos não confirmados na Rússia, segue o padrão de sigilo da era soviética no tratamento de surtos de doenças infecciosas, acidentes e outras emergências. Veja outros exemplos de censura de Moscou a informações de saúde pública: Vista do hospital Shelekov, especializado em doenças infecciosas, na região de Irkutsk, Sibéria Reuters/Stringer O surto de varíola de 1959 e 1960 Nos últimos dias de dezembro de 1959, o renomado artista gráfico soviético Alexei Kokorekin adoeceu e morreu pouco depois de retornar de uma viagem à Índia. Inicialmente, os médicos tiveram dificuldades para identificar a varíola como causa da morte, já que a doença era considerada erradicada havia décadas. Assim que o diagnóstico foi confirmado, as autoridades iniciaram uma operação de grande escala para conter o surto. A KGB rastreou minuciosamente as pessoas que haviam tido contato com Kokorekin, e milhares foram colocadas em isolamento. Um voo da Aeroflot que transportava uma dessas pessoas recebeu ordens para retornar a Moscou antes de pousar em Paris. As autoridades suspenderam todas as viagens de entrada e saída de Moscou e lançaram uma campanha sem precedentes, na qual milhares de equipes de vacinação imunizaram milhões de moradores da capital e da região metropolitana. Veículos de imprensa internacionais noticiaram a operação de grande escala, mas a mídia estatal soviética permaneceu em silêncio. O surto resultou em 46 casos confirmados e três mortes em Moscou, antes de ser controlado em 44 dias. Posteriormente, foram lançados um romance e um filme inspirados no episódio, mas os verdadeiros detalhes do ocorrido permaneceram ocultos do público até os últimos anos da União Soviética. O surto de varíola no Mar de Aral em 1971 Durante testes de uma arma biológica à base do vírus da varíola, realizados em agosto de 1971 em uma área de acesso restrito na ilha Vozrozhdeniya, no Mar de Aral, um navio de pesquisa navegou acidentalmente perto demais de uma nuvem de microrganismos dispersos no ar. Uma bióloga marinha que estava a bordo contraiu varíola e transmitiu a doença a várias outras pessoas na cidade de Aralsk, localizada no território que hoje pertence ao Cazaquistão, resultando em dez infecções e três mortes. A cidade foi colocada em quarentena e mais de 40 mil pessoas foram vacinadas contra a varíola em poucos dias, mas a população não foi informada sobre o ocorrido. O incidente só se tornou amplamente conhecido em 2002, quando pesquisadores americanos divulgaram documentos de antigos arquivos soviéticos. O vazamento de antraz de 1979 Em 2 de abril de 1979, esporos da bactéria causadora do antraz foram liberados acidentalmente de um laboratório secreto de armas biológicas em Sverdlovsk, cidade nos Montes Urais atualmente chamada Ecaterimburgo. O acidente ocorreu porque um funcionário não substituiu um filtro defeituoso do sistema de ventilação, provocando a liberação dos esporos letais no ar. Pelo menos 68 pessoas morreram em consequência do surto de antraz. As autoridades soviéticas atribuíram oficialmente as mortes ao consumo de carne contaminada vendida em um mercado de rua, enquanto a KGB se encarregou de manter os detalhes do acidente em segredo, confiscando prontuários médicos. A verdade sobre o surto só veio à tona após o colapso da União Soviética, em 1991, durante o governo do presidente russo Boris Yeltsin, ex-dirigente do Partido Comunista em Sverdlovsk. O desastre nuclear de Vista aérea mostra a usina nuclear de Chernobyl, em 26 de abril de 1986 Volodymyr Repik/ AP em 1986 Quando o reator número 4 da usina nuclear de Chernobyl explodiu, em 26 de abril de 1986, na então república soviética da Ucrânia, uma nuvem radioativa se espalhou pela Europa. As autoridades demoraram a comunicar o acidente e alertar a população sobre o risco de contaminação radioativa. Quando a Suécia detectou a radiação, Moscou inicialmente negou que qualquer acidente tivesse ocorrido. As autoridades soviéticas esperaram 36 horas antes de ordenar a retirada dos moradores da cidade de Pripyat, próxima à usina. Cinco dias depois, dezenas de milhares de pessoas foram expostas à precipitação radioativa ao desfilar pelas ruas de Kiev durante as comemorações do Dia do Trabalho. Apesar da política de \"glasnost\", ou maior abertura e transparência, adotada pelo líder soviético Mikhail Gorbachev, as autoridades censuraram intensamente dados médicos e números de vítimas como parte dos esforços para ocultar a verdadeira dimensão do desastre. Logo após o acidente, 30 funcionários da usina e bombeiros morreram de síndrome aguda da radiação, e milhares de pessoas morreram posteriormente de doenças relacionadas à exposição à radiação. A pandemia de covid-19 Durante a pandemia de Covid-19, alguns veículos independentes da imprensa russa e reportagens da mídia internacional afirmaram que o número de mortes por coronavírus no país poderia ser muito maior do que o divulgado pelas autoridades. As matérias apontavam um aumento acentuado das taxas gerais de mortalidade. As autoridades russas rejeitaram veementemente as alegações, classificando-as como parte de uma campanha de desinformação do Ocidente contra Moscou. As autoridades de Moscou atribuíram o número relativamente baixo de mortes à rápida proibição de viagens procedentes da China no início da pandemia, à adoção ágil de medidas restritivas e a uma ampla campanha de testagem, que teria permitido identificar rapidamente as infecções e evitar que os pacientes desenvolvessem complicações potencialmente fatais. O governo também negou relatos de escassez generalizada de equipamentos de proteção individual e de falhas nos procedimentos de controle de infecções em dezenas de hospitais. Alguns profissionais de saúde afirmaram ter sido ameaçados de demissão ou até mesmo de processos judiciais por denunciarem a situação. Em 2020, a Rússia passou a criminalizar a divulgação de \"informações falsas\" sobre ameaças à segurança pública, e organizações de direitos humanos documentaram que dezenas de pessoas foram processadas por supostamente disseminar alegações falsas. No entanto, no fim daquele ano, as autoridades reconheceram, na prática, que o número de mortes era várias vezes superior ao divulgado anteriormente. No início de 2022, as autoridades russas haviam registrado mais de 13,5 milhões de casos confirmados de covid-19 e 338.091 mortes — de longe o maior número de óbitos da Europa naquele momento. A agência estatal de estatísticas da Rússia, Rosstat, que utiliza critérios de contabilização mais abrangentes, informou que houve 681.100 mortes associadas ao vírus entre abril de 2020 e dezembro de 2021. \"O sistema consegue silenciar, mas não tem competência suficiente para coordenar [as informações]. Por isso, produz contradições em vez de uma versão falsa unificada\", afirmou Judy Twigg, professora de ciência política da Universidade Virginia Commonwealth, em comentários por escrito nesta semana.",
+   "por_que": "Não identificado na fonte.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Valor Econômico",
+     "link": "https://valor.globo.com/mundo/noticia/2026/10/10/sigilo-da-russia-sobre-suspeita-de-caso-de-peste-segue-padrao-da-era-sovietica.ghtml"
+    }
+   ]
+  },
+  {
+   "titulo": "Isaias enfraquece para furacão de categoria 1 após tocar o solo na Flórida, diz NHC",
+   "data": "2026-10-10T01:10:53-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Negativo",
+   "resumo": "O furacão Isaias perdeu velocidade de vento rapidamente na sexta-feira, enfraquecendo para um sistema de categoria 1 após tocar o solo perto de Destin, na Flórida, informou o Centro Nacional de Furacões (NHC) dos EUA; no entanto, o órgão alertou para o perigo de marés de tempestade e inundações, enquanto linhas de energia eram rompidas. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+   "por_que": "Não identificado na fonte.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Valor Econômico",
+     "link": "https://valor.globo.com/mundo/noticia/2026/10/10/isaias-enfraquece-para-furacao-de-categoria-1-apos-tocar-o-solo-na-florida-diz-nhc.ghtml"
+    }
+   ]
+  },
+  {
+   "titulo": "Ana Elisa denuncia ataque digital coordenado à Polícia Federal",
+   "data": "2026-10-09T19:28:40-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Negativo",
+   "resumo": "A deputada federal eleita Ana Elisa (PT-MG) apresentou uma denúncia à Polícia Federal após sofrer um ataque coordenado com termos racistas, misóginos, e com ameaças de morte e de estupro. Os ataques ocorrem desde domingo (4), quando ela foi eleita. A parlamentar foi acompanhada do deputado federal reeleito Rogério Correia (PT-MG). A Polícia Federal abriu investigação sobre os perfis que enviaram as mensagens. Leia mais \"Desde domingo eu venho sofrendo ataque coordenado com termos racistas, misóginos, ameaças de morte, ameaças de estupro, e se intensificou muito nos últimos dias, enquanto eu estava em Brasília\", afirmou a deputada eleita, que decidiu voltar para Minas Gerais para fazer a denúncia. Ana Elisa disse que os ataques aumentaram após viralizar uma suposta publicação de 2022, na qual a parlamentar eleita teria feito pedido para o presidente Lula fechar igrejas. Ana Elisa nega que tenha escrito o conteúdo e diz que a imagem em questão foi uma montagem. A equipe da deputada eleita desativou o perfil de Ana Elisa no X na quinta-feira, após os ataques. \"Nós tivemos que tirar do ar exatamente por conta dos ataques exacerbados\", disse. Ana Elisa disse ainda que pessoas negras sofrem ataques a todo momento. \"Eu acredito que a nossa resistência é na Câmara, ela é no trabalho CLT, ela é em casa, ela é nas redes sociais, ela é em todos os lugares. Então eu acredito que, infelizmente, socialmente falando, nós somos formados a aguentar tudo e qualquer coisa\", lamentou. A deputada eleita também disse que não espera que haja impacto na campanha do presidente Lula em segundo turno e que seguirá fazendo parte da equipe de estratégia de campanha em Minas Gerais. A equipe de campanha do petista ainda não definiu em quais datas o candidato deve voltar a Minas Gerais.",
+   "por_que": "Não identificado na fonte.",
+   "paywall": true,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Valor Econômico",
+     "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/ana-elisa-denuncia-ataque-digital-coordenado-polcia-federal.ghtml"
+    }
+   ]
+  },
+  {
+   "titulo": "Como criar vídeos com IA no celular de graça: o que funciona sem pagar",
+   "data": null,
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Apps gratuitos como CapCut, Edits e Adobe Firefly transformam foto em clipe e geram legendas automáticas, mas impõem limites diários de uso para a geração de cenas por texto",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Exame",
+     "link": "https://exame.com/tecnologia/examelab/como-criar-videos-com-ia-no-celular-de-graca-o-que-funciona-sem-pagar/"
+    }
+   ]
+  },
+  {
+   "titulo": "Furacão Isaías mata quatro e deixa cerca de 670 mil sem energia nos Estados Unidos",
+   "data": "2026-10-10T17:43:00-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Folha de S.Paulo",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORmZ1VTlVcEpyMlYzYzlDS0poTmVFOXdVMWg0eXVvV05zQmRkbHItNjFuLW44Q2NrckZudE1EcW85ZkVnaXROU0hUS0FpbHpxcXhmUTEzTnpSVS1QWWNnNS1qczdXeVhmLVFGQTYtbjZxMU1JTTNLSHkwY0N0S0xyVjQxLXJ2RnhNRHozaHV5ZXVoTjY1Y09qRkhJcjZJYzNtN0xQRk5xemJNMUtlTjA1dzJLUDllTnZLWG9IX1ptc0dSVm5UbUZ0XzJMUnU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Prefeitura de SP ultrapassa marca histórica de 2.000 ônibus elétricos",
+   "data": "2026-10-09T19:20:36-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Estúdio Folha",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2RMdGU4QnhDaFJCb0pSVXBsWG16djk4eVc4dGN5NE5jSi01XzNwenc2c1k4Y3BoRHZmQUREVUZ3R0J2d09OTHJDNkVuMUxLa3lpR3lqZ2Z3cE1ITXBrQWIzVWNFOWtDRDBKX1E0a0R1UFNEaHFCMk55RWtNcEhrWjhqR2V2WTR3cktYMldSOGxCcGxhWDJ4cWJNaDROQmZYQlRDa2hoUVh3R1o5M1RwdmZYOFRLYU1waVAzNTFMTWw5VWNnSGZnRHJOZEtVeWpma1loYg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Usina centenária de SP ainda opera com equipamentos originais e atinge potência máxima em 15 minutos",
+   "data": "2026-10-09T23:00:00-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Folha de S.Paulo",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSk0tbzc2MVhKVXJtNVJNTUFZdHV3blZxd3JucFhOZ2FLbzlDN19SaG9vQXB4YjBuSkhWVjVjbzE1RmFGdGtnNXZGYk92NGFYNnlnekl1NTk0Zkg2UWx0LWF1VlhYbmYyNk8xMGJLTmItZHNiWV9lY2JlQlZHNGI0RTlVdTNtZWJ1a0gwa05Dd1RxMlZxNjFIRlQ5VF8xa0xUN2NOWHlNMnNPTjJJb0xpOFRGSkNlWnZSRTNjeS1NVWRBQmRkQzN4ck5mX2V4a29fbzVWZ2p4SGdPX2d4TkNzM1pObFdnelBsNUE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "A centenária usina Henry Borden, em Cubatão",
+   "data": "2026-10-09T23:00:00-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "UOL",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRNTRHM1NVNFVORnE4ck9nSFpTaDFmbXNLZ0J2Z3JIU3dlcWp5bTVROXlsb2l3WExQc1VwVVdPN2dtNnEwbUJmY3o1aU5pMllQWVJOT3VkRDIzM0dzMWVKZU81U0M4S0R1Z2hnN0hUaXJDSFpJcGtmQmdTU19DeVU?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Autor(a): Ana Carolina Marsicano",
+   "data": "2026-10-09T22:00:00-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Folha de S.Paulo",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NMHlPaFFVRDFHQldQU2RMTEVuMUxWRTZUS2FvT2kzcUZ4clBLU0QxN0cxVG95ZmhxT2dzQ3hsbDd1bEt2TU9ESWpsblRoYklrVmMzZ21fWGVaN21Sek10MkdUU3JhVlo1MURfcnhPNlMzcXJP?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Baile charme à beira-mar: evento leva ao Arpoador a energia e o som da festa do Viaduto de Madureira",
+   "data": "2026-10-10T07:00:02-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "O GLOBO",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUFRxVmJmdEprWngya2FZMllfSEVIcjladXRsZHBzaGNfWFo4UnhzQkRSNTdsNklmNDVNUGEtVHBwWjB6aHBFWHVaQlZUSHdMNnpEMTY0Z0wtcVNvLUVBMGFhNXNvbk5odDEwaldIUHNYcHlfalZUbXZDMGpjaWt6S05qLU02NmFyWlFqbzY3dlg1VUs1TmV0WFJNMU5lcmlYMjBBbWFBRThPdE5yR3RRN25hRnp5TS1HSFhSMFV2V3hESEl5MGFQdXF6cFVBdFJfTldUZEMwZVNJcTRQV1ZjVnNhSWZLNmZFSXFVWXpFN3FuRk1ubEZoS09wUzlycDTSAY4CQVVfeXFMUHJva0Z3d044ZTY3N2ozMEl3RjRwMlN1eDRHMEdLdXVvM0p4N1hldDVQWlBjeTNPdHc0bDBHdnQ4aEZweklrS2huM2dfSWM3bmRZc1BBOEV5d2k3ODRpaktnTVFPbEt6TXJ1LUxiVTVzMC1jbm1JanE2MWdmMWRmdjZvaUJybUtkT2h1T1ZXOUNtSzlkOUh5MzJDMWtXZDRSTkpHbm9MblpEQ1cxYlplbzBTc296QkMwNWdkNHBVM19WZXZDWk5Jb1ZDUTJYR1drZGI4RDVEb3FXNFVEOWRMZTQ3dnVnaWhLend2S2R2alk3ZVZkWmdFWVFjdjRILWxyeGNXbzFtZ0Jza0JpZEJB?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Furacão Isaías 'aterrissa' nos EUA e apresenta risco de vida; quase 800 mil já estão sem energia",
+   "data": "2026-10-10T04:32:12-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "O GLOBO",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORFpoQzNGSFZuWUtTN3YwOGptTF9zVElyYy1EMjl6YUNRSVlGanJQdHpSSnlSUmpFTHhjSnVzelNaV0hfaTcybmhBZmpDd1pGNllhbFhXSEhPSUhQUTB3Y0VSM0Itay1DRzBGcjhucHB2aDByd1pjVmMxUHVMSWoyMGRIeDVTeWtpMFRxSkZUUDlJQ05UTUk4NWt5MVV5bUtTS2FLek5tSERnbkVfZ3g3UG5ZamFBS1B0ZDBQNjJ0OVA5bzJRRlVkYlBmeVd3TDhsOWlKVGFlblBmRUVQUjRLNFRrONIB8gFBVV95cUxQbVZ5OFJkbWZyZk9kV0hDTS1qTXQ4OGZqZTlET1ZrSTh1Vmt1VkdLblJyTzhNeDY5cDlhNmE5OTh2NUhVWF84TEVGR2g4VUxpOEN6ZVhKZ3ZlZFhBc2tmaW15RnVmN1VOeXhEakJPSFpSV3JDZG9rLTdaXy04UGNMZWU2V2pacjZjbmlBbjZPVEd4SU5oMjAtTHVVVlZvMlF5SDMtWGJTRWxOcWExUHpaZzlhbnNUdUFUem5aVS1uamxHLTQ2aldlS1VLZndQODd4VV9FT2p3WjItYnhsVnZHN05WUUVSaU05WTlEeEpmekV4QQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Seu vinho está bem guardado? Saiba como conservar a bebida sem precisar de uma adega",
+   "data": "2026-10-10T08:00:00-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Sem adega climatizada e sem frescura: saiba como proteger suas garrafas do calor, da luz e dos erros mais comuns de armazenamento The post Seu vinho está bem guardado? Saiba como conservar a bebida sem precisar de uma adega appeared first on Seu Dinheiro .",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Seu Dinheiro",
+     "link": "https://www.seudinheiro.com/2026/lifestyle/seu-vinho-esta-bem-guardado-saiba-como-conservar-a-bebida-sem-precisar-de-uma-adega-edvl/"
+    }
+   ]
+  },
+  {
+   "titulo": "Em Cuba, a La Bodeguita del Medio guarda a história nas paredes e a solidão nas mesas",
+   "data": "2026-10-10T08:53:54-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Havana – Em Havana Velha, basta subir em um bicitáxi e dizer o nome. La Bodeguita del Medio é daqueles endereços que não precisam de introduções ou explicações. Na capital cubana, histórias sobre o bar atravessam gerações. Vividas ou escutadas, elas fazem parte da memória do país desde 1942. Na Calle Empedrado, entre as ruas […] O post Em Cuba, a La Bodeguita del Medio guarda a história nas paredes e a solidão nas mesas apareceu primeiro em NeoFeed .",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "NeoFeed",
+     "link": "https://neofeed.com.br/finde/em-cuba-a-la-bodeguita-del-medio-guarda-a-historia-nas-paredes-e-a-solidao-nas-mesas/"
+    }
+   ]
+  },
+  {
+   "titulo": "Breno Macedo aponta falhas na energia como uma das causas da falta de acesso à água no Piauí",
+   "data": "2026-10-09T18:18:00-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Portal O Dia",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcHRJVlI5R3VfSzAwOWRyR24tcHpVMkEzRVl1WHJ2bEVKcGVuQ2VhbndsRnhpbWNERnNyOVRMU0hrLXE3RlVXcFo0Y2NDMUpFLWxfa2lPWjQ3WGhqdWwzenlxM2kzVmtIeWRhLUNNbzR1bHNwZzJoT2dMeFVscktNMXFwUVJXeGQ0R2ducEU3U19DVWxCQjdhal9EZktzaGpHS3I4QXE1NmhCSFRlcERwZC1famRWOEd0N0dibE1vdV9KdVctM3J6N21jeXhkZVEwVDFwV1J6bk5yQdIB3wFBVV95cUxPVlBMdHpUYmM2bWRKZTdRWFRPNjRsYnZIckNFcXUwaXlvWjExM3dWeEhlT2Y0YnNVNFU0WlZ3QkFYVUwxWlZqUEhqSXdkSzJzQko5aEFRMDNkNGphNDRPOVVEUEpFSVAwUjB2ajdyS0h3eFpRMThPX1ItUUc2QUl5NFJvN2FPTUxFU0puZDhIVm9CS2h0NG83TWZUMlpUM1o3cU9vV1Qybk9FYXBKZ1VVR19PVC1zQkZOdGZiRlhiTnVGY1hwNXVzLWh1SHhfcFB3VU1YS2oweVJ3OWVDbVNv?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Com energia de sobra, Rio Grande do Norte tenta atrair data centers para evitar desperdício",
+   "data": "2026-10-10T12:58:05-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Mossoró Hoje",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdTlZTVFUMEhxMjFyMHVTdTl1R0JwaDJib2RFYXNZcDlUVURGQWVLNllzTDlyaWlSWXlSc2RXQW03RzlxSnVVOWliVHJ3bElNM2hfNTd6N3NWQXZtMWZELW9xc2l1by1BR0h2eXVUb1pVOXNaNXNjWGpZRmNBN1U2OUF5QXZoQjZEOElrZzdzUkVCTjZvZ1Z0b1FnZ3IyQi1iVTFiYmp6M184QWhBQjJUamN1UkxkSU94YjFSUzRqanh6OER0NFdDU1praVQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Moradores de Costa Rica enfrentam quase 20 horas de apagão elétrico após forte temporal",
+   "data": "2026-10-10T09:35:25-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "MS Todo dia",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXlzb3BsR29iMmFmdzZTVWlGMHlYclNZZGVrUU1Qb3ZoSVBnX2ZqZkZHbVk3d04zcHhnLXhhNExNTTQxQjFlclUxb2ozcHExbE56ME5rc1NqcE9McEhNS01xdlY3SUs3UW1ZM1pBSl9vdGdxUXp6LXlzRGhhOXhuNGNwdko3dEVONGp2ejR6c1NQeEFiSWc1Q2FFZTFCMXRMU3ZpZUJiaFYxMWVOQXVEcFczT2dMRWdtMjdDRQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Trabalhador que sofreu descarga elétrica em poste de Mâncio Lima está na UTI",
+   "data": "2026-10-09T18:08:47-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "ac24horas",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbW5DTGMtTExtWklobjJ1N252Q1lHM1hWaGNoUDdad0tFeXQ3Zy11dGRLaWNiT1pBZFNEUEJtaU9NSFpHR0RWWmtpdWwxSnFQUEN3ZjJVWXpTekVOSlhxeDlkak9wNDVWTTFualVnMnNmUXd0Y3ZQV2VRbWNLUjhfaEh5ZUlUMXhoZWpDa3VhUHBKYkhIcFF1RmwtbnF4ODNBZTRJaDhjVVlFSC01Y3UwZkd4RW7SAbQBQVVfeXFMTW1uQ0xjLUxMbVpJaG4ydTdudkNZRzNYVmhjaFA3WndLRXl0N2ctdXRkS2ljYk9aQWRTRFBCbWlPTUhaR0dEVlpraXVsMUpxUFBDd2YyVVl6U3pFTkpYcXg5ZGpPcDQ1Vk0xbmpVZzJzZlF3dGN2UFdlUW1jS1I4X2hIeWVJVDF4aGVqQ2t1YVBwSmJISHBRdUZsLW5xeDgzQWU0SWg4Y1VZRUgtNWN1MGZHeEVu?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Segurança elétrica dentro de casa: mês das crianças é momento de redobrar os cuidados",
+   "data": "2026-10-10T11:25:12-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "ac24horas",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTBYZmJLU29UTTVIQU8yeVQtNEZ5MlVmcXQyUGdPZG1PWVF6c1ZiVlJTRnB2RVlaMERMWFR4NDBWdXhWSW5YWmc1aXZodXVWdjlIZ2xrU1NDU0VQQzlXQjNqMkkzRnd2M2k0WGE1d050RHQzX1p2eW0xck5pbl96aGE4YjdCSlFzQ0I4MmNjazY4ZTlmMzN1OURKT2JpVkEybmZGUk5ITHVSdUt0VzZ4blNCX1FxamJhdjN0MXFmQdIBvwFBVV95cUxOYTBYZmJLU29UTTVIQU8yeVQtNEZ5MlVmcXQyUGdPZG1PWVF6c1ZiVlJTRnB2RVlaMERMWFR4NDBWdXhWSW5YWmc1aXZodXVWdjlIZ2xrU1NDU0VQQzlXQjNqMkkzRnd2M2k0WGE1d050RHQzX1p2eW0xck5pbl96aGE4YjdCSlFzQ0I4MmNjazY4ZTlmMzN1OURKT2JpVkEybmZGUk5ITHVSdUt0VzZ4blNCX1FxamJhdjN0MXFmQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Primeiro cinema movido a energia solar do país chega ao Guarujá no próximo dia 13",
+   "data": "2026-10-10T11:33:56-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "BS9",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2tTZG9vbkxVUVJ5TmI4U0wzM0hRQmVwMWU0NmhXMFcxNFJnZ3J0bk4wcm45Z2RCQ1Q3RVZySkdHUmNzOWx3SmJSRWh5azVNdjRtRmtpbFNrTElqalRQQzlKZnRpY19ERzJfdm1nakdiX19HZ3k5aW04VGFDdGZmcmQ0MnhNZ05xS0xjWExVc2gxZXFxUUpwcGZmQzktX0I2bVFGR0lZUU9MbEk1ZWdSMl9JWEtfTnc5UEpYQm5QNnpXSWRGMFVV?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Temporal derruba árvore sobre oficina no Bonfim e deixa bairro sem energia; veja vídeo impressionante",
+   "data": "2026-10-09T21:08:04-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "ACidade ON",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM0N2YWJWczZIajduREVHcDdmNkVXclZmbU11eEVsdDd3X3RnQTZUVmU2b0dabWNpbUNpXzMyT29Sb0JlNXFtcHZlaHR1dlBSQXdmOUJfdUl3WE9YYzR0VnZHRXBieDQ4TjdENXVfMnJvaFRnOTdIcUFzNkZkMGxQZzBVQVFVMXdheDkya3h5NXBvbXFVYmx5VXRjVC1uWjFoQ24yWnBfaV9wZXRFd2FpNVRGN3dPclUzcnpuZVJHNTRWaGRURlFTMGt1SVEyNkNhbjA3MkVkMGprZ2xJamlJ0gHkAUFVX3lxTE92SW1pQlhmSzJIZWNleHVGODdmUkZWWjA1OVllZlY3TUk4bFNsbHh4bjY4Ri00Y1JDNkd5d0VRTV9OYlMzWC0zT0Utb0tuNzU0OXNrdS1UQy1ZRlAtVjdKZTctdzdxQlhTcFBxdnA4ODM3VUFkRU5EMm5peUkyUU5yM0R2cjJGRHdMZmhXRUFvcVVmTV9YNTlZekd4cHN4Z1Rhd05oaWptZWZpeVN5dzZtREhyTHV2VkxmNHB3UjdIR3JCV1ZYeVZMTm5iT1FpOThKRU5jRGZfdFRSOXNjWFFuS2ZmUg?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "RN soma 233 mil novas unidades de geração solar distribuída desde 2024",
+   "data": "2026-10-10T17:00:00-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Tribuna do Norte",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXlPOVN2SlZqZnMzMzVuWWVyUFVYSUJHMUFVUTJ5NFRrV0hRaEhvUGdBdi1vWktESEppc3VvWjIzNWlSaG4ybWVPT3Jwd09LTlZ2VFd6QTk0VE9aajRYcnpJMzd6NzhzdHhaSF9IZ25JV2VweGhQYzlMS0pMbi16Y2d5ZzNNQlp1bjhXU1dvdXhCN0cwR2NvYWNsM09YZVBSaERoaEZTWTlocjdoUlIw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Piscicultor perde 450 mil peixes após falhas na rede elétrica",
+   "data": "2026-10-10T12:50:00-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Negativo",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Tarobá",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRTVWQWt5S05TWjZScjUyNWdiM1BaeU9ucV9ZOHVRWjdlTmtjSkZyRHI1VWtLcHFxWUw4WXRHVXgyS05tVWdUZmRPZEgzUm9iUFJqUlAxS0otd29ONmtKYzFBaUd4MFNVUTFCRHkxeUxDeWswR01Bb2hDQXVLUDl3X3ktclRfQl9wZHh4TGFROEo4RFo2N1dCTWFZcEdtdnlxYU5J?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Mais de 450 mil peixes morrem por falha em energia elétrica no Paraná",
+   "data": "2026-10-10T06:45:01-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Globo Rural",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQejJaXzJnUy1PM0o0aHF0UFR6dlo3NmE1M3FPOW9rcGRYNEg1SnV2MkhjenhLZFFtRjRCTkhJV0hJVXB2am03cWNkbDZ5SmxXWFV6SThWeWZ1M2xWM0FQckRzSGJFd0ttQjlURFdwNllPQnh6X0xBQTVsdmpJMVlNbmZkdGRSTWhQMldjZDVvbE9vQm8tNDBNUGlNME9vWXRCTzhwYXlLU0JFR1l2WGJmWjFDeHhPMHVIeFFxV2pOU2xIVFJINWpQTFVvRzM2TU9MU1k2Z085QWZNd3BhNUQw0gHfAUFVX3lxTFB6MlpfMmdTLU8zSjRocXRQVHp2Wjc2YTUzcU85b2twZFg0SDVKdXYySGN6eEtkUW1GNEJOSElXSElVcHZqbTdxY2RsNnlKbFdYVXpJOFZ5ZnUzbFYzQVByRHNIYkV3S21COVREV3A2WU9CeHpfTEFBNWx2akkxWU1uZmR0ZFJNaFAyV2NkNW9sT29Cby00ME1QaU0wT29ZdEJPOHBheUtTQkVHWXZYYmZaMUN4eE8wdUh4UXFXak5TbEhUUkg1alBMVW9HMzZNT0xTWTZnTzlBZk13cGE1RDA?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Moradores de Goioerê, seguem sem energia desde quinta-feira",
+   "data": "2026-10-10T12:41:41-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "NOVO CANTU NOTÍCIAS",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnlGVU5BSGt0VnlMV2Y4WUtXZVBKWDZ5WmxpejlLQm51U1lIOG5Ea2dRNzU0YkJaWHRDUTJ5Z21keTViOVVGVFdrVTZEVVJtRVMtVHpleXVWWHFCLWVHaC1Hb2tRQ0NxLXlUWjNsUDFabHI4emM5VmlPYU9SSFc3QnZJdTdtUWxJVVlHTEFCak1BbHY0WnJ0aDBGYUVtNG8?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Queda de energia compromete abastecimento de água em Cascavel",
+   "data": "2026-10-10T21:51:00-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia",
+    "Saneamento"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Negativo",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "CGN",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlNXUWhOLVRiWWJRSnpBN1F1MHF1YmF6RlJVSHlVZDhfLXZ0ZVU1X1J2UGxxUWhmSTgyVmd6ajMwRWVnc0s3ZDkxanRQZ243VFJDVDlOMFNNYlU5QnBXWng5QlpaLWNMc215MEZVY3pHYzhyMnBkb05zaXZzTk1yb0VVLXctb0RTbk9fWFRTRU1hWk90Vi0yNlVzZXE?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Queda de energia deixa pontos de Quarto Centenário sem água nesta terça-feira",
+   "data": "2026-10-09T23:01:50-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Negativo",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Goionews",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0V0OEdfUGlwSGxLZ2txTTQ4dW5qWFRDTVFQUGs1QU5PYmxKcGQ4b0RxOEt4RUFfNnEzNUJMd2YyOUlqWkZhREZLX0dpS0VhanRHNEFUS2s1QmFlaU1qcUpOb3R4ZGhLSFAycWI5X09Nb1VYV0Niei1NSWstU2tsMGM4WWhZdUlOMVhya3VKaHY1VU1wd2I0R0NfYndVeTNNVnV2RkJpT000ZzJwOE1xWUl4bXpOdw?oc=5"
+    }
+   ]
+  },
+  {
+   "titulo": "Energia volta ao poço principal, mas Goioerê deve ter água normalizada somente neste sábado",
+   "data": "2026-10-09T23:16:50-03:00",
+   "relevancia": "baixa",
+   "score": 0,
+   "setores": [
+    "Energia"
+   ],
+   "categorias": [],
+   "empresas": [],
+   "tickers": [],
+   "impacto": "Incerto",
+   "resumo": "Não identificado na fonte (apenas manchete disponível).",
+   "por_que": "Não identificado na fonte.",
+   "paywall": false,
+   "fonte_primaria": null,
+   "fontes": [
+    {
+     "nome": "Goionews",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd20zTlI3MldFNXZsNVhLZUtDV2hHeTg3LTQ5MzI0WFRBNndSd21sSHhqclZwY1N6Mlh3N3ZRelVRMFJYM1RvODI5NUl2bGFER2UtTThwYUVDdkluQVdxbG5sZlhSRjZLR2N5X1ZFX0QwLThtbXo2em1IWG52eTRXUU85Z2pBTDZoTDhqUzN3a2d3TWFiRWlDUV9uenlsR05KbmRVVWlMbmItVGJuY05HbEFCdmlQQ2VoWlNQYkY3SWh0aHFpVjlj?oc=5"
+    }
+   ]
+  }
+ ],
+ "o_que_mudou": [
+  0,
+  1,
+  2,
+  3,
+  5,
+  7,
+  8,
+  4,
+  6
+ ],
+ "coleta": [
+  {
+   "consulta": "ANEEL",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "ONS",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 2,
+   "erro": null,
+   "obs": "HTTP Error 404: Not Found"
+  },
+  {
+   "consulta": "CCEE",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 7,
+   "erro": null,
+   "obs": "HTTP Error 403: Forbidden"
+  },
+  {
+   "consulta": "EPE",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 8,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "MME",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 3,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "ANP",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 11,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "ANA",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 8,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "TCU",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 2,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "CADE",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "BNDES",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 18,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "Câmara",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 38,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "Senado",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 8,
+   "erro": null,
+   "obs": "feed vazio"
+  },
+  {
+   "consulta": "Diário Oficial da União",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 16,
+   "erro": null,
+   "obs": "HTTP Error 403: Forbidden"
+  },
+  {
+   "consulta": "Reuters",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 3,
+   "erro": null,
+   "obs": "bloqueado pelo robots.txt"
+  },
+  {
+   "consulta": "Bloomberg",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 5,
+   "erro": null,
+   "obs": "HTTP Error 403: Forbidden"
+  },
+  {
+   "consulta": "Financial Times",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "HTTP Error 403: Forbidden"
+  },
+  {
+   "consulta": "Utility Dive",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "HTTP Error 403: Forbidden"
+  },
+  {
+   "consulta": "S&P Global",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "HTTP Error 403: Forbidden"
+  },
+  {
+   "consulta": "Argus",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "Energy Storage News",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "HTTP Error 403: Forbidden"
+  },
+  {
+   "consulta": "PV Magazine Brasil",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 10,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Recharge News",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "Rigzone",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "Oilprice",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "Eixos",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 20,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "CanalEnergia",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 22,
+   "erro": null,
+   "obs": "HTTP Error 403: Forbidden"
+  },
+  {
+   "consulta": "Brasil Energia",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 30,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "epbr",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "The read operation timed out"
+  },
+  {
+   "consulta": "Agência Infra",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 80,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Energia Hoje",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 0,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "Canal Solar",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 12,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "NovaCana",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 30,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Valor Econômico",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 80,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Brazil Journal",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 15,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "InfoMoney",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 10,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Exame",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 25,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Estadão",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 20,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Folha",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 100,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "O Globo",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 95,
+   "erro": null,
+   "obs": "feed vazio"
+  },
+  {
+   "consulta": "CNN Brasil",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 60,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Poder360",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 10,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Money Times",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 10,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Seu Dinheiro",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 10,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "NeoFeed",
+   "tipo": "fonte",
+   "via": "direto",
+   "itens": 10,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Investing",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 100,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "Agência Brasil",
+   "tipo": "fonte",
+   "via": "google",
+   "itens": 13,
+   "erro": null,
+   "obs": "sem RSS encontrado"
+  },
+  {
+   "consulta": "Eletrobras (Axia)",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 39,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Equatorial",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 25,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Energisa",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 29,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "CPFL",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 9,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Neoenergia",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 29,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Engie Brasil",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 4,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Taesa",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 7,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Auren",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 5,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Copel",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 40,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Cemig",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 27,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "ISA Energia",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 8,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Alupar",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 2,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Eneva",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 7,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Serena Energia",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 4,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Enel",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 10,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Sabesp",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 31,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Copasa",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 24,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Sanepar",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 21,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Aegea",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 7,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Vibra",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 7,
+   "erro": null,
+   "obs": null
+  },
+  {
+   "consulta": "Ultrapar",
+   "tipo": "empresa",
+   "via": "google",
+   "itens": 2,
+   "erro": null,
+   "obs": null
+  }
+ ],
+ "empresas": [
+  {
+   "nome": "Eletrobras (Axia)",
+   "ticker": "AXIA3"
+  },
+  {
+   "nome": "Equatorial",
+   "ticker": "EQTL3"
+  },
+  {
+   "nome": "Energisa",
+   "ticker": "ENGI11"
+  },
+  {
+   "nome": "CPFL",
+   "ticker": "CPFE3"
+  },
+  {
+   "nome": "Neoenergia",
+   "ticker": "NEOE3"
+  },
+  {
+   "nome": "Engie Brasil",
+   "ticker": "EGIE3"
+  },
+  {
+   "nome": "Taesa",
+   "ticker": "TAEE11"
+  },
+  {
+   "nome": "Auren",
+   "ticker": "AURE3"
+  },
+  {
+   "nome": "Copel",
+   "ticker": "CPLE3"
+  },
+  {
+   "nome": "Cemig",
+   "ticker": "CMIG4"
+  },
+  {
+   "nome": "ISA Energia",
+   "ticker": "ISAE4"
+  },
+  {
+   "nome": "Alupar",
+   "ticker": "ALUP11"
+  },
+  {
+   "nome": "Eneva",
+   "ticker": "ENEV3"
+  },
+  {
+   "nome": "Serena Energia",
+   "ticker": ""
+  },
+  {
+   "nome": "Enel",
+   "ticker": ""
+  },
+  {
+   "nome": "Sabesp",
+   "ticker": "SBSP3"
+  },
+  {
+   "nome": "Copasa",
+   "ticker": "CSMG3"
+  },
+  {
+   "nome": "Sanepar",
+   "ticker": "SAPR11"
+  },
+  {
+   "nome": "Aegea",
+   "ticker": ""
+  },
+  {
+   "nome": "Vibra",
+   "ticker": "VBBR3"
+  },
+  {
+   "nome": "Ultrapar",
+   "ticker": "UGPA3"
+  }
+ ]
+}
